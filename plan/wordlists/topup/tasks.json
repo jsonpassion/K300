@@ -1,0 +1,206 @@
+[
+ {
+  "band": "topik-1",
+  "units": [
+   {
+    "unit": 8,
+    "need": 7,
+    "theme": "Core verbs and adjectives"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-1-u008.md"
+ },
+ {
+  "band": "topik-2",
+  "units": [
+   {
+    "unit": 4,
+    "need": 11,
+    "theme": "Travel and transport"
+   },
+   {
+    "unit": 5,
+    "need": 11,
+    "theme": "Hobbies and weekends"
+   },
+   {
+    "unit": 7,
+    "need": 9,
+    "theme": "School and work life"
+   },
+   {
+    "unit": 8,
+    "need": 4,
+    "theme": "Frequency and time adverbs"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-2-u004.md"
+ },
+ {
+  "band": "topik-3",
+  "units": [
+   {
+    "unit": 3,
+    "need": 6,
+    "theme": "Economy basics"
+   },
+   {
+    "unit": 4,
+    "need": 2,
+    "theme": "Society and relationships"
+   },
+   {
+    "unit": 7,
+    "need": 18,
+    "theme": "Health and lifestyle"
+   },
+   {
+    "unit": 8,
+    "need": 8,
+    "theme": "Work and careers"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-3-u003.md"
+ },
+ {
+  "band": "topik-4",
+  "units": [
+   {
+    "unit": 2,
+    "need": 50,
+    "theme": "Economy and consumption"
+   },
+   {
+    "unit": 3,
+    "need": 26,
+    "theme": "Social issues"
+   },
+   {
+    "unit": 4,
+    "need": 1,
+    "theme": "Science and technology"
+   },
+   {
+    "unit": 6,
+    "need": 54,
+    "theme": "Labor and business"
+   },
+   {
+    "unit": 8,
+    "need": 12,
+    "theme": "Change and trends"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-4-u002.md"
+ },
+ {
+  "band": "topik-4",
+  "units": [
+   {
+    "unit": 10,
+    "need": 36,
+    "theme": "Adverbs of stance"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-4-u010.md"
+ },
+ {
+  "band": "topik-5",
+  "units": [
+   {
+    "unit": 2,
+    "need": 13,
+    "theme": "Regulation and countermeasures"
+   },
+   {
+    "unit": 3,
+    "need": 16,
+    "theme": "Public debate"
+   },
+   {
+    "unit": 6,
+    "need": 10,
+    "theme": "Welfare and inequality"
+   },
+   {
+    "unit": 9,
+    "need": 2,
+    "theme": "Formal verbs of cause"
+   },
+   {
+    "unit": 10,
+    "need": 23,
+    "theme": "Abstract Sino-Korean nouns"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-5-u002.md"
+ },
+ {
+  "band": "topik-5",
+  "units": [
+   {
+    "unit": 11,
+    "need": 18,
+    "theme": "Hedging and emphasis"
+   },
+   {
+    "unit": 12,
+    "need": 39,
+    "theme": "Essay vocabulary"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-5-u011.md"
+ },
+ {
+  "band": "topik-6",
+  "units": [
+   {
+    "unit": 1,
+    "need": 21,
+    "theme": "Discourse and ideology"
+   },
+   {
+    "unit": 2,
+    "need": 12,
+    "theme": "Philosophy and ethics"
+   },
+   {
+    "unit": 3,
+    "need": 17,
+    "theme": "Law and justice"
+   },
+   {
+    "unit": 6,
+    "need": 16,
+    "theme": "Science policy"
+   },
+   {
+    "unit": 7,
+    "need": 3,
+    "theme": "Literature and history"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-6-u001.md"
+ },
+ {
+  "band": "topik-6",
+  "units": [
+   {
+    "unit": 8,
+    "need": 23,
+    "theme": "Editorial rhetoric"
+   },
+   {
+    "unit": 9,
+    "need": 22,
+    "theme": "Nuanced formal verbs"
+   },
+   {
+    "unit": 12,
+    "need": 29,
+    "theme": "Near-synonym pairs"
+   }
+  ],
+  "target": "plan/wordlists/topup/topik-6-u008.md"
+ }
+]

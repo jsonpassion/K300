@@ -1,0 +1,102 @@
+# theme: Psychology
+# unit: voca-5-u008
+심리학 | simnihak
+무의식 | muuisik
+잠재의식 | jamjaeuisik
+자아 | jaa
+자존감 | jajongam
+열등감 | yeoldeunggam
+우월감 | uwolgam
+죄책감 | joechaekgam
+자책 | jachaek
+강박 | gangbak
+강박증 | gangbakjeung
+불안감 | burangam
+우울감 | uulgam
+무기력 | mugiryeok
+무력감 | muryeokgam
+좌절감 | jwajeolgam
+상실감 | sangsilgam
+허탈감 | heotalgam
+소외감 | soegam
+고립감 | goripgam
+친밀감 | chinmilgam
+안정감 | anjeonggam
+성취감 | seongchwigam
+효능감 | hyoneunggam
+동기 부여 | donggi buyeo
+내적 동기 | naejeok donggi
+욕구 | yokgu
+충동 | chungdong
+충동적 | chungdongjeok
+억압 | eogap
+억제 | eokje
+억누르다 | eongnureuda
+표출하다 | pyochulhada
+방어 기제 | bangeo gije
+투사 | tusa
+합리화 | hamnihwa
+회피 | hoepi
+회피하다 | hoepihada
+퇴행 | toehaeng
+트라우마 | teurauma
+외상 | oesang
+정신 질환 | jeongsin jilhwan
+공황 장애 | gonghwang jangae
+공포증 | gongpojeung
+대인 기피 | daein gipi
+사회성 | sahoeseong
+내향적 | naehyangjeok
+기질 | gijil
+성향 | seonghyang
+인격 | ingyeok
+정체감 | jeongchegam
+인지 | inji
+인지적 | injijeok
+착시 | chaksi
+확증 편향 | hwakjeung pyeonhyang
+망각 | manggak
+회상 | hoesang
+각인 | gagin
+주의력 | juuiryeok
+몰입 | morip
+정서 | jeongseo
+정서적 | jeongseojeok
+감정 이입 | gamjeong iip
+공감 능력 | gonggam neungnyeok
+동조 | dongjo
+순응 | suneung
+복종 | bokjong
+군중 심리 | gunjung simni
+심리적 | simnijeok
+불안정하다 | buranjeonghada
+민감하다 | mingamhada
+둔감하다 | dungamhada
+위축되다 | wichukdoeda
+움츠러들다 | umcheureodeulda
+의기소침하다 | uigisochimhada
+낙천적 | nakcheonjeok
+염세적 | yeomsejeok
+자기애 | jagiae
+공격성 | gonggyeokseong
+적대감 | jeokdaegam
+증오 | jeungo
+갈망 | galmang
+집착 | jipchak
+의존적 | uijonjeok
+통제력 | tongjeryeok
+자제력 | jajeryeok
+인내심 | innaesim
+회복 탄력성 | hoebok tallyeokseong
+내면 | naemyeon
+심리 치료 | simni chiryo
+심리 상담 | simni sangdam
+애착 | aechak
+유아기 | yuagi
+청소년기 | cheongsonyeongi
+반항 | banhang
+정신 건강 | jeongsin geongang
+번아웃 | beonaut
+탈진 | taljin
+심신 | simsin
+안도감 | andogam

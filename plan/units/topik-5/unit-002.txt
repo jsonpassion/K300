@@ -1,0 +1,102 @@
+# theme: Regulation and countermeasures
+# unit: voca-5-u002
+대응책 | daeeungchaek
+예방책 | yebangchaek
+억제하다 | eokjehada
+단속 | dansok
+처벌하다 | cheobeolhada
+징계 | jinggye
+제재 | jejae
+제재하다 | jejaehada
+과징금 | gwajinggeum
+벌칙 | beolchik
+위반하다 | wibanhada
+시행령 | sihaengnyeong
+법령 | beomnyeong
+조례 | jorye
+개정하다 | gaejeonghada
+개정안 | gaejeongan
+제정하다 | jejeonghada
+폐지하다 | pyejihada
+철폐 | cheolpye
+인가 | inga
+금지령 | geumjiryeong
+의무화하다 | uimuhwahada
+제도화 | jedohwa
+감시하다 | gamsihada
+적발 | jeokbal
+영업정지 | yeongeopjeongji
+허용하다 | heoyonghada
+용인하다 | yonginhada
+묵인하다 | muginhada
+방치하다 | bangchihada
+근절 | geunjeol
+근절하다 | geunjeolhada
+척결 | cheokgyeol
+차단하다 | chadanhada
+봉쇄 | bongswae
+제한적 | jehanjeok
+상한선 | sanghanseon
+하한선 | hahanseon
+기준치 | gijunchi
+허용치 | heoyongchi
+지침 | jichim
+수칙 | suchik
+강제성 | gangjeseong
+강제하다 | gangjehada
+자율성 | jayulseong
+실효성 | silhyoseong
+구속력 | gusongnyeok
+발효되다 | balhyodoeda
+유예 | yuye
+유예하다 | yuyehada
+보완책 | bowanchaek
+개선책 | gaeseonchaek
+미봉책 | mibongchaek
+근본적 | geunbonjeok
+방지책 | bangjichaek
+안전장치 | anjeonjangchi
+강구하다 | ganguhada
+모색하다 | mosaekada
+대처 | daecheo
+엄격하다 | eomgyeokada
+엄정하다 | eomjeonghada
+엄벌 | eombeol
+솜방망이 | sombangmangi
+감면 | gammyeon
+면제하다 | myeonjehada
+특례 | teungnye
+사각지대 | sagakjidae
+악용하다 | agyonghada
+남용 | namyong
+오남용 | onamyong
+편법 | pyeonbeop
+탈법 | talbeop
+적법하다 | jeokbeopada
+합법화 | hapbeopwa
+준법 | junbeop
+관행 | gwanhaeng
+소홀하다 | soholhada
+문책 | munchaek
+권고 | gwongo
+권고하다 | gwongohada
+시정 | sijeong
+시정하다 | sijeonghada
+당국 | dangguk
+무분별하다 | mubunbyeolhada
+난립 | nallip
+엄단 | eomdan
+일벌백계 | ilbeolbaekgye
+규제책 | gyujechaek
+징계하다 | jinggyehada
+규제 완화 | gyuje wanhwa
+규제 강화 | gyuje ganghwa
+제재 조치 | jejae jochi
+행정 처분 | haengjeong cheobun
+허가제 | heogaje
+신고제 | singoje
+감독 기관 | gamdok gigwan
+실태 조사 | siltae josa
+재발 방지 | jaebal bangji
+엄단하다 | eomdanhada
+불시 점검 | bulsi jeomgeom

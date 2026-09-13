@@ -1,0 +1,20 @@
+## unit-008 — Core verbs and adjectives
+어둡다 | eodupda
+두껍다 | dukkeopda
+얇다 | yalda
+젊다 | jeomda
+늙다 | neukda
+목마르다 | mongmareuda
+졸리다 | jollida
+잊다 | itda
+잃다 | ilta
+던지다 | deonjida
+누르다 | nureuda
+밀다 | milda
+당기다 | danggida
+새롭다 | saeropda
+굵다 | gukda
+가늘다 | ganeulda
+줍다 | jupda
+흔들다 | heundeulda
+세우다 | seuda
