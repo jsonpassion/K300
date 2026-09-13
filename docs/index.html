@@ -1,0 +1,591 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>SamGongGong — TOPIK Korean vocabulary, one round at a time</title>
+<meta name="description" content="SamGongGong (삼공공) is a Korean vocabulary app for the TOPIK. Pick your target level from 1 to 6, flip Korean word cards, and keep only the words you miss coming back until they stick. No sign-up; progress syncs with iCloud." />
+<meta property="og:title" content="SamGongGong — TOPIK Korean vocabulary" />
+<meta property="og:description" content="Pick a TOPIK level, flip Korean word cards, and review only the words you miss until they stick." />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://jsonpassion.github.io/K300/" />
+<link rel="canonical" href="https://jsonpassion.github.io/K300/" />
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect x='4' y='4' width='56' height='56' rx='12' fill='%23FFFFFF' stroke='%231A1A1A' stroke-width='5'/%3E%3Cpath d='M16 32a16 16 0 0 1 32 0a8 8 0 0 1-16 0a8 8 0 0 0-16 0z' fill='%23EF4B57'/%3E%3Cpath d='M48 32a16 16 0 0 1-32 0a8 8 0 0 0 16 0a8 8 0 0 1 16 0z' fill='%233F6FE0'/%3E%3C/svg%3E" />
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<script>document.documentElement.classList.add('js');</script>
+
+<!-- Soft drifting aurora + grain (atmosphere behind everything) -->
+<div class="aurora" aria-hidden="true">
+  <span class="blob b-blue"></span>
+  <span class="blob b-mint"></span>
+  <span class="blob b-lav"></span>
+  <span class="blob b-pink"></span>
+</div>
+<div class="grain" aria-hidden="true"></div>
+
+<!-- ======================= NAV ======================= -->
+<nav class="nav">
+  <div class="nav-inner">
+    <a class="logo" href="#">
+      <span class="logo-block">300</span> SamGongGong <span class="logo-kr" lang="ko">삼공공</span>
+    </a>
+    <div class="nav-links">
+      <a href="#how">How it works</a>
+      <a href="#features">Features</a>
+      <a href="#levels">Levels</a>
+      <a href="#demo">Try it</a>
+      <a href="#pricing">Pricing</a>
+      <a class="nb-btn nav-cta" href="#download">Download</a>
+    </div>
+  </div>
+</nav>
+
+<!-- ======================= HERO ======================= -->
+<header class="hero wrap" id="download">
+  <div data-reveal="up">
+    <span class="nb-tag" style="background: #DCE7FF; margin-bottom: 18px;">TOPIK vocabulary, Level 1 to Level 6</span>
+    <h1>Pick a level.<br /><span class="hl">Flip</span> the words<br />until they stick.</h1>
+    <p class="sub">
+      Maybe it started with K-pop. Maybe it's a Korean university, a job, or a visa.
+      Choose your TOPIK level, study its words book by book, and the ones you miss
+      <strong>keep coming back</strong> until you know them. No sign-up — your progress lives in iCloud.
+    </p>
+    <div class="kr-brand" aria-label="VOCA for TOPIK, SamGongGong">
+      <span class="kk" style="background: #DCE7FF;">V</span>
+      <span class="kk" style="background: #EF4B57;">O</span>
+      <span class="kk" style="background: #FFD9DC;">C</span>
+      <span class="kk" style="background: #3F6FE0;">A</span>
+      <span class="kk-for">for TOPIK</span>
+      <span class="kr-brand-label">300 points to aim for, <strong lang="ko">삼공공!</strong></span>
+    </div>
+    <div class="hero-ctas">
+      <span class="store-badge soon" aria-label="Coming soon to the App Store">
+        <svg width="22" height="26" viewBox="0 0 22 26" fill="currentColor" aria-hidden="true"><path d="M18.3 13.8c0-3 2.5-4.5 2.6-4.6-1.4-2.1-3.6-2.4-4.4-2.4-1.9-.2-3.7 1.1-4.6 1.1-1 0-2.4-1.1-4-1.1-2 0-3.9 1.2-5 3-2.1 3.7-.5 9.1 1.5 12.1 1 1.5 2.2 3.1 3.8 3 1.5-.1 2.1-1 4-1s2.4 1 4 .9c1.7 0 2.7-1.5 3.7-3 1.2-1.7 1.6-3.4 1.7-3.5-.1 0-3.2-1.2-3.3-4.5zM15.2 4.8c.8-1 1.4-2.4 1.2-3.8-1.2.1-2.7.8-3.5 1.8-.8.9-1.5 2.3-1.3 3.7 1.4.1 2.8-.7 3.6-1.7z"/></svg>
+        <span><small>Coming soon</small><span class="big">App Store</span></span>
+      </span>
+      <a class="nb-btn secondary" href="#levels">See the levels</a>
+    </div>
+  </div>
+
+  <div class="hero-visual" data-reveal="zoom">
+  <div class="glow" aria-hidden="true"></div>
+  <div class="reel reel-slot" aria-hidden="true">
+    <!-- onboarding footage slot: replace with <video> once assets/video/onboarding-loop.mp4 exists -->
+    <div class="slot-card"><b>300</b><span class="slot-eyes"><i></i><i></i></span></div>
+  </div>
+  <div class="phone" aria-hidden="true">
+    <div class="notch"></div>
+    <div class="mock-row score">
+      <div class="mock-ring"><span>162</span></div>
+      <div class="mock-bars">
+        Mastered <div class="mock-bar"><i style="width:64%; background: var(--mint);"></i></div>
+        This round <div class="mock-bar"><i style="width:72%; background: #3F6FE0;"></i></div>
+      </div>
+    </div>
+    <div class="mock-row mock-cta">▶ Continue studying <span>›</span></div>
+    <div class="mock-row" style="background: #FFD9DC;">⏱️ 3-second quiz on missed words</div>
+    <div class="mock-row">
+      Progress <span class="mock-chip" style="background: #FFAAB1;">Lv 4</span>
+      <div class="mock-books" style="margin-top:8px;">
+        <div class="mock-book">Book 1</div>
+        <div class="mock-book reading b2">Book 2</div>
+        <div class="mock-book b3">Book 3</div>
+        <div class="mock-book b4">Book 4</div>
+      </div>
+    </div>
+    <div class="mock-row" style="background: var(--surface);">12 missed words to clear <span class="mock-chip" style="background: var(--coral);">Review</span></div>
+  </div>
+  </div>
+</header>
+
+<!-- ======================= STATEMENT BAND 1 ======================= -->
+<section class="cinema" id="film" aria-label="Rounds">
+  <!-- wide film slot: replace with <video> once assets/video/hero-fan.mp4 exists -->
+  <div class="cinema-art" aria-hidden="true"></div>
+  <div class="scrim"></div>
+  <div class="cinema-inner">
+    <div class="cinema-copy">
+      <span class="kicker"><span lang="ko">회독</span> · reading it again</span>
+      <h2>See it. See it again.<br /><span class="film-hl">Until it stays.</span></h2>
+      <p>Flip through a book, go back to the start, and flip again. The words you miss move to the front every round.</p>
+      <div class="spines" aria-hidden="true">
+        <span class="spine" style="background: #DCE7FF;">Lv 1</span>
+        <span class="spine" style="background: #AFC8FF;">Lv 2</span>
+        <span class="spine" style="background: #FFD9DC;">Lv 3</span>
+        <span class="spine" style="background: #FFAAB1;">Lv 4</span>
+        <span class="spine" style="background: #7EA3F5;">Lv 5</span>
+        <span class="spine" style="background: #EF4B57;">Lv 6</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= STORY: scroll-linked card fan ======================= -->
+<section class="fan" id="story">
+  <div class="fan-inner">
+    <div class="fan-copy">
+      <span class="nb-tag" style="background: #DCE7FF;">Spaced rounds, not one-time flashcards</span>
+      <h2>A word you saw once fades.<br /><em>A word you saw ten times</em> stays.</h2>
+      <p>Every word you miss goes back to the top of the deck — as many times as it takes.</p>
+    </div>
+    <div class="fan-stage">
+      <div class="fan-deck" id="fanDeck">
+        <article class="fan-card" style="--a:-26deg; --x:-340px; --y:34px;">
+          <div class="fc-strip" style="background: #DCE7FF;"></div>
+          <b lang="ko">가족</b><span>family</span><i>gajok</i>
+          <span class="fc-badge" style="background: #DCE7FF;">Lv 1</span>
+        </article>
+        <article class="fan-card" style="--a:-15deg; --x:-196px; --y:8px;">
+          <div class="fc-strip" style="background: #AFC8FF;"></div>
+          <b lang="ko">약속</b><span>appointment</span><i>yaksok</i>
+          <span class="fc-badge" style="background: #AFC8FF;">Lv 2</span>
+        </article>
+        <article class="fan-card" style="--a:-5deg; --x:-66px; --y:-6px;">
+          <div class="fc-strip" style="background: #FFD9DC;"></div>
+          <b lang="ko">영향</b><span>influence</span><i>yeonghyang</i>
+          <span class="fc-badge" style="background: #FFD9DC;">Lv 3</span>
+        </article>
+        <article class="fan-card" style="--a:5deg; --x:66px; --y:-6px;">
+          <div class="fc-strip" style="background: #FFAAB1;"></div>
+          <b lang="ko">극복하다</b><span>to overcome</span><i>geukbokada</i>
+          <span class="fc-badge" style="background: #FFAAB1;">Lv 4</span>
+        </article>
+        <article class="fan-card" style="--a:15deg; --x:196px; --y:8px;">
+          <div class="fc-strip" style="background: #7EA3F5;"></div>
+          <b lang="ko">초래하다</b><span>to bring about</span><i>choraehada</i>
+          <span class="fc-badge" style="background: #7EA3F5;">Lv 5</span>
+        </article>
+        <article class="fan-card" style="--a:26deg; --x:340px; --y:34px;">
+          <div class="fc-strip" style="background: #EF4B57;"></div>
+          <b lang="ko">괴리</b><span>gap, disconnect</span><i>goeri</i>
+          <span class="fc-badge" style="background: #EF4B57;">Lv 6</span>
+        </article>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= HOW IT WORKS ======================= -->
+<section id="how">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>How it works</h2>
+      <p>Five minutes a day. Four steps.</p>
+    </div>
+    <div class="steps">
+      <div class="step"><div class="step-num" style="background: #3F6FE0;">1</div><h3>Pick your level</h3>
+        <p>Choose your target TOPIK level, or take a 12-question level test. Get hard words right and it places you higher.</p></div>
+      <div class="step"><div class="step-num" style="background: #FFD9DC;">2</div><h3>Flip a book</h3>
+        <p>The front shows only the Korean word. Say it, guess the meaning, then flip for the romanization, meaning, tip and an example.</p></div>
+      <div class="step"><div class="step-num" style="background: var(--coral);">3</div><h3>Only the misses again</h3>
+        <p>Missed words collect in one pile. Clear them with cards or the 3-second quiz — they don't leave until you know them.</p></div>
+      <div class="step"><div class="step-num" style="background: var(--mint);">4</div><h3>Stack up rounds</h3>
+        <p>Know a word two rounds in a row and it's mastered. Your shelf fills up one book at a time.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= FEATURES ======================= -->
+<section id="features" class="alt">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Not a word list — <u>a level-by-level shelf</u></h2>
+      <p>Memory isn't talent. It's how the repetition is designed.</p>
+    </div>
+    <div class="grid">
+      <div class="feature"><div class="strip" style="background: #3F6FE0;"></div><div class="icon" style="background: #3F6FE0;">📚</div><h3>A shelf for each level</h3>
+        <p>Level 1 has 8 books, Level 6 has 12. Spine colors show the level and a red bookmark shows where you are. 100 words and 10 chapters per book.</p></div>
+      <div class="feature"><div class="strip" style="background: var(--mint);"></div><div class="icon" style="background: var(--mint);">🔁</div><h3>Rounds</h3>
+        <p>Finish a book, start round 2, round 3. Go through everything or only what you missed. Two "Know it" rounds in a row and it's mastered.</p></div>
+      <div class="feature"><div class="strip" style="background: var(--coral);"></div><div class="icon" style="background: var(--coral);">🎯</div><h3>Missed words stay put</h3>
+        <p>Say "Don't know" and the word stays until you say "Know it". Clear the pile between chapters or right from the home screen.</p></div>
+      <div class="feature"><div class="strip" style="background: #FFD9DC;"></div><div class="icon" style="background: #FFD9DC;">⏱️</div><h3>3-second quiz</h3>
+        <p>If the meaning doesn't come in three seconds, you don't know it yet. The screen border runs down like a clock.</p></div>
+      <div class="feature"><span class="new-flag">NEW</span><div class="strip" style="background: var(--yellow);"></div><div class="icon" style="background: var(--yellow);">🗓️</div><h3>Daily 20</h3>
+        <p>Twenty random questions from everything you've opened. Old books sneak back in so nothing fades.</p></div>
+      <div class="feature"><div class="strip" style="background: #AFC8FF;"></div><div class="icon" style="background: #AFC8FF;">🔊</div><h3>Auto study</h3>
+        <p>Hands-free: it reads the Korean, flips to the English, then says the Korean twice more. Learn on your commute.</p></div>
+      <div class="feature"><div class="strip" style="background: #EF4B57;"></div><div class="icon" style="background: #EF4B57;">🎓</div><h3>Level test</h3>
+        <p>Two questions per level, weighted by difficulty. Get Level 6 words right and it recommends a higher starting point.</p></div>
+      <div class="feature"><div class="strip" style="background: var(--lime);"></div><div class="icon" style="background: var(--lime);">🔤</div><h3>Everything on one card</h3>
+        <p>Romanization, a tip on the hanja root or grammar pattern, a level-appropriate Korean example with translation, and native Korean audio.</p></div>
+      <div class="feature"><div class="strip" style="background: var(--mint);"></div><div class="icon" style="background: var(--mint);">☁️</div><h3>No account, nothing lost</h3>
+        <p>No sign-up. Progress, rounds and mastered words are saved to your own iCloud and come back after a reinstall.</p></div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= WHY TOPIK ======================= -->
+<section id="topics">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Why TOPIK levels?</h2>
+      <p>Korea's official Korean test is what schools, employers and immigration ask for. The levels give your study a finish line.</p>
+    </div>
+    <div class="topics">
+      <div class="topic" style="border-left-color: #DCE7FF;"><div class="t-icon" aria-hidden="true">💬</div><h4>Level 1</h4><small>Marriage immigrant visa</small><span class="t-count">TOPIK I · 80/200</span></div>
+      <div class="topic" style="border-left-color: #AFC8FF;"><div class="t-icon" aria-hidden="true">🧋</div><h4>Level 2</h4><small>Part-time work on a D-2 visa</small><span class="t-count">TOPIK I · 140/200</span></div>
+      <div class="topic" style="border-left-color: #FFD9DC;"><div class="t-icon" aria-hidden="true">🎓</div><h4>Level 3</h4><small>University admission</small><span class="t-count">TOPIK II · 120/300</span></div>
+      <div class="topic" style="border-left-color: #FFAAB1;"><div class="t-icon" aria-hidden="true">📜</div><h4>Level 4</h4><small>Graduating from a Korean university</small><span class="t-count">TOPIK II · 150/300</span></div>
+      <div class="topic" style="border-left-color: #7EA3F5;"><div class="t-icon" aria-hidden="true">🩺</div><h4>Level 5</h4><small>Professional licenses</small><span class="t-count">TOPIK II · 190/300</span></div>
+      <div class="topic" style="border-left-color: #EF4B57;"><div class="t-icon" aria-hidden="true">🏫</div><h4>Level 6</h4><small>Teaching Korean</small><span class="t-count">TOPIK II · 230/300</span></div>
+    </div>
+    <p class="topics-note">
+      The card front shows <strong>only the Korean</strong>, so you practice reading Hangul, not the romanization.
+      Tips point at what makes a word click: its hanja root, the particle it takes, the word it's confused with.
+    </p>
+  </div>
+</section>
+
+<!-- ======================= LEVELS ======================= -->
+<section id="levels" class="alt">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Choose a level, not a score</h2>
+      <p>TOPIK I (Levels 1–2) is scored out of 200 and TOPIK II (Levels 3–6) out of 300. The app shows your estimated score against the cutoff for the level you chose.</p>
+    </div>
+    <div class="levels levels-6">
+      <div class="level"><div class="chip" style="background: #DCE7FF;"></div><h4>Level 1</h4><small>Beginner · 8 books</small></div>
+      <div class="level"><div class="chip" style="background: #AFC8FF;"></div><h4>Level 2</h4><small>Elementary · 8 books</small></div>
+      <div class="level"><div class="chip" style="background: #FFD9DC;"></div><h4>Level 3</h4><small>Intermediate · 10 books</small></div>
+      <div class="level"><div class="chip" style="background: #FFAAB1;"></div><h4>Level 4</h4><small>Upper-int. · 10 books</small></div>
+      <div class="level"><div class="chip" style="background: #7EA3F5;"></div><h4>Level 5</h4><small>Advanced · 12 books</small></div>
+      <div class="level"><div class="chip" style="background: #EF4B57;"></div><h4>Level 6</h4><small>Mastery · 12 books</small></div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= LIVE DEMO ======================= -->
+<section id="demo">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Try it before you download</h2>
+      <p>The app's signature 3-second rule. Can't pick in three seconds? You don't know it yet.</p>
+    </div>
+    <div class="demo-card">
+      <div class="demo-timer" id="demoTimer"><i id="demoTimerFill"></i></div>
+      <div class="demo-meta"><span id="demoCount">6 words, 3 seconds each</span><span id="demoTag">TOPIK Level 3</span></div>
+      <div id="demoStage" class="demo-center">
+        <p style="color: var(--body); font-weight: 700; margin: 18px 0 22px;">Six Korean words, three seconds each.<br />Same rules as the app.</p>
+        <button class="nb-btn" id="demoStart">Start the quiz</button>
+      </div>
+      <p class="demo-note" id="demoNote"></p>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= STATEMENT BAND 2 ======================= -->
+<section class="cinema center" id="closing" aria-label="Start now">
+  <div class="cinema-art art-b" aria-hidden="true"></div>
+  <div class="scrim"></div>
+  <div class="cinema-inner">
+    <div class="cinema-copy">
+      <span class="kicker">Five minutes a day</span>
+      <h2>One word today,<br /><span class="film-hl">one level closer.</span></h2>
+      <p>On the bus, in a café, before bed. Short and often, until it sticks.</p>
+      <div class="cinema-ctas">
+        <a class="nb-btn" href="#pricing">See pricing</a>
+        <a class="nb-btn secondary" href="#download">Get notified</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= PRICING ======================= -->
+<section id="pricing" class="alt">
+  <div class="wrap">
+    <div class="sec-head">
+      <h2>Free to start. Keep it forever if you like.</h2>
+      <p>Book 1 of every level is free. After that, choose yearly, monthly or lifetime — all three unlock the same things.</p>
+    </div>
+    <div class="pricing">
+      <div class="price-card">
+        <h3>Start free</h3>
+        <div class="price">$0</div>
+        <ul>
+          <li>Book 1 of every level: 100 words, 10 chapters</li>
+          <li>Rounds, missed words and the 3-second quiz</li>
+          <li>Daily 20 and the level test, unlimited</li>
+          <li>No account, no ads</li>
+        </ul>
+        <a class="nb-btn" href="#download" style="margin-top: 22px;">Coming soon</a>
+      </div>
+      <div class="price-card hot">
+        <span class="sale-badge">Yearly · best value</span>
+        <h3>SamGongGong Pro</h3>
+        <div class="price">Yearly<span style="font-size:0.45em; font-weight:800;"> plan</span></div>
+        <div class="price-note">Monthly and lifetime plans too · prices shown in your App Store currency</div>
+        <ul>
+          <li>All 6 levels · 6,000 words · every book and chapter</li>
+          <li>Unlimited rounds, reviews and quizzes</li>
+          <li>Cancel a subscription anytime; keep access until the period ends</li>
+          <li>Lifetime: pay once, yours forever</li>
+        </ul>
+        <a class="nb-btn secondary" href="#download" style="margin-top: 22px;">Coming soon</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= FAQ ======================= -->
+<section>
+  <div class="wrap">
+    <div class="sec-head"><h2>FAQ</h2></div>
+    <div class="faq">
+      <details><summary>Is this an official TOPIK app?</summary>
+        <p>No. SamGongGong is an independent study tool made by ForgeLab. It is not affiliated with, endorsed or approved by the National Institute for International Education (NIIED), which administers TOPIK. The test name is used only to describe what the app helps you prepare for. All content is original and contains no real test questions.</p></details>
+      <details><summary>Why pick a level instead of a score?</summary>
+        <p>TOPIK doesn't give one number on one scale: TOPIK I (Levels 1–2) is scored out of 200 and TOPIK II (Levels 3–6) out of 300, and each level has its own cutoff. So the app lets you choose the level you're aiming for and tracks your estimated score against that level's cutoff. You can switch levels anytime; progress is saved per level.</p></details>
+      <details><summary>Why isn't the romanization on the front?</summary>
+        <p>So you read Hangul. The front shows only the Korean word; flip it to see the romanization, English meaning, a tip and an example sentence. Romanization is a crutch for pronunciation, not something to read instead of Korean.</p></details>
+      <details><summary>Do I need an account?</summary>
+        <p>No. Your study data is stored in your own iCloud, purchases go through your Apple Account, and nothing is stored on our servers.</p></details>
+      <details><summary>What's free?</summary>
+        <p><strong>Book 1 of every level (10 chapters, 100 words)</strong>, with every feature: rounds, missed-word reviews, the 3-second quiz, Daily 20 and the level test. Books 2 and up need a yearly, monthly or lifetime plan — all three unlock the same content.</p></details>
+      <details><summary>How do subscriptions and refunds work?</summary>
+        <p>Yearly and monthly plans renew automatically until you cancel in Settings › Apple Account › Subscriptions; you keep access until the end of the paid period. Lifetime is a one-time purchase. Refunds follow Apple's policy and can be requested at <a href="https://reportaproblem.apple.com">reportaproblem.apple.com</a>.</p></details>
+      <details><summary>Does it work offline?</summary>
+        <p>Yes. Words are cached on your device after the first download.</p></details>
+    </div>
+  </div>
+</section>
+
+<!-- ======================= FOOTER ======================= -->
+<footer>
+  <div class="wrap">
+    <span style="font-weight: 900;">SamGongGong <span lang="ko">삼공공</span></span>
+    <a href="privacy.html">Privacy Policy</a>
+    <a href="terms.html">Terms of Use</a>
+    <a class="contact-btn" href="mailto:forgelab.aitech@gmail.com?subject=%5BSamGongGong%5D%20Support">✉️ Contact</a>
+    <span style="margin-left:auto;">© 2026 ForgeLab</span>
+    <span class="biz">ForgeLab · Jason Lee</span>
+    <span class="ets">TOPIK (Test of Proficiency in Korean) is administered by the National Institute for International Education (NIIED), Republic of Korea. This app and site are not affiliated with, endorsed or approved by NIIED; the name is used only to describe the product's purpose.</span>
+  </div>
+</footer>
+
+<script>
+/* ---------- Scroll spy: highlight the nav link of the section in view ---------- */
+(function () {
+  var links = Array.prototype.slice.call(document.querySelectorAll('.nav-links a[href^="#"]'));
+  var byId = {};
+  links.forEach(function (a) { byId[a.getAttribute('href').slice(1)] = a; });
+
+  var targets = Object.keys(byId)
+    .map(function (id) { return document.getElementById(id); })
+    .filter(Boolean);
+
+  var observer = new IntersectionObserver(function (entries) {
+    entries.forEach(function (entry) {
+      if (!entry.isIntersecting) return;
+      links.forEach(function (a) { a.classList.remove('active'); });
+      var link = byId[entry.target.id];
+      if (link) link.classList.add('active');
+    });
+  }, { rootMargin: '-40% 0px -55% 0px' });
+
+  targets.forEach(function (t) { observer.observe(t); });
+})();
+
+/* ---------- Scroll reveals: tag groups, animate them in on enter ---------- */
+(function () {
+  if (!('IntersectionObserver' in window)) return;
+
+  // Assign reveal variant + stagger index without touching the HTML.
+  function tag(sel, variant, perRow) {
+    var els = Array.prototype.slice.call(document.querySelectorAll(sel));
+    els.forEach(function (el, i) {
+      el.classList.add('reveal');
+      var v = typeof variant === 'function' ? variant(i) : variant;
+      el.classList.add(v);
+      el.style.setProperty('--i', perRow ? (i % perRow) : i);
+    });
+    return els;
+  }
+
+  var groups = [].concat(
+    tag('.sec-head', 'r-up'),
+    tag('.step', 'r-up', 4),
+    // features deal in from alternating sides, like a hand of cards
+    tag('.feature', function (i) { return i % 2 ? 'r-right' : 'r-left'; }, 3),
+    tag('.topic', 'r-up', 5),
+    tag('.level', 'r-up', 4),
+    tag('.shots > div', 'r-up', 3),
+    tag('.price-card', 'r-up', 2),
+    tag('.faq details', 'r-up', 1)
+  );
+
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { e.target.classList.add('in'); io.unobserve(e.target); }
+    });
+  }, { rootMargin: '0px 0px -12% 0px', threshold: 0.15 });
+
+  groups.forEach(function (el) { io.observe(el); });
+})();
+
+/* ---------- Play the film only while it is on screen ---------- */
+(function () {
+  var vids = Array.prototype.slice.call(document.querySelectorAll('.cinema video, .reel video'));
+  if (!vids.length) return;
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  if (reduce) { vids.forEach(function (v) { v.pause(); v.removeAttribute('autoplay'); }); return; }
+  if (!('IntersectionObserver' in window)) return;
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      var v = e.target;
+      if (e.isIntersecting) { var p = v.play(); if (p && p.catch) p.catch(function () {}); }
+      else { v.pause(); }
+    });
+  }, { threshold: 0.2 });
+  vids.forEach(function (v) { io.observe(v); });
+})();
+
+/* ---------- Signature: scroll-linked card fan ---------- */
+(function () {
+  var section = document.getElementById('story');
+  var deck = document.getElementById('fanDeck');
+  if (!section || !deck) return;
+  if (window.matchMedia('(prefers-reduced-motion: reduce)').matches) return;
+
+  var ticking = false;
+  function update() {
+    ticking = false;
+    var rect = section.getBoundingClientRect();
+    var vh = window.innerHeight;
+    // 0 while the sticky stage first pins, 1 as the track scrolls past.
+    var travel = rect.height - vh;
+    var p = travel > 0 ? (-rect.top) / travel : 0;
+    p = Math.max(0, Math.min(1, p));
+    // ease so the spread feels like it "settles" open
+    var eased = 1 - Math.pow(1 - p, 2);
+    deck.style.setProperty('--p', eased.toFixed(4));
+  }
+  function onScroll() {
+    if (!ticking) { ticking = true; requestAnimationFrame(update); }
+  }
+  window.addEventListener('scroll', onScroll, { passive: true });
+  window.addEventListener('resize', onScroll);
+  update();
+})();
+
+/* ---------- 3-second quiz demo (same rules as the app's WordQuizView) ---------- */
+(function () {
+  var QUESTIONS = [
+    { w: '영향',   o: ['influence', 'solution', 'comparison', 'cooperation'], a: 0 },
+    { w: '기회',   o: ['plan', 'opportunity', 'result', 'culture'], a: 1 },
+    { w: '줄이다', o: ['to increase', 'to solve', 'to reduce', 'to join'], a: 2 },
+    { w: '대신',   o: ['especially', 'instead', 'gradually', 'already'], a: 1 },
+    { w: '다양하다', o: ['to be quiet', 'to be diverse', 'to be kind', 'to be serious'], a: 1 },
+    { w: '원인',   o: ['cause', 'society', 'economy', 'relationship'], a: 0 }
+  ];
+  var LIMIT = 3000, REVEAL = 900;
+
+  var stage = document.getElementById('demoStage');
+  var timer = document.getElementById('demoTimer');
+  var fill = document.getElementById('demoTimerFill');
+  var count = document.getElementById('demoCount');
+  var note = document.getElementById('demoNote');
+  var idx = 0, score = 0, timers = [];
+
+  document.getElementById('demoStart').addEventListener('click', start);
+
+  function clearTimers() { timers.forEach(clearTimeout); timers = []; }
+
+  function start() {
+    idx = 0; score = 0;
+    note.textContent = '';
+    show();
+  }
+
+  function resetBar() {
+    timer.classList.remove('warn', 'hot');
+    fill.style.transition = 'none';
+    fill.style.width = '100%';
+    void fill.offsetWidth; /* reflow, restarts the transition */
+    fill.style.transition = 'width ' + LIMIT + 'ms linear';
+    fill.style.width = '0%';
+  }
+
+  function show() {
+    clearTimers();
+    var q = QUESTIONS[idx];
+    count.textContent = (idx + 1) + ' / ' + QUESTIONS.length;
+    note.textContent = '';
+    stage.classList.remove('demo-center');
+    stage.innerHTML = '<div class="demo-word" lang="ko">' + q.w + '</div>' +
+      q.o.map(function (opt, i) {
+        return '<button class="demo-opt" data-i="' + i + '">' + opt + '</button>';
+      }).join('');
+    stage.querySelectorAll('.demo-opt').forEach(function (btn) {
+      btn.addEventListener('click', function () { answer(parseInt(btn.dataset.i, 10)); });
+    });
+    resetBar();
+    timers.push(setTimeout(function () { timer.classList.add('warn'); }, LIMIT / 3));
+    timers.push(setTimeout(function () { timer.classList.add('hot'); }, LIMIT * 2 / 3));
+    timers.push(setTimeout(timeUp, LIMIT));
+  }
+
+  function freezeBar() {
+    var w = getComputedStyle(fill).width;
+    fill.style.transition = 'none';
+    fill.style.width = w;
+  }
+
+  function reveal(picked) {
+    clearTimers();
+    freezeBar();
+    var q = QUESTIONS[idx];
+    stage.querySelectorAll('.demo-opt').forEach(function (btn, i) {
+      btn.disabled = true;
+      if (i === q.a) btn.classList.add('correct');
+      else if (i === picked) btn.classList.add('wrong');
+    });
+  }
+
+  function answer(i) {
+    var q = QUESTIONS[idx];
+    reveal(i);
+    if (i === q.a) { score++; note.textContent = 'Correct! The app marks it "Know it".'; }
+    else { note.textContent = 'Not quite. In the app it stays in your missed words and comes back.'; }
+    timers.push(setTimeout(next, REVEAL));
+  }
+
+  function timeUp() {
+    reveal(-1);
+    note.textContent = '⏰ Time\'s up! No answer in 3 seconds means you don\'t know it yet.';
+    timers.push(setTimeout(next, REVEAL + 200));
+  }
+
+  function next() {
+    idx++;
+    if (idx < QUESTIONS.length) { show(); return; }
+    finish();
+  }
+
+  function finish() {
+    clearTimers();
+    fill.style.transition = 'none';
+    fill.style.width = '100%';
+    timer.classList.remove('warn', 'hot');
+    count.textContent = 'Done';
+    stage.classList.add('demo-center');
+    var msg = score === QUESTIONS.length
+      ? 'Perfect. See you at the higher levels.'
+      : (QUESTIONS.length - score) + ' missed — in the app they come back until they stick.';
+    stage.innerHTML =
+      '<div class="demo-score">' + score + ' / ' + QUESTIONS.length + '</div>' +
+      '<p style="color: var(--body); font-weight: 700; margin-bottom: 20px;">' + msg + '</p>' +
+      '<div style="display: flex; gap: 14px; justify-content: center; flex-wrap: wrap;">' +
+        '<button class="nb-btn" id="demoRetry">Try again</button>' +
+        '<a class="nb-btn mint" href="#levels">See the levels</a>' +
+      '</div>';
+    note.textContent = '';
+    document.getElementById('demoRetry').addEventListener('click', start);
+  }
+})();
+</script>
+
+</body>
+</html>

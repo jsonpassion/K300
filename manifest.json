@@ -1,0 +1,152 @@
+{
+  "version": "c-aa90bee11d48",
+  "generated_at": "2026-09-13T14:52:36Z",
+  "schema_version": 1,
+  "track": "topik-300",
+  "profile": {
+    "target_score": 300,
+    "daily_study_minutes": 5,
+    "voca_review_rule": "hoedok-rounds",
+    "free_chapters": 10
+  },
+  "score_band_policy": {
+    "version": "3.0",
+    "rule": "six-level",
+    "bands": [
+      {
+        "id": "topik-1",
+        "label": "Lv 1",
+        "min_score": 0,
+        "max_score": 200,
+        "order": 1
+      },
+      {
+        "id": "topik-2",
+        "label": "Lv 2",
+        "min_score": 0,
+        "max_score": 200,
+        "order": 2
+      },
+      {
+        "id": "topik-3",
+        "label": "Lv 3",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 3
+      },
+      {
+        "id": "topik-4",
+        "label": "Lv 4",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 4
+      },
+      {
+        "id": "topik-5",
+        "label": "Lv 5",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 5
+      },
+      {
+        "id": "topik-6",
+        "label": "Lv 6",
+        "min_score": 0,
+        "max_score": 300,
+        "order": 6
+      }
+    ]
+  },
+  "entries": [
+    {
+      "id": "voca-1-u001",
+      "type": "voca",
+      "level": 1,
+      "path": "content/voca/topik-1/unit-001.md",
+      "checksum_sha256": "088c34440e3a364ec212fb5de0de24499f9e0e6ddb75b39561164004321b0170",
+      "updated_at": "2026-09-13T00:00:00Z",
+      "score_band_id": "topik-1",
+      "score_min": 0,
+      "score_max": 200,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-2-u001",
+      "type": "voca",
+      "level": 2,
+      "path": "content/voca/topik-2/unit-001.md",
+      "checksum_sha256": "77c9a10eab641bd19141769300552f7a27765c2f0a6f6d828691776306a2fa90",
+      "updated_at": "2026-09-13T00:00:00Z",
+      "score_band_id": "topik-2",
+      "score_min": 0,
+      "score_max": 200,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-3-u001",
+      "type": "voca",
+      "level": 3,
+      "path": "content/voca/topik-3/unit-001.md",
+      "checksum_sha256": "a3c1c192f5313179db6bc28f8251363dbda072cc1ef3cf118389543e7c245a82",
+      "updated_at": "2026-09-13T00:00:00Z",
+      "score_band_id": "topik-3",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-4-u001",
+      "type": "voca",
+      "level": 4,
+      "path": "content/voca/topik-4/unit-001.md",
+      "checksum_sha256": "9b1d6197eb02bf43a88f41dde8f96e90abba95299a34c334091086ad19a88d93",
+      "updated_at": "2026-09-13T00:00:00Z",
+      "score_band_id": "topik-4",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-5-u001",
+      "type": "voca",
+      "level": 5,
+      "path": "content/voca/topik-5/unit-001.md",
+      "checksum_sha256": "25927ee9eabfdd990cffde01474cdf92b387890b9e9f8bd339a7fbd5783551a2",
+      "updated_at": "2026-09-13T00:00:00Z",
+      "score_band_id": "topik-5",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    },
+    {
+      "id": "voca-6-u001",
+      "type": "voca",
+      "level": 6,
+      "path": "content/voca/topik-6/unit-001.md",
+      "checksum_sha256": "5b7b36db05ea7558c943ebc47872627fd6b43b47006c1cc74a649c487d0b0705",
+      "updated_at": "2026-09-13T00:00:00Z",
+      "score_band_id": "topik-6",
+      "score_min": 0,
+      "score_max": 300,
+      "unit_title": null,
+      "unit_title_ko": null,
+      "unit_symbol": null,
+      "sequence": 1
+    }
+  ]
+}
