@@ -1,4 +1,4 @@
-# SamGongGong 이용약관 / Terms of Service
+# TOPIK VOCA 이용약관 / Terms of Service
 
 **시행일:** 2026년 9월 10일
 **Effective Date:** September 10, 2026
@@ -9,12 +9,12 @@
 
 ### 1. 서비스 개요
 
-삼공공(이하 "앱")은 한국어능력시험(TOPIK) 대비 한국어 어휘 학습을 돕기 위해 독립적으로 개발된 iOS 애플리케이션입니다. 앱은 한국어능력시험을 주관하는 국립국제교육원과 무관합니다. 앱은 레벨(점수대)별 학습 콘텐츠를 제공하며, 레벨은 1급부터 6급까지 여섯 급. 각 레벨의 단어는 생물학, 천문학, 물리학처럼 학문 주제별 책으로 묶여 있고, 첫 주제 책은 무료로, 나머지 주제 책은 앱 내 구매(이용권)를 통해 이용할 수 있습니다.
+TOPIK VOCA(이하 "앱")는 한국어능력시험(TOPIK) 대비 한국어 어휘 학습을 돕기 위해 독립적으로 개발된 iOS 애플리케이션입니다. 앱은 한국어능력시험을 주관하는 국립국제교육원과 무관합니다. 앱은 레벨(급)별 학습 콘텐츠를 제공하며, 레벨은 TOPIK I(1–2급)과 TOPIK II(3–6급)를 합쳐 1급부터 6급까지 여섯 개입니다. 단어는 레벨마다 번호가 매겨진 권으로 묶여 있으며(전체 60권, 1권 = 100단어, 10단어 = 1챕터), 각 레벨의 1권은 무료로, 나머지 권은 앱 내 구매(이용권)를 통해 이용할 수 있습니다.
 
 ### 2. 무료 이용 범위와 앱 내 구매
 
-- **무료 범위:** 사용자가 선택한 레벨의 **1권 전체(10챕터, 100단어)** 를 무료로 이용할 수 있습니다. 회독, 모름 단어 복습, 3초 퀴즈, 레벨 테스트 등 앱의 기능은 무료 범위 안에서 제한 없이 동작하며, 기능별 추가 결제는 없습니다.
-- **유료 범위:** 2권부터 이용하려면 이용권이 필요합니다. 이용권은 **연간 구독**, **월간 구독**, **평생 이용권** 중 하나이며, 어느 것이든 4개 레벨의 모든 주제 책이 전부 열립니다. 무료 체험 기간은 제공하지 않습니다.
+- **무료 범위:** 각 레벨의 **1권 전체(10챕터, 100단어)** 를 무료로 이용할 수 있습니다. 회독, 모름 단어 복습, 3초 퀴즈, 레벨 테스트 등 앱의 기능은 무료 범위 안에서 제한 없이 동작하며, 기능별 추가 결제는 없습니다.
+- **유료 범위:** 2권부터 이용하려면 이용권이 필요합니다. 이용권은 **연간 구독**, **월간 구독**, **평생 이용권** 중 하나이며, 어느 것이든 6개 레벨의 모든 권(60권)이 전부 열립니다. 무료 체험 기간은 제공하지 않습니다.
 - 무료로 열리는 챕터 수는 콘텐츠 구성에 따라 변경될 수 있으며, 변경 시 앱 내 표기를 기준으로 합니다. 이미 구매한 이용권의 범위는 축소되지 않습니다.
 - **자동 갱신 구독(월간, 연간):** 현재 구독 기간이 끝나기 24시간 전까지 해지하지 않으면 같은 기간과 같은 가격으로 자동 갱신되며, 갱신 대금은 기간 종료 전 24시간 이내에 사용자의 Apple 계정에 청구됩니다. 해지는 iOS 설정 > Apple 계정 > 구독에서 언제든 할 수 있고, 해지하더라도 이미 결제한 기간이 끝날 때까지 계속 이용할 수 있습니다. 앱을 삭제하는 것만으로는 구독이 해지되지 않습니다.
 - **평생 이용권:** 1회 결제로 영구적으로 이용하는 비소모성(Non-Consumable) 상품입니다. 자동 갱신되지 않으며 추가 결제가 발생하지 않습니다.
@@ -34,7 +34,7 @@
 
 - 앱의 학습 콘텐츠는 네트워크를 통해 다운로드되며 기기에 캐시됩니다.
 - 콘텐츠는 사전 고지 없이 추가되거나 수정될 수 있습니다.
-- 한국어능력시험(TOPIK)은 대한민국 국립국제교육원이 주관하는 시험입니다. 본 앱은 "시험 대비"라는 서비스의 목적을 설명하기 위한 서술적 용도로만 상표를 언급하며, 국립국제교육원와 무관하고 국립국제교육원의 제휴나 보증, 승인을 받지 않았습니다.
+- TOPIK(한국어능력시험)은 대한민국 국립국제교육원(NIIED)의 등록 상표이며, 국립국제교육원이 주관하는 시험입니다. 앱 이름을 비롯해 앱에 쓰인 "TOPIK"은 콘텐츠가 대비하는 시험을 나타내기 위한 서술적 용도로만 사용되며, 앱은 국립국제교육원과 무관하고 국립국제교육원의 제휴나 보증, 승인을 받지 않았습니다.
 - 모든 학습 콘텐츠는 자체 제작이며, 실제 시험의 기출문제를 포함하지 않습니다.
 
 ### 5. 면책
@@ -54,7 +54,7 @@
 
 - 사업자: ForgeLab (대표 Jason Lee)
 
-- 문의: [이메일 보내기](mailto:forgelab.aitech@gmail.com?subject=%5BSamGongGong%5D%20%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80%20%EB%AC%B8%EC%9D%98)
+- 문의: [이메일 보내기](mailto:forgelab.aitech@gmail.com?subject=%5BTOPIK%20VOCA%5D%20%EC%9D%B4%EC%9A%A9%EC%95%BD%EA%B4%80%20%EB%AC%B8%EC%9D%98)
 
 ---
 
@@ -62,12 +62,12 @@
 
 ### 1. Service Overview
 
-SamGongGong ("the App") is an independently developed iOS application that helps users study Korean vocabulary in preparation for the Test of Proficiency in Korean (TOPIK). The App is not affiliated with, endorsed or approved by the National Institute for International Education (NIIED). The App provides study content organized by level (score band), and there are four levels: 0-60, 61-80, 81-100 and 101-120. Within each level the words are grouped into subject books such as Biology, Astronomy and Physics; the first subject book is free, and the remaining subject books can be unlocked through an in-app purchase (a pass).
+TOPIK VOCA ("the App") is an independently developed iOS application that helps users study Korean vocabulary in preparation for the Test of Proficiency in Korean (TOPIK). The App is not affiliated with, endorsed or approved by the National Institute for International Education (NIIED). The App provides study content organized by level, and there are six levels: TOPIK I covers Levels 1–2 and TOPIK II covers Levels 3–6. Within each level the words are grouped into numbered books (60 books in total, 100 words per book, 10 words = 1 chapter); Book 1 of each level is free, and the remaining books can be unlocked through an in-app purchase (a pass).
 
 ### 2. Free Tier and In-App Purchases
 
-- **Free tier:** the first subject book of the level you choose (10 chapters, 100 words) is free in full. Every feature, including rounds, weak-word review, the 3-second quiz and the level test, works without limits inside the free tier, and no feature is sold separately.
-- **Paid tier:** subject books from the second one onward require a pass: a **yearly subscription**, a **monthly subscription**, or a **lifetime pass**. Each of them unlocks every subject book across the four levels. No free trial is offered.
+- **Free tier:** Book 1 of each level (10 chapters, 100 words) is free in full. Every feature, including rounds, weak-word review, the 3-second quiz and the level test, works without limits inside the free tier, and no feature is sold separately.
+- **Paid tier:** Book 2 onward in each level requires a pass: a **yearly subscription**, a **monthly subscription**, or a **lifetime pass**. Each of them unlocks every book (all 60) across the six levels. No free trial is offered.
 - The number of free chapters may change with the content lineup; the in-app label is authoritative. A pass you have already bought is never reduced in scope.
 - **Auto-renewable subscriptions (monthly, yearly):** Unless cancelled at least 24 hours before the end of the current period, the subscription renews automatically for the same period at the same price, and the renewal is charged to your Apple Account within 24 hours before the period ends. You can cancel at any time in iOS Settings > Apple Account > Subscriptions and keep access until the paid period ends. Deleting the app does not cancel a subscription.
 - **Lifetime pass:** a one-time, non-consumable purchase. It never renews and carries no further charges.
@@ -87,7 +87,7 @@ SamGongGong ("the App") is an independently developed iOS application that helps
 
 - Study content is downloaded over the network and cached on the device.
 - Content may be added or modified without prior notice.
-- TOPIK is administered by the National Institute for International Education (NIIED), Republic of Korea. The mark is used solely in a descriptive (nominative) manner to indicate the purpose of the App, which is test preparation. This App is not affiliated with, endorsed, or approved by 국립국제교육원.
+- TOPIK is a registered trademark of the National Institute for International Education (NIIED), Republic of Korea, which administers the test. "TOPIK" is used in the App's name and elsewhere in the App solely in a descriptive (nominative) manner, to indicate the exam the content prepares for. The App is not affiliated with, endorsed, or approved by NIIED.
 - All study content is originally created and does not include actual test questions.
 
 ### 5. Disclaimer
@@ -107,4 +107,4 @@ These Terms are governed by the laws of the Republic of Korea. If a dispute aris
 
 - Operator: ForgeLab (Representative: Jason Lee)
 
-- Contact: [Send us an email](mailto:forgelab.aitech@gmail.com?subject=%5BSamGongGong%5D%20Terms%20inquiry)
+- Contact: [Send us an email](mailto:forgelab.aitech@gmail.com?subject=%5BTOPIK%20VOCA%5D%20Terms%20inquiry)

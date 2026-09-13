@@ -1,6 +1,6 @@
-# SamGongGong Content — TOPIK Korean vocabulary content
+# TOPIK VOCA Content — TOPIK Korean vocabulary content
 
-> **SamGongGong(삼공공)** — TOPIK II 만점 300에서 따온 이름. 앱 화면 언어는 영어(미국 학습자 대상).
+> **TOPIK VOCA** — 영어권 학습자를 위한 TOPIK 한국어 어휘 앱. 앱 화면 언어는 영어(미국 학습자 대상).
 > [NINE90](https://github.com/jsonpassion/NINE90)(TOEIC 트랙)과 동일한 콘텐츠 파이프라인을 쓰는
 > TOPIK 트랙 리포지토리 — 앱은 manifest URL 하나로 이 리포의 콘텐츠를 통째로 동기화합니다.
 
@@ -68,8 +68,9 @@ git add content plan manifest.json && git commit && git push
 
 ## 상표 고지
 
-한국어능력시험(TOPIK)은 대한민국 국립국제교육원이 주관하는 시험입니다. 이 리포지토리와 관련 앱은
-국립국제교육원와 무관하며, 국립국제교육원의 제휴·보증·승인을 받지 않았습니다. 모든 콘텐츠는 자체 제작이며
+TOPIK(한국어능력시험)은 대한민국 국립국제교육원(NIIED)의 등록 상표이며, 국립국제교육원이 주관하는 시험입니다.
+앱 이름의 "TOPIK"은 콘텐츠가 대비하는 시험을 나타내기 위한 서술적 용도로만 쓰입니다. 이 리포지토리와 관련 앱은
+국립국제교육원과 무관하며, 국립국제교육원의 제휴·보증·승인을 받지 않았습니다. 모든 콘텐츠는 자체 제작이며
 실제 기출문제를 포함하지 않습니다.
 
 © 2026 ForgeLab
