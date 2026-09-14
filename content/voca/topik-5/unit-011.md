@@ -50,7 +50,7 @@ score_max: 300
 - 잠정적 | provisional, tentative | jamjeongjeok | 暫定: 暫 = for a while; 잠정적 합의, 잠정 중단 | 양측은 임금 인상에 잠정적으로 합의했습니다. | Both sides tentatively agreed on a wage increase.
 - 단언하다 | to assert, to state definitively | daneonhada | 斷言: often negative in hedging: 단언할 수 없다 | 아직은 그 치료법이 효과적이라고 단언할 수 없습니다. | We can't yet say for certain that the treatment works.
 - 장담하다 | to guarantee, to promise confidently | jangdamhada | 壯談: a bold promise; 장담하기 어렵다 = hard to guarantee | 감독은 이번 시즌 우승을 장담했습니다. | The coach confidently promised a championship this season.
-- 역설하다 | to stress, to emphasize | yeokseolhada | 力說 (speak with force) vs 역설 逆說 (paradox) | 총장은 연설에서 기초 학문의 중요성을 역설했습니다. | In his speech, the president stressed the importance of basic sciences.
+- 극구 | strongly, vehemently | geukgu | 極口: goes with 칭찬하다, 부인하다, 사양하다 — praise, deny or decline hard | 그는 자신이 그 비리에 관여했다는 의혹을 극구 부인했습니다. | He vehemently denied the allegations that he had been involved in the corruption.
 - 부각하다 | to highlight, to bring to the fore | bugakada | 浮刻: raise in relief; passive 부각되다 is very common | 언론은 사건의 자극적인 측면만 부각했습니다. | The media highlighted only the sensational side of the incident.
 - 두드러지다 | to stand out, to be conspicuous | dudeureojida | Intransitive; 두드러진 특징 / 두드러지게 나타나다 | 고령화 현상은 농촌 지역에서 더욱 두드러집니다. | Population aging stands out even more in rural areas.
 - 과장하다 | to exaggerate | gwajanghada | 誇張: 과장 광고 = misleading ad; ↔ 축소하다 (downplay) | 그 업체는 제품의 효과를 과장해 소비자를 속였습니다. | The company deceived consumers by exaggerating the product's effects.
@@ -60,7 +60,7 @@ score_max: 300
 - 애매하다 | to be unclear, to be ambiguous | aemaehada | 曖昧: everyday cousin of 모호하다; 애매한 태도 | 그는 찬성인지 반대인지 애매한 태도를 보였습니다. | He took an unclear stance, neither for nor against.
 - 불확실하다 | to be uncertain | bulhwaksilhada | 불 (不, not) + 확실하다; 불확실성 = uncertainty | 경제 전망이 불확실해 기업들이 투자를 미루고 있습니다. | With the economic outlook uncertain, companies are holding off on investment.
 - 막연하다 | to be vague, to be hazy | magyeonhada | 漠然: for feelings and plans; 막연한 불안감 | 많은 청년들이 미래에 대해 막연한 불안을 느낍니다. | Many young people feel a vague anxiety about the future.
-- 신빙성 | credibility, reliability | sinbingseong | 信憑性: 신빙성이 떨어지다/높다; used for claims and data | 출처가 불분명한 자료는 신빙성이 떨어집니다. | Data from unclear sources is less reliable.
+- 신빙성 | credibility, reliability | sinbingseong | 信憑性: 신빙성이 떨어지다/높다; used for claims and data | 목격자들의 진술이 서로 엇갈려 신빙성에 의문이 제기되었습니다. | The witnesses' accounts contradicted each other, which called their credibility into question.
 - 유력하다 | to be likely, to be influential | yuryeokada | 有力: 유력한 후보 = frontrunner; 유력시되다 = be seen as likely | 그는 차기 대표로 가장 유력한 인물입니다. | He is the most likely person to become the next chairman.
 - 여지 | room, leeway | yeoji | 餘地: 의심의 여지가 없다 = beyond doubt; 개선의 여지 | 그 결과에 대해서는 의심의 여지가 없습니다. | There is no room for doubt about that result.
 - 소지 | possibility, grounds (for trouble) | soji | 素地: negative outcomes; ~ㄹ 소지가 있다: 오해의 소지 | 그 표현은 오해를 불러일으킬 소지가 있습니다. | That expression could give rise to misunderstanding.

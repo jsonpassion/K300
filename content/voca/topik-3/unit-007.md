@@ -70,7 +70,7 @@ score_max: 300
 - 삐다 | to sprain | ppida | Takes the joint: 발목을 삐다; 접질리다 is a close synonym | 계단에서 넘어져서 발목을 삐었어요. | I fell on the stairs and sprained my ankle.
 - 부상 | injury | busang | 負 (bear) + 傷 (wound); 부상을 입다 / 당하다, common in sports news | 그 선수는 부상 때문에 경기에 못 나왔어요. | That player couldn't play because of an injury.
 - 흉터 | scar | hyungteo | 흉터가 남다 / 생기다; a 상처 (wound) heals, but a 흉터 stays | 어렸을 때 다친 흉터가 아직 남아 있어요. | I still have a scar from when I got hurt as a kid.
-- 골절 | fracture | goljeol | 骨 (bone) + 折 (break); everyday: 뼈가 부러지다 | 스키를 타다가 다리가 골절됐어요. | I broke my leg while skiing.
+- 골절 | fracture | goljeol | 骨 (bone) + 折 (break); everyday: 뼈가 부러지다 | 빙판길에서 넘어져서 손목이 골절됐어요. | I slipped on an icy road and fractured my wrist.
 - 운동량 | amount of exercise | undongnyang | 운동 + 량 (量, amount); pronounced 운동냥 | 재택근무를 하면서 운동량이 줄었어요. | My activity level dropped after I started working from home.
 - 꾸준하다 | to be steady, consistent | kkujunhada | Adverb 꾸준히 is more common: 꾸준히 운동하다 | 건강을 지키려면 꾸준한 노력이 필요해요. | Staying healthy takes consistent effort.
 - 습관 | habit | seupgwan | 習慣; 습관이 되다 / 습관을 들이다 = to build a habit | 자기 전에 휴대폰을 보는 습관을 고치고 싶어요. | I want to break my habit of looking at my phone before bed.
@@ -96,7 +96,7 @@ score_max: 300
 - 과로 | overwork | gwaro | 過 (too much) + 勞 (labor); 과로사 = death from overwork | 계속된 과로로 결국 병이 났어요. | Constant overwork finally made me sick.
 - 섭취 | intake, consumption | seopchwi | 攝取: formal for 먹다; 수분 섭취, 섭취량 | 하루 소금 섭취량을 줄이는 게 좋아요. | It's good to cut down your daily salt intake.
 - 활력 | vitality, energy | hwallyeok | 活 (live) + 力; 활력이 넘치다 / 활력을 되찾다 | 운동을 시작하고 나서 생활에 활력이 생겼어요. | Since I started exercising, I have more energy in my life.
-- 소화불량 | indigestion | sohwabullyang | 소화 (digestion) + 불량 (不良, poor); 소화제 = digestive medicine | 급하게 먹었더니 소화불량이 생겼어요. | I ate too fast and got indigestion.
+- 소화불량 | indigestion | sohwabullyang | 소화 (digestion) + 불량 (不良, poor); 소화제 = digestive medicine | 스트레스를 받으면 소화불량이 자주 생겨요. | Stress often gives me an upset stomach.
 - 스트레칭 | stretching | seuteuresing | Loanword; 스트레칭을 하다, ~하기 전에 스트레칭 | 운동하기 전에 꼭 스트레칭을 하세요. | Be sure to stretch before you work out.
 - 칼로리 | calorie | kallori | Loanword; 칼로리가 높다 / 낮다, 저칼로리 = low-calorie | 이 과자는 생각보다 칼로리가 높아요. | These snacks have more calories than I thought.
 - 생활습관 | lifestyle habits | saenghwalseupgwan | 생활습관병 = lifestyle disease like diabetes or 고혈압 | 생활습관만 바꿔도 건강이 좋아질 수 있어요. | Just changing your daily habits can improve your health.
@@ -110,7 +110,7 @@ score_max: 300
 - 근력 | muscle strength | geullyeok | 筋 (muscle) + 力; pronounced 글력; 근력 운동 = weight training | 나이가 들수록 근력 운동이 중요해요. | Strength training matters more as you get older.
 - 체지방 | body fat | chejibang | 체 (體, body) + 지방; 체지방률 = body fat percentage | 운동을 해서 체지방을 많이 줄였어요. | I cut a lot of body fat by working out.
 - 운동부족 | lack of exercise | undongbujok | 운동 + 부족 (不足, shortage); 수면 부족 follows the same form | 운동부족 때문에 살이 쪘어요. | I gained weight from not exercising enough.
-- 과로하다 | to overwork | gwarohada | Common pattern: 과로하다가 쓰러지다 = to collapse from overwork | 과로하지 말고 가끔은 쉬세요. | Don't work yourself too hard; take a break sometimes.
+- 어지럼증 | dizziness | eojireomjeung | Pronounced 어지럼쯩; the adjective is 어지럽다 (ㅂ irregular: 어지러워요) | 어지럼증이 자주 생기면 병원에서 검사를 받아 보세요. | If you often feel dizzy, get checked at a hospital.
 - 숙면 | deep sleep | sungmyeon | 熟 (ripe) + 眠; pronounced 숭면; 숙면을 취하다 | 따뜻한 우유가 숙면에 도움이 된대요. | They say warm milk helps you sleep soundly.
 - 금식 | fasting | geumsik | 禁 (forbid) + 食; before a checkup: 전날 밤부터 금식하다 | 검사 전날 밤 아홉 시부터 금식해야 해요. | You have to fast from 9 p.m. the night before the test.
 - 야식 | late-night snack | yasik | 夜 (night) + 食; 야식을 시켜 먹다 = order food late at night | 야식을 자주 먹으면 살이 찌기 쉬워요. | Eating late-night snacks often makes it easy to gain weight.

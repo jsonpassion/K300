@@ -106,11 +106,11 @@ score_max: 300
 - 임원 | executive, board member | imwon | Above 부장: 이사, 상무, 전무 are 임원 | 임원 회의에서 새 계획이 결정되었어요. | The new plan was decided at the executives' meeting.
 - 인재 | talented person | injae | 人材: 인재를 키우다 / 뽑다; 인재 채용 = hiring top talent | 회사는 창의적인 인재를 찾고 있어요. | The company is looking for creative talent.
 - 인력 | workforce, manpower | illyeok | Pronounced 일력; 인력이 부족하다 = understaffed | 우리 부서는 인력이 부족해서 모두 바빠요. | Our department is short-staffed, so everyone is busy.
-- 채용하다 | to hire | chaeyonghada | Takes 을/를: 직원을 채용하다; passive form 채용되다 = get hired | 그 회사는 올해 신입 사원을 50명 채용했어요. | That company hired 50 new employees this year.
-- 승진하다 | to be promoted | seungjinhada | Takes (으)로: 과장으로 승진하다 — no passive needed | 형은 입사 3년 만에 대리로 승진했어요. | My older brother was promoted to assistant manager three years after joining.
+- 외근 | field work, working outside the office | oegeun | 외 (外) = outside + 근무 ↔ 내근 (desk work in the office); 외근을 나가다 | 오후에는 외근이 있어서 사무실에 없을 거예요. | I have field work this afternoon, so I won't be in the office.
+- 휴무 | day off, closed for business | hyumu | 휴 (休) = rest + 무 (務): signs read 금일 휴무 = closed today | 그 식당은 매주 월요일이 휴무라서 화요일에 가요. | That restaurant is closed every Monday, so we go on Tuesday.
 - 보람 | sense of reward, fulfillment | boram | Native word: 보람이 있다 / 보람을 느끼다 = find it worthwhile | 아이들을 가르치는 일에서 보람을 느껴요. | I find fulfillment in teaching children.
 - 협업 | collaboration | hyeobeop | 協業: pronounced 혀법; 다른 부서와 협업하다 | 이번 프로젝트는 디자인팀과 협업을 했어요. | We collaborated with the design team on this project.
 - 인턴 | intern, internship | inteon | Loanword; 인턴을 하다 = do an internship, 인턴 사원 = intern | 방학 동안 은행에서 인턴을 했어요. | I did an internship at a bank during vacation.
 - 근무시간 | working hours | geunmusigan | 근무 + 시간: 근무시간을 줄이다; 업무 시간 is a close synonym | 우리 회사는 근무시간이 유연해서 좋아요. | I like that our company has flexible working hours.
 - 출장하다 | to go on a business trip | chuljanghada | More often 출장을 가다; 해외 출장 = overseas business trip | 다음 주에 일본으로 출장해서 회의에 참석해요. | Next week I'm going to Japan on business to attend a meeting.
-- 야근하다 | to work late, work overtime | yageunhada | 야 (夜, night) + 근무: 야근 수당 = overtime pay | 요즘 일이 많아서 매일 야근해요. | I have so much work these days that I work late every day.
+- 야근하다 | to work late, work overtime | yageunhada | 야 (夜, night) + 근무: 야근 수당 = overtime pay | 마감이 내일이라서 오늘은 팀 모두가 야근해야 해요. | The deadline is tomorrow, so the whole team has to work late tonight.

@@ -21,7 +21,7 @@ score_max: 200
 - 택배 | courier delivery, package | taekbae | 宅配: home + deliver; 택배가 왔어요 = a package has arrived | 오늘 오후에 택배가 올 거예요. | A package is coming this afternoon.
 - 택배비 | shipping fee (courier) | taekbaebi | -비 (費) = cost: 교통비, 식비, 택배비 | 택배비는 얼마예요? | How much is the shipping fee?
 - 배달 | delivery | baedal | Mostly food and newspapers: 배달 음식; parcels usually say 택배 | 이 식당은 배달이 안 돼요. | This restaurant doesn't deliver.
-- 배달하다 | to deliver | baedalhada | Passive-like 배달되다 = to be delivered | 우체부가 편지를 배달해요. | The mail carrier delivers the letters.
+- 택배기사 | delivery driver, courier | taekbaegisa | 택배 (courier) + 기사 (driver): 버스 기사, 택시 기사; add 님 to be polite | 택배기사님이 문 앞에 상자를 두고 가셨어요. | The delivery driver left the box at the door.
 - 배송 | shipping, delivery | baesong | 配送: used for online orders — 배송 조회 = tracking | 배송은 보통 이틀 걸려요. | Shipping usually takes two days.
 - 배송비 | shipping cost | baesongbi | 무료 배송 = free shipping; 배송비 포함 = shipping included | 삼만 원 이상 사면 배송비가 무료예요. | Shipping is free if you spend over 30,000 won.
 - 부치다 | to send, to mail | buchida | Don't mix up with 붙이다 (to stick), which sounds the same | 우체국에서 짐을 부쳤어요. | I mailed my things at the post office.
@@ -58,21 +58,21 @@ score_max: 200
 - 지폐 | paper money, bill | jipye | 紙幣: paper + currency; ↔ 동전 (coin) | 천 원짜리 지폐가 있어요? | Do you have a 1,000-won bill?
 - 거스름돈 | change | geoseureumdon | 거스르다 (to give back change) + 돈; 잔돈 in casual speech | 거스름돈은 괜찮아요. | Keep the change.
 - 환전 | currency exchange | hwanjeon | 換錢: exchange + money; 환전소 = exchange booth | 공항에서 환전이 가능해요. | You can exchange money at the airport.
-- 환전하다 | to exchange money | hwanjeonhada | Pattern: A를 B로 환전하다 — 원을 달러로 환전하다 | 한국 돈을 달러로 환전했어요. | I exchanged Korean won for dollars.
+- 수표 | check, cheque | supyo | 手票: hand + slip; sign the back with 이서하다 before cashing | 이사 비용을 수표로 받았어요. | I got paid for the move by check.
 - 환율 | exchange rate | hwannyul | 換率: exchange + rate; -율/-률 = rate, as in 이자율 | 오늘 환율이 어떻게 돼요? | What's the exchange rate today?
 - 달러 | dollar | dalleo | Other currencies: 원 (won), 엔 (yen), 위안 (yuan), 유로 (euro) | 100달러를 원으로 바꾸고 싶어요. | I'd like to change 100 dollars into won.
 - 송금 | money transfer, remittance | songgeum | 送金: send + money; 해외 송금 = sending money abroad | 해외 송금은 수수료가 비싸요. | Sending money abroad has high fees.
-- 송금하다 | to send money, to wire | songgeumhada | Takes 에게 (께 for elders): 부모님께 송금하다 | 고향에 계신 부모님께 돈을 송금했어요. | I sent money to my parents back home.
+- 모바일뱅킹 | mobile banking | mobailbaengking | Loanword; done in a bank app — 은행 앱으로 모바일뱅킹을 하다 | 요즘은 은행에 안 가고 모바일뱅킹을 써요. | These days I use mobile banking instead of going to the bank.
 - 이체 | bank transfer | iche | 移替: move + replace; 자동 이체 = automatic payment | 인터넷 뱅킹으로 이체가 돼요. | You can make transfers through online banking.
-- 이체하다 | to transfer money | ichehada | Account to account: 계좌로 이체하다; 송금 is broader | 월세를 집주인 계좌로 이체했어요. | I transferred the rent to my landlord's account.
+- 한도 | limit | hando | 限度: limit + degree; 이체 한도, 카드 한도; 한도를 넘다 = to go over | 하루 이체 한도가 오백만 원이에요. | The daily transfer limit is five million won.
 - 입금 | deposit | ipgeum | 入金: in + money ↔ 출금 (withdrawal) | 월급이 입금됐어요. | My salary has been deposited.
-- 입금하다 | to deposit money | ipgeumhada | Pattern: 통장에 입금하다; 입금되다 = to be deposited | 은행에 가서 돈을 입금했어요. | I went to the bank and deposited money.
+- 입력하다 | to enter, to input | imnyeokada | Pronounced 임녀카다; for typing into a machine or app, not writing on paper | 받는 분의 계좌번호를 정확하게 입력하세요. | Enter the recipient's account number carefully.
 - 출금 | withdrawal | chulgeum | 出金: out + money ↔ 입금 (deposit) | 출금은 ATM에서 할 수 있어요. | You can make a withdrawal at the ATM.
-- 출금하다 | to withdraw money | chulgeumhada | Casual talk prefers 돈을 찾다 or 뽑다 | 현금인출기에서 10만 원을 출금했어요. | I withdrew 100,000 won from the ATM.
+- 뽑다 | to pull out, to take out | ppopda | Pronounced 뽑따; casual for cash: 돈을 뽑다; also 번호표를 뽑다 | 편의점 ATM에서 현금을 좀 뽑았어요. | I took out some cash at the convenience store ATM.
 - 저금 | savings | jeogeum | 貯金: store + money; casual word — piggy banks are 저금통 | 아르바이트로 번 돈은 저금을 했어요. | I put the money from my part-time job into savings.
-- 저금하다 | to save money | jeogeumhada | Everyday word; 저축하다 sounds more formal | 매달 용돈을 조금씩 저금해요. | I save a little of my allowance every month.
+- 아끼다 | to save, to use sparingly | akkida | Spend less of something: 돈을 아끼다, 시간을 아끼다 ↔ 낭비하다 (waste) | 돈을 아끼려고 요즘 집에서 밥을 해 먹어요. | To save money, I cook at home these days.
 - 저축 | saving | jeochuk | 貯蓄: store + accumulate; more formal than 저금 | 저축을 꾸준히 하는 게 중요해요. | It's important to save steadily.
-- 저축하다 | to save up | jeochukada | Pronounced 저추카다 — ㄱ and ㅎ merge into ㅋ | 여행을 가려고 돈을 저축하고 있어요. | I'm saving money to go on a trip.
+- 비상금 | emergency money, rainy-day fund | bisanggeum | 非常 (emergency) + 금 (money); often hidden away: 비상금을 숨기다 | 지갑에 비상금으로 오만 원을 넣어 뒀어요. | I keep 50,000 won in my wallet for emergencies.
 - 예금 | bank deposit, savings account | yegeum | 預金: a lump sum you leave in the bank; vs 적금 (monthly) | 예금 이자가 너무 낮아요. | The interest on deposits is too low.
 - 적금 | installment savings | jeokgeum | 積金: pile up + money; pay in monthly — join one with 들다: 적금을 들다 | 1년 동안 적금을 들었어요. | I paid into an installment savings account for a year.
 - 이자 | interest | ija | 利子; 이자가 붙다 = interest accrues | 이 통장은 이자가 높아요. | This account pays high interest.
@@ -82,7 +82,7 @@ score_max: 200
 - 갚다 | to pay back, to repay | gapda | Pronounced 갑따; 빚을 갚다 = to pay off a debt | 다음 주까지 돈을 갚을게요. | I'll pay you back by next week.
 - 현금인출기 | ATM | hyeongeuminchulgi | 현금 (cash) + 인출 (withdraw) + 기 (machine); most people just say ATM | 편의점에도 현금인출기가 있어요. | Convenience stores have ATMs too.
 - 서명 | signature | seomyeong | 署名: formal word; 사인 is the everyday loanword | 여기에 서명이 필요해요. | We need your signature here.
-- 서명하다 | to sign | seomyeonghada | Takes 에: 서류에 서명하다 | 계약서에 서명해 주세요. | Please sign the contract.
+- 반송 | return to sender | bansong | 返送: back + send; 반송되다 = to be sent back | 주소가 틀려서 소포가 반송됐어요. | The package came back because the address was wrong.
 - 사인 | signature, autograph | sain | Loanword from "sign"; 사인해 주세요 for a form or a celebrity | 영수증에 사인해 주세요. | Please sign the receipt.
 - 신청서 | application form | sincheongseo | -서 (書) = document: 신청서, 계약서, 보고서 | 이 신청서를 작성해 주세요. | Please fill out this application form.
 - 서류 | documents, paperwork | seoryu | 書類: writing + kind; prepare them with 준비하다 | 필요한 서류를 모두 가져왔어요. | I brought all the required documents.
@@ -90,7 +90,7 @@ score_max: 200
 - 발급 | issuance | balgeup | 發給: issue + give; 재발급 = reissue | 카드 발급에 일주일이 걸려요. | It takes a week to issue the card.
 - 발급받다 | to get issued | balgeupbatda | 발급하다 = the office issues; 발급받다 = you receive | 은행에서 새 카드를 발급받았어요. | I got a new card issued at the bank.
 - 분실 | loss | bunsil | 紛失: formal word used in notices — 분실물 = lost item | 카드 분실 신고는 24시간 가능해요. | You can report a lost card 24 hours a day.
-- 분실하다 | to lose | bunsilhada | Formal; in conversation say 잃어버리다 | 지갑을 분실하면 바로 은행에 연락하세요. | If you lose your wallet, contact the bank right away.
+- 파손 | damage, breakage | pason | 破損: break + harm; 파손 주의 = the "Fragile" label on boxes | 그릇을 보낼 때는 파손에 주의하세요. | Be careful about breakage when you send dishes.
 - 잃어버리다 | to lose | ireobeorida | Pronounced 이러버리다; don't confuse with 잊어버리다 (forget) | 지하철에서 지갑을 잃어버렸어요. | I lost my wallet on the subway.
 - 신고하다 | to report | singohada | To the authorities: 경찰에 신고하다; 분실 신고 = report a loss | 카드를 잃어버려서 은행에 신고했어요. | I lost my card, so I reported it to the bank.
 - 공과금 | utility bills | gonggwageum | 公課金: public charges — electricity, water and gas bills, plus some taxes | 매달 말에 공과금을 내요. | I pay the utility bills at the end of every month.

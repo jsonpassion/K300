@@ -22,7 +22,7 @@ score_max: 200
 - 별로 | not really, not very | byeollo | Needs a negative: 별로 안 비싸요 = not that expensive | 그 영화는 별로 재미없었어요. | That movie wasn't very interesting.
 - 다시 | again, once more | dasi | Redo from the start: 다시 말해 주세요 (please say it again) | 내일 다시 전화할게요. | I'll call again tomorrow.
 - 또 | again, also | tto | Adds one more of the same: 또 늦었어요? (late again?) | 어제 먹은 식당에 또 갔어요. | I went back to the restaurant where I ate yesterday.
-- 매일 | every day, daily | maeil | 每日: 매 (every) + 일 (day); native twin: 날마다 | 저는 매일 아침 운동을 해요. | I work out every morning.
+- 매일 | every day, daily | maeil | 每日: 매 (every) + 일 (day); native twin: 날마다 | 저는 매일 아침 운동을 해요. | Every morning, I exercise.
 - 매주 | every week, weekly | maeju | 매 (every) + 주 (週 week): 매주 토요일 = every Saturday | 매주 일요일에 부모님께 전화해요. | I call my parents every Sunday.
 - 매달 | every month, monthly | maedal | 매 + 달 (month); formal twin 매월 | 매달 월세를 내야 해요. | I have to pay rent every month.
 - 매년 | every year, annually | maenyeon | 매 + 년 (年); same as 해마다 | 매년 여름에 가족 여행을 가요. | We go on a family trip every summer.
@@ -98,7 +98,7 @@ score_max: 200
 - 다음 | next, following | daeum | 다음 주 (next week), 다음에 (next time) | 다음 주에 시험이 있어요. | I have a test next week.
 - 그다음 | after that, then | geudaeum | 그 + 다음, one word; used to order steps | 먼저 표를 사고 그다음에 기차를 타세요. | Buy a ticket first, then get on the train.
 - 후 | after, later | hu | 後: Noun + 후에 or -(으)ㄴ 후에; ↔ 전 | 식사 후에 이 약을 드세요. | Take this medicine after meals.
-- 전 | before, ago | jeon | 前: 3일 전 (3 days ago), 자기 전에 (before bed) | 자기 전에 이를 닦아요. | I brush my teeth before bed.
+- 전 | before, ago | jeon | 前: 3일 전 (3 days ago), 자기 전에 (before bed) | 저는 일주일 전에 한국에 왔어요. | I came to Korea a week ago.
 - 이후 | after, since | ihu | 以後: more formal than 후; 그 이후로 = ever since | 졸업 이후로 그 친구를 못 봤어요. | I haven't seen that friend since graduation.
 - 이전 | before, previous | ijeon | 以前: more formal than 전; ↔ 이후 | 이전에 살던 집은 학교에서 멀었어요. | The house I lived in before was far from school.
 - 정도 | about, around | jeongdo | 程度: after numbers — 30분 정도 걸려요 | 집에서 회사까지 한 시간 정도 걸려요. | It takes about an hour from home to work.

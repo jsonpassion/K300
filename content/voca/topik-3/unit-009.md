@@ -29,7 +29,7 @@ score_max: 300
 - 배경 | background, backdrop | baegyeong | 背景: behind + scene; used for stories, photos and history | 이 소설은 조선 시대가 배경이에요. | This novel is set in the Joseon era.
 - 요인 | factor | yoin | 要因: key + cause; 성공 요인, 위험 요인 | 운동 부족은 비만의 큰 요인이에요. | Lack of exercise is a major factor in obesity.
 - 발생 | occurrence, outbreak | balsaeng | 發生: set off + arise; used for accidents, fires and diseases | 화재 발생 원인을 아직 몰라요. | The cause of the fire is still unknown.
-- 발생하다 | to occur, to break out | balsaenghada | News register; say 일어나다 or 생기다 in conversation | 어젯밤 고속도로에서 사고가 발생했어요. | An accident happened on the highway last night.
+- 까닭 | reason, cause | kkadak | Bookish twin of 이유; 무슨 까닭인지 = for some reason | 그가 갑자기 화를 낸 까닭을 아무도 몰라요. | Nobody knows why he suddenly got angry.
 - 일으키다 | to cause, to raise up | ireukida | 일어나다 (happen) ↔ 일으키다 (make happen); 문제를 일으키다 | 그 학생은 자주 문제를 일으켜요. | That student often causes trouble.
 - 초래하다 | to bring about (a bad result) | choraehada | Almost always negative: 위기를 초래하다, 혼란을 초래하다 | 작은 실수가 큰 손해를 초래했어요. | A small mistake led to a big loss.
 - 유발하다 | to trigger, to induce | yubalhada | 誘發: lure + set off; 암을 유발하다, 호기심을 유발하다 | 담배는 여러 병을 유발해요. | Smoking causes many diseases.
@@ -40,9 +40,9 @@ score_max: 300
 - 달라지다 | to become different | dallajida | 다르다 + -아지다 = become different; 달라진 점 = what has changed | 대학에 간 후 생활이 많이 달라졌어요. | My life changed a lot after starting college.
 - 변동 | fluctuation | byeondong | 變動: change + move; 가격 변동, 일정 변동 | 요즘 기름값 변동이 커요. | Gas prices fluctuate a lot these days.
 - 증가 | increase | jeungga | 增加: add + add; 증가 ↔ 감소 | 인구 증가로 집값이 올랐어요. | Housing prices rose because of population growth.
-- 증가하다 | to increase | jeunggahada | Formal for 늘다; common with numbers: ~% 증가하다 | 올해 관광객 수가 크게 증가했어요. | The number of tourists rose sharply this year.
+- 직접적 | direct | jikjeopjeok | 直接 + -적; 직접적 ↔ 간접적, 직접적인 원인 = the direct cause | 과로가 그 병의 직접적인 원인이었어요. | Overwork was the direct cause of the illness.
 - 감소 | decrease | gamso | 減少: reduce + less; 감소 ↔ 증가 | 출생률 감소가 심각한 문제예요. | The falling birth rate is a serious problem.
-- 감소하다 | to decrease | gamsohada | Formal for 줄다; 매출이 감소하다 = sales drop | 겨울에는 손님이 감소해요. | Customers drop off in winter.
+- 간접적 | indirect | ganjeopjeok | 間接: through something in between; 간접적으로 = indirectly | 담배 연기는 옆 사람에게도 간접적으로 해를 끼쳐요. | Cigarette smoke harms the people nearby, too.
 - 급증 | sharp increase, surge | geupjeung | 급 (急) = sudden + 증 (增) = increase; ↔ 급감 | 여름에는 에어컨 사용이 급증해요. | Air conditioner use surges in summer.
 - 급감 | sharp decrease, plunge | geupgam | 급 (急) = sudden + 감 (減) = decrease; ↔ 급증 | 코로나 때 해외 여행객이 급감했어요. | Overseas travel plunged during COVID.
 - 늘어나다 | to grow, to increase | neureonada | Everyday word for 증가하다; 늘다 ↔ 줄다 | 요즘 혼자 사는 사람이 늘어났어요. | More people live alone these days.
@@ -55,7 +55,7 @@ score_max: 300
 - 향상 | improvement, advance | hyangsang | 向上: toward + up; for skills and quality: 실력 향상 | 꾸준한 연습이 실력 향상의 비결이에요. | Steady practice is the secret to getting better.
 - 향상되다 | to improve, to advance | hyangsangdoeda | Used for ability, quality, level; 생활 수준이 향상되다 | 매일 들으니까 듣기 실력이 향상됐어요. | My listening improved because I practiced daily.
 - 발전 | development, progress | baljeon | 發展: growth of skills, tech or a country | 과학 기술의 발전이 정말 빨라요. | Science and technology are advancing so fast.
-- 발전하다 | to develop, to advance | baljeonhada | 발전하다 (grow, advance) vs 발달하다 (organs, body, weather systems) | 한국은 짧은 시간에 크게 발전했어요. | Korea developed rapidly in a short time.
+- 성공 | success | seonggong | 成功 ↔ 실패; 성공을 거두다 = to achieve success | 이번 행사는 기대보다 큰 성공을 거뒀어요. | The event was a bigger success than we expected.
 - 실패 | failure | silpae | 失敗; 실패는 성공의 어머니 = failure is the mother of success | 실패를 두려워하지 마세요. | Don't be afraid of failure.
 - 결실 | fruit, result of effort | gyeolsil | 結實: bear fruit; 결실을 맺다 = to pay off | 오랜 노력이 드디어 결실을 맺었어요. | Years of hard work finally paid off.
 - 효과적 | effective | hyogwajeok | -적 words: 효과적이다, 효과적으로 (effectively) | 이 방법이 가장 효과적이에요. | This method is the most effective.
@@ -63,7 +63,7 @@ score_max: 300
 - 덕분 | thanks to | deokbun | Positive only: ~덕분에; for blame use ~때문에 or ~탓에 | 선생님 덕분에 시험에 붙었어요. | I passed the exam thanks to my teacher.
 - 문제점 | problem, drawback | munjejeom | 점 (點) = point; 문제점을 찾다/고치다 | 이 계획의 문제점을 이야기해 봅시다. | Let's talk about the problems with this plan.
 - 해결 | solution, settlement | haegyeol | 解決: untie + decide; 해결이 되다 = to get solved | 이 일은 빠른 해결이 필요해요. | This needs to be resolved quickly.
-- 해결하다 | to solve, to resolve | haegyeolhada | Common objects: 문제, 갈등, 오해; 해결되다 = to get solved | 친구와 대화로 오해를 해결했어요. | I cleared up the misunderstanding by talking with my friend.
+- 단서 | clue, lead | danseo | 端緖: the loose end of a thread; 단서를 찾다/잡다 | 경찰이 사건을 풀 중요한 단서를 찾았어요. | The police found a key clue to crack the case.
 - 해결책 | solution, remedy | haegyeolchaek | 책 (策) = plan; 해결책을 찾다/내놓다 | 좋은 해결책이 떠올랐어요. | A good solution came to mind.
 - 대책 | countermeasure | daechaek | 對策: face + plan; 대책을 세우다 = to draw up measures | 정부가 미세먼지 대책을 발표했어요. | The government announced measures against fine dust.
 - 방안 | way, measure | bangan | Formal; ~할 방안을 찾다/마련하다 | 쓰레기를 줄일 방안을 생각해 봐요. | Let's think of ways to cut down on trash.
@@ -87,9 +87,9 @@ score_max: 300
 - 결정되다 | to be decided | gyeoljeongdoeda | 결정하다 (decide) ↔ 결정되다 (get decided) | 여행 날짜가 드디어 결정됐어요. | The trip dates have finally been set.
 - 판단 | judgment, assessment | pandan | 判斷: judge + cut; 판단을 내리다, 판단력 = judgment | 그때는 제 판단이 틀렸어요. | My judgment was wrong back then.
 - 분석 | analysis | bunseok | 分析: divide + split; 데이터 분석, 원인 분석 | 설문 조사 결과를 분석 중이에요. | We're analyzing the survey results.
-- 분석하다 | to analyze | bunseokada | Pronounced 분서카다 — ㄱ and ㅎ merge | 실패한 이유를 꼼꼼히 분석했어요. | I carefully analyzed why it failed.
+- 소용없다 | to be no use, to be pointless | soyongeopda | 소용 = use; ~아/어 봐야 소용없다 = there's no point in ~ | 이미 끝난 일을 후회해 봐야 소용없어요. | There's no point regretting what's already done.
 - 조사 | survey, investigation | josa | 調査; 설문 조사 = survey, 여론 조사 = poll | 이번 조사에 천 명이 참여했어요. | A thousand people took part in this survey.
-- 조사하다 | to investigate, to research | josahada | 원인을 조사하다, 자료를 조사하다 = to research materials | 숙제 때문에 한국 역사를 조사했어요. | I researched Korean history for homework.
+- 불가피하다 | to be unavoidable, to be inevitable | bulgapihada | 不可避: not + can + avoid; 불가피한 선택 = a choice with no way around it | 비가 계속 와서 일정 변경이 불가피해요. | With the rain not letting up, a schedule change is unavoidable.
 - 예측 | prediction, forecast | yecheuk | 豫測: ahead + measure; data-based vs 예상 (general expectation) | 전문가들의 예측이 틀렸어요. | The experts' predictions were wrong.
 - 예상 | expectation, estimate | yesang | 豫想: ahead + think; 예상 밖 = unexpected | 시험이 예상보다 쉬웠어요. | The test was easier than I expected.
 - 예상되다 | to be expected | yesangdoeda | Common in forecasts: 비가 올 것으로 예상되다 | 내일은 많은 비가 예상돼요. | Heavy rain is expected tomorrow.
@@ -107,7 +107,7 @@ score_max: 300
 - 당연하다 | to be natural, to be obvious | dangyeonhada | 當然; 당연하죠! = Of course! | 열심히 했으니까 합격은 당연해요. | You worked hard, so of course you passed.
 - 저절로 | by itself, automatically | jeojeollo | Without anyone's effort: 문이 저절로 열리다 | 음악을 들으면 저절로 몸이 움직여요. | When I hear music, my body starts moving on its own.
 - 자연히 | naturally, in due course | jayeonhi | 自然 + -히; a result that follows on its own: 자연히 알게 되다 | 매일 쓰다 보면 자연히 외워져요. | If you use it daily, you'll memorize it naturally.
-- 점차 | gradually | jeomcha | Formal; close to 점점 in conversation | 날씨가 점차 따뜻해지고 있어요. | The weather is gradually getting warmer.
+- 점차 | gradually | jeomcha | Formal; close to 점점 in conversation | 이 마을의 인구가 점차 줄어들고 있어요. | This village's population is slowly shrinking.
 - 갈수록 | more and more as time goes on | galsurok | 가다 + (으)ㄹ수록; 날이 갈수록 = day by day | 한국어가 갈수록 재미있어요. | Korean gets more fun the more I learn.
 - 급격히 | rapidly, drastically | geupgyeoki | Pronounced 급껴키; 급격히 늘다/줄다 | 요즘 기온이 급격히 떨어졌어요. | Temperatures have dropped sharply lately.
 - 꾸준히 | steadily, consistently | kkujunhi | For habits and effort: 꾸준히 운동하다 | 꾸준히 공부하면 실력이 늘어요. | If you study consistently, you'll improve.

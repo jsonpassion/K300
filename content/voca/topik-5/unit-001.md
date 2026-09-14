@@ -25,8 +25,8 @@ score_max: 300
 - 정체성 | identity | jeongcheseong | 正體 (true form) + 性 (quality); 정체성을 찾다, 정체성 혼란 | 이민 2세들은 종종 정체성의 혼란을 겪는다. | Second-generation immigrants often struggle with their sense of identity.
 - 자긍심 | pride, self-esteem | jageungsim | 自矜心; 자긍심을 느끼다 / 높이다 vs 자만심 (conceit) | 선수들은 국가대표라는 자긍심을 가지고 경기에 임했습니다. | The athletes played with pride in representing their country.
 - 주관 | one's own views, subjectivity | jugwan | 主觀 ↔ 객관 (客觀, objectivity); 주관이 뚜렷하다 = has firm views | 그녀는 주관이 뚜렷해서 남의 말에 쉽게 흔들리지 않는다. | She has firm views of her own, so she is not easily swayed by others.
-- 인지하다 | to be aware of, to recognize | injihada | 認知: more technical than 인식하다; 인지 능력 = cognitive ability | 운전자는 사고 위험을 미리 인지하지 못했다고 진술했습니다. | The driver stated that he had not been aware of the danger in advance.
-- 자각하다 | to realize, to become aware | jagakada | 自覺: waking up to something about yourself; 자각 증상 = felt symptoms | 그는 자신의 잘못을 뒤늦게 자각하고 진심으로 사과했다. | He belatedly realized his mistake and sincerely apologized.
+- 사고방식 | way of thinking, mindset | sagobangsik | 思考 (thinking) + 方式 (way); 사고방식이 유연하다 / 낡은 사고방식 | 세대마다 사고방식이 달라 같은 문제도 다르게 받아들인다. | Each generation thinks differently, so even the same problem is received in different ways.
+- 양심 | conscience | yangsim | 良心: the good heart; 양심에 찔리다 = to feel guilty; adj. 양심적 | 그는 양심에 따라 회사의 부정을 세상에 알렸다. | Following his conscience, he exposed the company's wrongdoing to the public.
 - 통찰 | insight | tongchal | 洞察: seeing right through to the core; 통찰을 얻다 | 이 책은 인간 본성에 대한 깊은 통찰을 담고 있습니다. | This book offers deep insight into human nature.
 - 통찰력 | insight, perceptiveness | tongchallyeok | -력 (力) = ability: 통찰력, 판단력, 분별력; 통찰력이 뛰어나다 | 훌륭한 지도자는 시대의 흐름을 읽는 통찰력을 갖추고 있다. | A great leader has the insight to read the direction of the times.
 - 직관 | intuition | jikgwan | 直觀: seeing directly, skipping reasoning; 직관에 의존하다 | 경험이 많은 의사는 때로 직관에 따라 진단을 내립니다. | Experienced doctors sometimes make a diagnosis based on intuition.
@@ -43,7 +43,7 @@ score_max: 300
 - 편향되다 | to be biased, to be one-sided | pyeonhyangdoeda | Most often as 편향된: 편향된 시각, 편향된 보도 | 정보가 한쪽으로 편향되면 올바른 판단을 내리기 어렵다. | When information is skewed to one side, it is hard to make sound judgments.
 - 편협하다 | to be narrow-minded | pyeonhyeopada | 偏狹 = biased + narrow; 편협한 시각 ↔ 포용적 (open-minded) | 편협한 생각에서 벗어나 다양한 의견을 존중해야 합니다. | We must break free of narrow-minded thinking and respect diverse opinions.
 - 포용 | inclusion, embrace | poyong | 包容: wrapping others in; 포용력 = capacity to accept others | 다문화 사회에서는 서로에 대한 포용이 무엇보다 중요하다. | In a multicultural society, embracing one another matters more than anything.
-- 포용하다 | to embrace, to accept | poyonghada | Takes 을/를: 차이를 포용하다; adjective form 포용적 | 좋은 공동체는 서로 다른 배경을 가진 사람들을 포용합니다. | A good community embraces people from different backgrounds.
+- 자기중심적 | self-centered, egocentric | jagijungsimjeok | 自己中心的; the opposite pole of 이타적 (altruistic); 자기중심적인 태도 | 자기중심적인 태도로는 다른 사람의 신뢰를 얻기 어렵습니다. | It is hard to win other people's trust with a self-centered attitude.
 - 관용 | tolerance, generosity | gwanyong | 寬容: wide-hearted; 관용을 베풀다 ↔ 무관용 (zero tolerance) | 민주주의는 다른 의견에 대한 관용 위에서 성장한다. | Democracy grows on a foundation of tolerance for differing views.
 - 존엄성 | dignity | joneomseong | 尊嚴 (dignity) + 性; 인간의 존엄성 is the set phrase | 모든 사람은 인간으로서의 존엄성을 보장받아야 합니다. | Every person's dignity as a human being must be guaranteed.
 - 보편적 | universal | bopyeonjeok | 普遍的 ↔ 특수적 (particular); 보편적 가치 = universal values | 자유와 평등은 인류의 보편적인 가치로 여겨진다. | Freedom and equality are regarded as universal human values.
@@ -74,7 +74,7 @@ score_max: 300
 - 식견 | knowledge, informed judgment | sikgyeon | 識見; 식견이 넓다 = well-informed; formal and written | 그 교수는 국제 정세에 대한 폭넓은 식견을 갖추고 있습니다. | The professor has a broad understanding of international affairs.
 - 견문 | worldly knowledge, experience | gyeonmun | 見聞 = seeing + hearing; 견문을 넓히다 is the set phrase | 여행은 견문을 넓히는 가장 좋은 방법 중 하나이다. | Travel is one of the best ways to broaden your horizons.
 - 성찰 | reflection, introspection | seongchal | 省察: looking back at yourself; 자기 성찰 = self-reflection | 이 수필에는 삶에 대한 작가의 깊은 성찰이 담겨 있습니다. | This essay contains the author's deep reflections on life.
-- 성찰하다 | to reflect on, to examine oneself | seongchalhada | Deeper than 반성하다 (regret a fault); 자신을 성찰하다 | 우리는 과거의 잘못을 성찰하며 더 나은 미래를 준비해야 한다. | We must reflect on past mistakes as we prepare for a better future.
+- 혜안 | keen insight, discerning eye | hyean | 慧眼 = wise + eye; set phrase 혜안을 가지다; loftier than 안목 | 그 경영자는 시대의 흐름을 읽는 혜안으로 위기를 기회로 바꾸었다. | With the insight to read the trends of the times, that executive turned a crisis into an opportunity.
 - 숙고하다 | to deliberate, to think over carefully | sukgohada | 熟考: ripe thinking; 심사숙고하다 = weigh very carefully | 위원회는 여러 방안을 충분히 숙고한 끝에 결론을 내렸습니다. | The committee reached a conclusion after carefully weighing several options.
 - 판단력 | judgment | pandannyeok | Pronounced 판단녁: ㄴ + ㄹ becomes ㄴ + ㄴ | 피곤하면 판단력이 흐려져 실수를 하기 쉽다. | When you are tired, your judgment gets clouded and mistakes come easily.
 - 분별력 | discernment, good sense | bunbyeollyeok | 分別 + 力: telling right from wrong; 분별력을 잃다 | 아이들이 올바른 분별력을 기를 수 있도록 도와야 합니다. | We should help children develop sound judgment.

@@ -59,8 +59,8 @@ score_max: 300
 - 비견되다 | to be compared to, to rank with | bigyeondoeda | 比肩: shoulder to shoulder; ~에 비견될 만하다 = on a par with | 그의 업적은 세계적인 대가들에 비견될 만하다. | His achievements are on a par with those of world-class masters.
 - 산재하다 | to be scattered | sanjaehada | 散在 (scattered) — don't confuse with 산재 (産災, industrial accident) | 이 지역에는 선사 시대 유적이 곳곳에 산재해 있다. | Prehistoric remains are scattered all over this region.
 - 선회하다 | to turn, to shift (course) | seonhoehada | 旋回: circle around; policy U-turns: 강경 노선으로 선회하다 | 정부는 여론을 의식해 정책 방향을 선회했다. | Mindful of public opinion, the government changed the direction of its policy.
-- 소급하다 | to apply retroactively | sogeupada | 遡及: trace back upstream; 소급 적용 = retroactive application | 새 법을 과거 사건에까지 소급하여 적용할 수는 없다. | The new law cannot be applied retroactively to past cases.
-- 쇄신하다 | to reform, to overhaul | swaesinhada | 刷新: brush clean and renew; 인적 쇄신 = personnel shake-up | 당은 선거 패배 후 지도부를 쇄신하겠다고 밝혔다. | After the election defeat, the party said it would overhaul its leadership.
+- 함구하다 | to keep silent, to refuse to comment | hamguhada | 緘口: seal the mouth; takes 에 대해: 진상에 대해 함구하다 | 그는 사건의 경위에 대해서는 끝내 함구하였다. | He refused to say a word about how the incident had unfolded.
+- 방기하다 | to neglect, to abandon (a duty) | banggihada | 放棄: cast aside; 책임·의무를 방기하다 — harsher than 소홀히 하다 | 정부가 국민 보호의 책무를 방기했다는 비판이 쏟아졌다. | Criticism poured in that the government had abandoned its duty to protect citizens.
 - 안주하다 | to rest on one's laurels, to settle comfortably | anjuhada | Negative in essays: 현실·현재에 안주하다 = get complacent | 현재의 성공에 안주하면 곧 뒤처지게 된다. | If you get complacent with today's success, you will soon fall behind.
 - 양산하다 | to mass-produce, to generate in large numbers | yangsanhada | 量産: literal factories, or figurative — 실업자를 양산하다 | 무분별한 규제 완화가 비정규직을 양산했다는 비판이 있다. | Critics say reckless deregulation created a flood of temporary jobs.
 - 역임하다 | to serve successively as | yeogimhada | 歷任: pass through posts; résumé verb — 장관을 역임하다 | 그는 외교부 장관과 국무총리를 역임하였다. | He served as both foreign minister and prime minister.
@@ -78,7 +78,7 @@ score_max: 300
 - 폄하하다 | to belittle, to disparage | pyeomhahada | 貶下: push down; opposite of 높이 평가하다 or 칭송하다 | 상대의 업적을 폄하하는 태도는 바람직하지 않다. | Belittling other people's achievements is not a desirable attitude.
 - 포괄하다 | to encompass, to include | pogwalhada | 包括: wrap and bundle; 포괄적 = comprehensive | 이 법안은 다양한 형태의 차별을 포괄하고 있다. | The bill covers many different forms of discrimination.
 - 힐난하다 | to reproach, to rebuke | hillanhada | 詰難: grill with blame; pronounced 힐란하다 | 시민들은 당국의 늑장 대응을 거세게 힐난했다. | Citizens fiercely rebuked the authorities for their slow response.
-- 결집하다 | to rally, to gather together | gyeoljipada | 結集: bind and gather; 지지층·역량을 결집하다 | 야당은 지지층을 결집하기 위해 대규모 집회를 열었다. | The opposition held a mass rally to consolidate its base.
+- 윤색하다 | to embellish, to dress up (a story) | yunsaekada | 潤色: add gloss and color; facts retold to sound better than they were | 그는 자신의 경험담을 지나치게 윤색하여 늘어놓는 버릇이 있다. | He has a habit of embellishing his own stories far too much.
 - 경도되다 | to be inclined toward, to lean toward | gyeongdodoeda | 傾倒: tilt over; ~에 경도되다 — overly swayed by an ideology | 그는 젊은 시절 급진 사상에 경도되었다. | In his youth he was drawn heavily toward radical ideas.
 - 고착되다 | to become entrenched, to be fixed | gochakdoeda | 固着: stuck hard; 구조·관행·편견이 고착되다 | 오랜 차별로 인해 계층 간 불평등이 고착되었다. | Long-standing discrimination has entrenched inequality between classes.
 - 관망하다 | to wait and see, to watch from the sidelines | gwanmanghada | 觀望: look from afar; 관망세 = wait-and-see mood in markets | 투자자들은 금리 결정을 앞두고 시장을 관망하고 있다. | Investors are taking a wait-and-see stance ahead of the interest-rate decision.
@@ -107,7 +107,7 @@ score_max: 300
 - 도래하다 | to arrive, to dawn | doraehada | 到來: for eras and moments — 시대·기회가 도래하다 | 인공지능 시대가 본격적으로 도래하였다. | The age of artificial intelligence has truly arrived.
 - 발흥하다 | to rise, to spring up | balheunghada | 勃興: burst up; history writing — 민족주의가 발흥하다 | 19세기 유럽에서는 민족주의가 발흥하였다. | Nationalism rose up in nineteenth-century Europe.
 - 감내하다 | to endure, to bear | gamnaehada | 堪耐: withstand and bear; stronger and more formal than 참다 | 그들은 더 나은 미래를 위해 고통을 감내했다. | They endured hardship for the sake of a better future.
-- 방조하다 | to abet, to be complicit in | bangjohada | Legal 幇助: 범죄를 방조하다; 방관 is just standing by | 그는 친구의 범행을 방조한 혐의로 기소되었다. | He was charged with abetting his friend's crime.
+- 원용하다 | to invoke, to cite (as grounds) | wonyonghada | 援用: draw in for support; 판례·조항을 원용하다 in law and academic writing | 변호인은 대법원 판례를 원용하여 피고인의 무죄를 주장했다. | Citing a Supreme Court precedent, the defense argued that the accused was innocent.
 - 교란하다 | to disrupt, to disturb | gyoranhada | 攪亂: stir into chaos; 생태계·시장 질서를 교란하다 | 외래종이 토종 생태계를 교란하고 있다. | Invasive species are disrupting the native ecosystem.
 - 부응하다 | to live up to, to meet | bueunghada | Takes 에: 기대·요구에 부응하다 | 그는 팬들의 기대에 부응하기 위해 최선을 다했다. | He did his best to live up to his fans' expectations.
 - 영속하다 | to last forever, to endure | yeongsokada | 永續 (lasting forever) vs 존속 (continuing to exist) | 어떤 권력도 영속할 수는 없다. | No power can endure forever.

@@ -14,7 +14,7 @@ score_max: 200
 
 # Level 1 · Beginner · Book 007 — Weather and seasons
 
-- 날씨 | weather | nalssi | Topic of small talk: 날씨가 좋다 (nice) ↔ 날씨가 나쁘다 (bad) | 오늘 날씨가 정말 좋아요. | The weather is really nice today.
+- 날씨 | weather | nalssi | Topic of small talk: 날씨가 좋다 (nice) ↔ 날씨가 나쁘다 (bad) | 날씨가 좋으면 같이 산책할까요? | If the weather is nice, shall we go for a walk together?
 - 봄 | spring | bom | Seasons take 에 for "in": 봄에 꽃이 피어요 | 봄에는 꽃이 많이 피어요. | Lots of flowers bloom in spring.
 - 여름 | summer | yeoreum | Pair with 덥다: 여름은 더워요; 여름철 = summertime | 한국의 여름은 아주 더워요. | Summer in Korea is very hot.
 - 가을 | fall, autumn | gaeul | Think 단풍 (colored leaves) and 추석 when you hear 가을 | 가을에는 날씨가 선선해요. | The weather is cool in the fall.
@@ -25,7 +25,7 @@ score_max: 200
 - 눈 | snow | nun | Same spelling as 눈 (eye); 눈이 와요 means it's snowing | 어젯밤에 눈이 많이 왔어요. | It snowed a lot last night.
 - 바람 | wind | baram | Wind "blows" with 불다: 바람이 불어요 | 오늘은 바람이 많이 불어요. | It's very windy today.
 - 구름 | cloud | gureum | 구름이 끼다 = clouds gather; 구름이 많다 = cloudy | 하늘에 구름이 많아요. | There are a lot of clouds in the sky.
-- 하늘 | sky | haneul | Common pairs: 파란 하늘 (blue sky), 밤하늘 (night sky) | 오늘 하늘이 정말 파래요. | The sky is really blue today.
+- 하늘 | sky | haneul | Common pairs: 파란 하늘 (blue sky), 밤하늘 (night sky) | 가을 하늘은 높고 파래요. | The autumn sky is high and blue.
 - 해 | sun | hae | Also means "year"; 해가 뜨다 (rise) ↔ 해가 지다 (set) | 해가 지면 조금 추워요. | It gets a little cold when the sun sets.
 - 별 | star | byeol | 별이 보이다 = stars are visible; 별이 빛나다 = stars shine | 시골에서는 별이 잘 보여요. | You can see the stars well in the countryside.
 - 맑다 | to be clear, sunny | makda | Pronounced 막따; 맑아요 is said 말가요 | 내일은 날씨가 맑을 거예요. | The weather will be clear tomorrow.
@@ -74,7 +74,7 @@ score_max: 200
 - 눈사람 | snowman | nunsaram | 눈 (snow) + 사람 (person); 눈사람을 만들다 | 아이들과 눈사람을 만들었어요. | I built a snowman with the kids.
 - 스키 | skiing, skis | seuki | Use 타다: 스키를 타다 = to ski | 겨울에 스키를 타러 가요. | I go skiing in the winter.
 - 수영 | swimming | suyeong | 水泳; 수영장 = swimming pool | 저는 수영을 좋아해요. | I like swimming.
-- 수영하다 | to swim | suyeonghada | Place takes 에서: 바다에서 수영하다 | 여름에 바다에서 수영해요. | I swim in the ocean in summer.
+- 물놀이 | playing in the water | mullori | 물 (water) + 놀이 (play); pronounced 물로리 — 물놀이를 하다/가다 | 여름에 아이들과 강에서 물놀이를 해요. | In summer, I play in the river with my kids.
 - 휴가 | vacation, time off | hyuga | For workers; students get 방학 instead | 이번 여름휴가는 어디로 가요? | Where are you going for summer vacation?
 - 여름방학 | summer vacation (school) | yeoreumbanghak | 방학 = school break; workers say 여름휴가 | 여름방학에 할머니 댁에 가요. | I visit my grandma's during summer break.
 - 겨울방학 | winter vacation (school) | gyeoulbanghak | Korean schools break from late Dec to Feb | 겨울방학이 두 달이에요. | Winter break is two months long.

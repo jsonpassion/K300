@@ -45,8 +45,8 @@
 비견되다 | bigyeondoeda
 산재하다 | sanjaehada
 선회하다 | seonhoehada
-소급하다 | sogeupada
-쇄신하다 | swaesinhada
+함구하다 | hamguhada
+방기하다 | banggihada
 안주하다 | anjuhada
 양산하다 | yangsanhada
 역임하다 | yeogimhada
@@ -64,7 +64,7 @@
 폄하하다 | pyeomhahada
 포괄하다 | pogwalhada
 힐난하다 | hillanhada
-결집하다 | gyeoljipada
+윤색하다 | yunsaekada
 경도되다 | gyeongdodoeda
 고착되다 | gochakdoeda
 관망하다 | gwanmanghada
@@ -93,7 +93,7 @@
 도래하다 | doraehada
 발흥하다 | balheunghada
 감내하다 | gamnaehada
-방조하다 | bangjohada
+원용하다 | wonyonghada
 교란하다 | gyoranhada
 부응하다 | bueunghada
 영속하다 | yeongsokada

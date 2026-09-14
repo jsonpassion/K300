@@ -11,7 +11,7 @@
 얼마 | eolma
 얼마나 | eolmana
 계산 | gyesan
-계산하다 | gyesanhada
+교환 | gyohwan
 카드 | kadeu
 신용카드 | sinyongkadeu
 현금 | hyeongeum
@@ -74,9 +74,9 @@
 봉투 | bongtu
 포장 | pojang
 쇼핑 | syoping
-쇼핑하다 | syopinghada
+팔찌 | paljji
 구경 | gugyeong
-구경하다 | gugyeonghada
+잠옷 | jamot
 잔돈 | jandon
 동전 | dongjeon
 공책 | gongchaek

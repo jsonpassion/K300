@@ -2,9 +2,9 @@
 # unit: voca-2-u005
 여가 | yeoga
 등산 | deungsan
-등산하다 | deungsanhada
+등산복 | deungsanbok
 낚시 | naksi
-낚시하다 | naksihada
+뜨개질 | tteugaejil
 텐트 | tenteu
 테니스 | teniseu
 탁구 | takgu
@@ -40,7 +40,7 @@
 음악회 | eumakoe
 전시회 | jeonsihoe
 예매 | yemae
-예매하다 | yemaehada
+입장권 | ipjanggwon
 관람하다 | gwallamhada
 관객 | gwangaek
 감독 | gamdok
@@ -70,7 +70,7 @@
 설거지 | seolgeoji
 정리하다 | jeongnihada
 외식 | oesik
-외식하다 | oesikada
+나들이 | nadeuri
 즐기다 | jeulgida
 흥미 | heungmi
 관심 | gwansim

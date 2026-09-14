@@ -22,7 +22,7 @@ score_max: 200
 - 심심하다 | to be bored, to have nothing to do | simsimhada | Bored from nothing to do; 지루하다 = something itself is dull | 주말에 할 일이 없어서 심심해요. | I have nothing to do this weekend, so I'm bored.
 - 지루하다 | to be boring, to be dull | jiruhada | Describes the thing: 영화가 지루하다. Compare 심심하다 (I'm idle) | 수업이 너무 길어서 조금 지루했어요. | The class was so long that it got a bit boring.
 - 놀라다 | to be surprised, to be startled | nollada | Takes 에: 소리에 놀라다. 놀랍다 = to be surprising | 갑자기 큰 소리가 나서 깜짝 놀랐어요. | I was startled by a sudden loud noise.
-- 걱정하다 | to worry | geokjeonghada | Takes 을/를 or 에 대해: 시험을 걱정하다. Comfort: 걱정하지 마세요 | 엄마는 항상 제 건강을 걱정하세요. | My mom always worries about my health.
+- 불안하다 | to be anxious, to feel uneasy | buranhada | 不安: not at ease. Pronounced 부란하다. 안심하다 (relieved) ↔ 불안하다 | 혼자 밤길을 걸으면 좀 불안해요. | I feel a little uneasy walking alone at night.
 - 걱정 | worry, concern | geokjeong | 걱정이 많다 = to worry a lot; 걱정 마 = don't worry (casual) | 시험 때문에 요즘 걱정이 많아요. | I have a lot of worries these days because of exams.
 - 걱정되다 | to be worried, to feel anxious | geokjeongdoeda | Subject is the worry: 시험이 걱정돼요 (the exam worries me) | 비가 많이 와서 여행이 걱정돼요. | It's raining a lot, so I'm worried about the trip.
 - 긴장하다 | to be nervous, to be tense | ginjanghada | 緊張: tension. 긴장되다 = to feel nervous (state) | 면접 전에 너무 긴장해서 손이 떨렸어요. | I was so nervous before the interview that my hands shook.
@@ -37,7 +37,7 @@ score_max: 200
 - 편안하다 | to be comfortable, to be at ease | pyeonanhada | 便安: mind at ease. 편하다 is the shorter, casual form | 집에 오니까 마음이 편안해요. | Now that I'm home, I feel at ease.
 - 신나다 | to be excited, to have fun | sinnada | Upbeat, lively fun; 신나는 음악 = upbeat music | 내일 놀이공원에 가서 너무 신나요. | I'm so excited to go to the amusement park tomorrow.
 - 설레다 | to be excited, to flutter | seolleda | Heart-fluttering anticipation: a date, a first trip. Not 설레이다 | 첫 해외여행이라서 마음이 설레요. | It's my first trip abroad, so my heart is fluttering.
-- 감동하다 | to be moved, to be touched | gamdonghada | 感動: feelings moved. 감동적이다 = to be moving | 친구의 편지를 읽고 크게 감동했어요. | I was deeply touched after reading my friend's letter.
+- 뿌듯하다 | to feel proud, to feel fulfilled | ppudeutada | Pronounced 뿌드타다. Proud of your own effort, not bragging (자랑하다) | 혼자 김치를 만들어서 정말 뿌듯해요. | I made kimchi all by myself, so I feel really proud.
 - 감동 | being moved, deep emotion | gamdong | 감동을 받다 (be moved) / 감동을 주다 (move someone) | 그 영화는 저에게 큰 감동을 줬어요. | That movie really moved me.
 - 기대되다 | to look forward to | gidaedoeda | The event is the subject: 방학이 기대돼요. 기대하다 takes 을/를 | 다음 주 콘서트가 정말 기대돼요. | I'm really looking forward to the concert next week.
 - 실망하다 | to be disappointed | silmanghada | Takes 에: 결과에 실망하다. 실망시키다 = to disappoint someone | 음식 맛이 별로라서 좀 실망했어요. | The food didn't taste great, so I was a bit disappointed.
@@ -89,7 +89,7 @@ score_max: 200
 - 부담 | burden, pressure | budam | 負擔. 부담이 되다 (feel pressure); 부담 갖지 마세요 = no pressure | 비싼 선물은 저한테 부담이 돼요. | Expensive gifts feel like a burden to me.
 - 스트레스 | stress | seuteureseu | 스트레스를 받다 (get stressed) / 스트레스를 풀다 (relieve it) | 저는 운동으로 스트레스를 풀어요. | I relieve stress by working out.
 - 위로하다 | to comfort, to console | wirohada | 慰勞. Noun: 위로. 위로가 되다 = to be a comfort | 시험에 떨어진 친구를 위로했어요. | I comforted my friend who failed the exam.
-- 칭찬하다 | to praise, to compliment | chingchanhada | Takes 을/를: 학생을 칭찬하다. Opposite: 혼내다 (scold) | 선생님이 제 숙제를 칭찬하셨어요. | My teacher praised my homework.
+- 격려하다 | to encourage, to cheer on | gyeongnyeohada | 激勵. Pronounced 경녀하다. Before a challenge; 위로하다 = comfort after | 친구들이 대회에 나가는 저를 격려해 줬어요. | My friends cheered me on as I entered the contest.
 - 칭찬 | praise, compliment | chingchan | 칭찬을 받다 (be praised) / 칭찬을 듣다 (hear praise) | 사장님께 칭찬을 들어서 기분이 좋아요. | I feel good because my boss praised me.
 - 후회하다 | to regret | huhoehada | 後悔: after + regret. Pattern: -(으)ㄴ 것을 후회하다 | 어제 친구에게 화낸 것을 후회해요. | I regret getting angry at my friend yesterday.
 - 참다 | to hold back, to endure | chamda | Hold in anger, tears, pain or a laugh: 웃음을 참다 | 너무 아팠지만 울음을 참았어요. | It hurt a lot, but I held back my tears.

@@ -16,12 +16,12 @@ score_max: 300
 
 - 대응책 | countermeasure, response plan | daeeungchaek | 對應策: 대응 (respond) + 책 (plan); 대응책을 마련하다 is the set phrase | 정부는 전세 사기에 대한 대응책을 서둘러 마련했습니다. | The government hurried to put together measures against rental fraud.
 - 예방책 | preventive measure | yebangchaek | 예방 (prevent in advance) + 책; acts before trouble, unlike 대응책 after it | 전문가들은 산불을 막을 예방책이 부족하다고 지적했습니다. | Experts pointed out a lack of measures to prevent wildfires.
-- 억제하다 | to curb, to restrain | eokjehada | 抑制: press down; common objects: 물가, 수요, 감정을 억제하다 | 정부는 물가 상승을 억제하기 위해 금리를 올렸습니다. | The government raised interest rates to curb inflation.
+- 과잉 규제 | overregulation, excessive regulation | gwaing gyuje | 過剩: more than needed; the business side's complaint, opposite of 규제 완화 | 중소기업들은 과잉 규제 때문에 새로운 사업을 시작하기 어렵다고 호소했습니다. | Small businesses complained that overregulation makes it hard to start new ventures.
 - 단속 | crackdown, enforcement | dansok | Used with 에 걸리다 (get caught): 음주 단속에 걸리다 | 경찰은 연말을 맞아 음주 운전 단속을 강화했습니다. | Police stepped up drunk-driving checks for the year-end season.
 - 처벌하다 | to punish | cheobeolhada | 處罰; passive 처벌을 받다 is more common than 처벌되다 | 법원은 개인 정보를 유출한 직원을 엄하게 처벌했습니다. | The court severely punished the employee who leaked personal data.
 - 징계 | disciplinary action | jinggye | Internal punishment by an employer or school, not by a court | 규정을 어긴 공무원은 징계를 피할 수 없을 것입니다. | The official who broke the rules will not be able to escape disciplinary action.
 - 제재 | sanction, restriction | jejae | 制裁; 경제 제재 (economic sanctions) is the classic news phrase | 국제 사회는 그 나라에 대한 경제 제재를 결정했습니다. | The international community decided on economic sanctions against that country.
-- 제재하다 | to sanction, to impose penalties | jejaehada | Passive form 제재를 받다: the target receives the sanction | 당국은 허위 광고를 한 업체를 강력히 제재하기로 했습니다. | The authorities decided to take strong action against companies running false ads.
+- 벌점 | penalty points | beoljeom | 罰點; pronounced 벌쩜. 벌점이 쌓이다 = points pile up (license, school) | 신호를 위반하면 벌점이 부과되고 누적되면 면허가 정지됩니다. | Running a light earns penalty points, and if they add up your license is suspended.
 - 과징금 | administrative fine | gwajinggeum | 課徵金: fine set by an agency, not a court; 과징금을 부과하다 | 공정위는 담합한 기업들에 수백억 원의 과징금을 부과했습니다. | The Fair Trade Commission fined the colluding companies tens of billions of won.
 - 벌칙 | penalty, penalty clause | beolchik | Legal clause or game forfeit: 게임에서 진 사람은 벌칙을 받아요 | 이 법에는 위반 시 적용되는 벌칙 조항이 포함되어 있습니다. | This law includes penalty clauses that apply to violations.
 - 위반하다 | to violate, to break (a rule) | wibanhada | Takes 을/를: 법을, 교통 신호를, 계약을 위반하다 | 계약 조건을 위반한 회사는 손해를 배상해야 합니다. | A company that breaks the contract terms must pay damages.
@@ -45,7 +45,7 @@ score_max: 300
 - 묵인하다 | to tacitly allow, to turn a blind eye | muginhada | 默認: 묵 (silent) + 인 (accept); negative nuance | 회사가 불법 행위를 묵인했다는 의혹이 제기되었습니다. | Suspicions arose that the company had turned a blind eye to illegal acts.
 - 방치하다 | to neglect, to leave unattended | bangchihada | 放置: leave a problem or thing as is; passive 방치되다: 방치된 빈집 | 문제를 오랫동안 방치하면 더 큰 사고로 이어질 수 있습니다. | Leaving a problem alone too long can lead to a bigger accident.
 - 근절 | eradication | geunjeol | 根絶: cut off at the root; 근절 대책 = measures to wipe out | 학교 폭력 근절을 위한 캠페인이 전국에서 열렸습니다. | Campaigns to eradicate school violence were held nationwide.
-- 근절하다 | to eradicate, to root out | geunjeolhada | Typical objects: 부패, 비리, 범죄를 근절하다 | 정부는 공직 사회의 부패를 근절하겠다고 약속했습니다. | The government promised to root out corruption in public service.
+- 감찰 | internal inspection, audit of conduct | gamchal | 監察: watch over officials' conduct; 감찰에 착수하다 = launch a probe | 검찰은 비리 의혹이 제기된 간부들에 대해 감찰에 착수했습니다. | Prosecutors launched an internal probe into the senior officials suspected of misconduct.
 - 척결 | purge, rooting out | cheokgyeol | 剔抉: stronger and more political than 근절; 비리 척결 | 새 시장은 취임사에서 비리 척결을 최우선 과제로 내세웠습니다. | In the inaugural address, the new mayor made rooting out corruption the top priority.
 - 차단하다 | to block, to cut off | chadanhada | 遮斷: block + cut; works for access, websites, sunlight or power | 이 필터는 청소년 유해 사이트를 자동으로 차단합니다. | This filter automatically blocks sites harmful to minors.
 - 봉쇄 | lockdown, blockade | bongswae | 封鎖: seal off; 도시 봉쇄 (lockdown), 해상 봉쇄 (naval blockade) | 감염병이 확산되자 일부 도시는 전면 봉쇄에 들어갔습니다. | As the disease spread, some cities went into full lockdown.
@@ -63,7 +63,7 @@ score_max: 300
 - 구속력 | binding force | gusongnyeok | Pronounced 구송녁 — ㄱ nasalizes and ㄹ becomes ㄴ | 이번 합의는 법적 구속력이 없는 선언에 불과합니다. | This agreement is merely a declaration with no binding force.
 - 발효되다 | to take effect | balhyodoeda | 發效 (take effect) vs 醱酵 발효 (ferment) — same sound | 두 나라의 자유무역협정이 다음 달부터 발효됩니다. | The free trade agreement between the two countries takes effect next month.
 - 유예 | grace period, deferment | yuye | 猶豫; 집행유예 = suspended sentence, 유예 기간 = grace period | 법원은 피고인에게 징역 1년에 집행유예 2년을 선고했습니다. | The court gave the defendant one year in prison, suspended for two years.
-- 유예하다 | to postpone, to defer | yuyehada | Formal delay of a rule or duty; say 미루다 in everyday talk | 정부는 제도 시행을 1년간 유예하기로 결정했습니다. | The government decided to delay the program's launch by a year.
+- 사후 관리 | follow-up management, aftercare | sahu gwalli | 事後 (after the fact) ↔ 사전 (beforehand); also used for after-sales service | 제도를 만드는 것보다 사후 관리를 철저히 하는 것이 더 중요합니다. | Thorough follow-up matters more than simply creating the system.
 - 보완책 | supplementary measure | bowanchaek | 보완 (fill gaps) + 책; patches holes in an existing plan | 정책의 허점이 드러나자 정부가 보완책을 내놓았습니다. | When loopholes in the policy came to light, the government offered fixes.
 - 개선책 | improvement plan | gaeseonchaek | 개선 (make better) + 책; 개선책을 찾다 / 제시하다 | 노사는 근무 환경에 대한 개선책을 함께 논의했습니다. | Labor and management discussed ways to improve working conditions together.
 - 미봉책 | stopgap measure | mibongchaek | 彌縫策: stitch up a tear; criticizes a quick fix ↔ 근본적 대책 | 전문가들은 이번 대책이 일시적인 미봉책에 불과하다고 비판했습니다. | Experts criticized the plan as nothing more than a temporary stopgap.
@@ -93,16 +93,16 @@ score_max: 300
 - 소홀하다 | to be negligent, to be careless | soholhada | Takes 에: 관리에 소홀하다; 소홀히 하다 = to neglect | 안전 관리에 소홀했던 업체 대표가 입건되었습니다. | The head of the company that neglected safety management was booked.
 - 문책 | reprimand, holding accountable | munchaek | 問責: ask for responsibility; 책임자를 문책하다 | 대통령은 사고 책임자에 대한 엄중한 문책을 지시했습니다. | The president ordered that those responsible be held strictly accountable.
 - 권고 | recommendation, advice | gwongo | 勸告: official advice without legal force; 권고를 따르다 | 세계보건기구의 권고에 따라 마스크 착용 지침이 바뀌었습니다. | Mask guidelines changed following the WHO's recommendation.
-- 권고하다 | to recommend, to advise | gwongohada | Pattern: -도록 권고하다 (advise to do) | 인권위원회는 해당 기관에 제도를 개선하도록 권고했습니다. | The human rights commission advised the agency to reform its system.
+- 자진 신고 | voluntary report, self-disclosure | jajin singo | 自進: of one's own accord; often rewarded with 감면 (reduced penalty) | 기한 내에 자진 신고를 하면 과태료를 절반으로 줄여 줍니다. | If you report voluntarily before the deadline, the fine is cut in half.
 - 시정 | correction, rectification | sijeong | 是正: make right; 시정 명령 = corrective order | 공정위는 부당한 약관에 대해 시정 명령을 내렸습니다. | The Fair Trade Commission issued a corrective order over unfair terms.
-- 시정하다 | to correct, to rectify | sijeonghada | Formal; objects are wrongs or unfairness: 차별을 시정하다 | 회사는 지적받은 문제점을 한 달 안에 시정하겠다고 밝혔습니다. | The company said it would fix the flagged problems within a month.
+- 집행하다 | to enforce, to carry out | jiphaenghada | 執行: put into action; objects: 법, 예산, 형을 집행하다 | 법이 아무리 좋아도 공정하게 집행하지 않으면 소용이 없습니다. | No matter how good a law is, it is useless unless it is enforced fairly.
 - 당국 | the authorities | dangguk | 當局: usually paired: 보건 당국, 금융 당국, 교육 당국 | 금융 당국은 가계 대출을 줄이기 위한 규제를 발표했습니다. | Financial authorities announced rules to reduce household loans.
 - 무분별하다 | to be reckless, to be indiscriminate | mubunbyeolhada | 무 (no) + 분별 (discernment); 무분별한 개발 | 무분별한 개발로 인해 산림이 크게 훼손되었습니다. | Reckless development has badly damaged the forests.
 - 난립 | overcrowding, mushrooming | nallip | Pronounced 날립 — ㄴ becomes ㄹ before ㄹ; 난립하다 | 비슷한 업체들의 난립으로 시장 경쟁이 과열되었습니다. | A glut of similar businesses has overheated market competition.
 - 엄단 | stern crackdown | eomdan | 嚴斷: strict judgment; headline word — 엄단 방침 | 검찰은 보이스피싱 조직에 대해 엄단 방침을 밝혔습니다. | Prosecutors announced a zero-tolerance stance on voice phishing rings.
 - 일벌백계 | punishing one to warn many | ilbeolbaekgye | 一罰百戒: one punishment, a hundred warnings | 정부는 일벌백계의 차원에서 해당 기업을 강하게 처벌했습니다. | The government punished the company hard to make an example of it.
 - 규제책 | regulatory measure | gyujechaek | 규제 (regulate) + 책 (plan); 규제책을 내놓다 | 부동산 가격이 급등하자 정부는 새로운 규제책을 발표했습니다. | When housing prices soared, the government announced new regulations.
-- 징계하다 | to discipline | jinggyehada | Passive 징계를 받다 / 징계를 당하다; objects are members, staff | 학교는 시험 부정을 저지른 학생들을 징계했습니다. | The school disciplined the students who cheated on the exam.
+- 등록제 | registration system | deungnokje | Lighter than 허가제 (permit needed): you just register to operate | 반려동물 등록제가 도입되면서 유기 동물을 찾기가 쉬워졌습니다. | Since pet registration was introduced, it has become easier to trace abandoned animals.
 - 규제 완화 | deregulation, easing of regulations | gyuje wanhwa | 완화 (緩和 loosen) ↔ 규제 강화; 규제 완화 정책 | 기업들은 투자 확대를 위해 규제 완화를 요구하고 있습니다. | Businesses are calling for deregulation to expand investment.
 - 규제 강화 | tightening of regulations | gyuje ganghwa | 강화 (強化 strengthen) ↔ 규제 완화 | 개인 정보 유출 사고 이후 규제 강화 목소리가 커졌습니다. | Calls for tighter rules grew after the personal data leak.
 - 제재 조치 | sanction measures | jejae jochi | 조치 (措置 step taken); 제재 조치를 취하다 / 내리다 | 협회는 규정을 어긴 구단에 제재 조치를 내렸습니다. | The association took disciplinary action against the club that broke the rules.
@@ -112,5 +112,5 @@ score_max: 300
 - 감독 기관 | supervisory agency, regulator | gamdok gigwan | 감독 (supervise) + 기관 (body); also 관리 감독 기관 | 금융 감독 기관은 은행들의 대출 실태를 점검했습니다. | The financial regulator checked the banks' lending practices.
 - 실태 조사 | fact-finding survey | siltae josa | 실태 (實態 real state) + 조사; 실태 조사를 벌이다 | 정부는 청년 주거 문제에 대한 실태 조사에 나섰습니다. | The government launched a survey on young people's housing conditions.
 - 재발 방지 | prevention of recurrence | jaebal bangji | 재발 (再發 happen again); apology phrase: 재발 방지에 힘쓰겠습니다 | 회사는 사과문을 통해 재발 방지를 약속했습니다. | In its apology, the company promised it would not happen again.
-- 엄단하다 | to crack down on sternly | eomdanhada | News register; typical frame: 법에 따라 엄단하겠다 | 경찰은 불법 도박을 법에 따라 엄단하겠다고 경고했습니다. | Police warned they would crack down hard on illegal gambling under the law.
+- 경고 조치 | formal warning | gyeonggo jochi | The mildest step before 제재 조치; 경고 조치를 받다 / 내리다 | 위원회는 처음 적발된 업체에 경고 조치만 내리고 벌금은 부과하지 않았습니다. | The committee gave first-time offenders only a warning and imposed no fine.
 - 불시 점검 | surprise inspection | bulsi jeomgeom | 불시 (不時 unexpected time); 불시에 = without warning | 식약처는 학교 급식 시설에 대한 불시 점검을 실시했습니다. | The food safety ministry carried out surprise inspections of school cafeterias.

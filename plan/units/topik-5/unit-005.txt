@@ -45,7 +45,7 @@
 공급망 | gonggeummang
 생산기지 | saengsangiji
 진출 | jinchul
-진출하다 | jinchulhada
+무역장벽 | muyeokjangbyeok
 현지 | hyeonji
 현지인 | hyeonjiin
 외국계 | oegukgye
@@ -66,7 +66,7 @@
 이질적 | ijiljeok
 동화되다 | donghwadoeda
 공존 | gongjon
-공존하다 | gongjonhada
+공생 | gongsaeng
 다원화 | dawonhwa
 다원주의 | dawonjuui
 혼종 | honjong
@@ -94,7 +94,7 @@
 반세계화 | bansegyehwa
 출입국 | churipguk
 체류 | cheryu
-체류하다 | cheryuhada
+영주권 | yeongjugwon
 정착하다 | jeongchakada
 동포 | dongpo
 교포 | gyopo

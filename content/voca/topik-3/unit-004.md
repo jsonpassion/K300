@@ -25,15 +25,15 @@ score_max: 300
 - 갈등 | conflict, tension | galdeung | 葛藤 · Collocations: 갈등이 생기다, 갈등을 해결하다 | 세대 간의 갈등을 줄이려면 대화가 필요해요. | We need conversation to reduce conflict between generations.
 - 다투다 | to argue, to quarrel | datuda | Takes 와/과: 친구와 다투다; a milder word than 싸우다 | 사소한 일로 동생과 다투지 않으려고 노력해요. | I try not to argue with my younger sibling over little things.
 - 싸움 | fight, quarrel | ssaum | Noun of 싸우다 · 말싸움 = verbal fight, 몸싸움 = physical fight | 작은 오해가 큰 싸움으로 번졌어요. | A small misunderstanding turned into a big fight.
-- 화해 | reconciliation | hwahae | 和解 · 화해하다 takes 와/과: 친구와 화해하다 | 어제 싸운 친구와 오늘 화해를 했어요. | Today I made up with the friend I fought with yesterday.
+- 화해 | reconciliation | hwahae | 和解 · 화해하다 takes 와/과: 친구와 화해하다 | 말다툼한 두 사람은 결국 웃으면서 화해를 했어요. | After their argument, the two of them ended up laughing and making peace.
 - 오해 | misunderstanding | ohae | 誤 (wrong) + 解 (understand) · 오해가 생기다 / 오해를 풀다 | 솔직하게 이야기해서 오해를 풀었어요. | We cleared up the misunderstanding by talking honestly.
-- 오해하다 | to misunderstand | ohaehada | Pattern: A를 B(으)로 오해하다 = to mistake A for B | 제 말을 오해하지 마세요. 그런 뜻이 아니었어요. | Please don't get me wrong. That's not what I meant.
+- 눈치 | tact, social awareness | nunchi | Reading the room: 눈치가 빠르다 (quick) ↔ 눈치가 없다 (clueless) | 분위기가 안 좋아서 눈치를 보다가 조용히 나왔어요. | The mood was tense, so I read the room and quietly slipped out.
 - 이해심 | understanding, tolerance | ihaesim | 이해 + 심 (心, heart) · 이해심이 많다 = very understanding | 제 남자 친구는 이해심이 많아서 잘 화를 내지 않아요. | My boyfriend is very understanding, so he rarely gets angry.
 - 배려 | consideration, thoughtfulness | baeryeo | 配慮 · 배려심 = a considerate nature; 배려가 부족하다 | 다른 사람에 대한 배려가 좋은 관계를 만들어요. | Consideration for others builds good relationships.
-- 배려하다 | to be considerate of | baeryeohada | Takes 을/를: 상대방을 배려하다 | 지하철에서는 다른 승객을 배려하는 태도가 필요해요. | On the subway, you need to be mindful of other passengers.
+- 간섭하다 | to interfere, to meddle | ganseophada | 干涉 · Takes 에: 남의 일에 간섭하다; unwanted, unlike 배려 | 부모님이 제 일에 너무 간섭하셔서 가끔 답답해요. | My parents meddle in my business so much that I sometimes feel smothered.
 - 양보하다 | to yield, to give up (a seat) | yangbohada | 讓步 · 자리를 양보하다 is the classic TOPIK phrase | 버스에서 할머니께 자리를 양보했어요. | I gave my seat to an elderly woman on the bus.
 - 신뢰 | trust | silloe | Pronounced 실뢰 — ㄴ becomes ㄹ before ㄹ · 信賴 | 한번 잃은 신뢰를 되찾기는 어려워요. | Once trust is lost, it's hard to win back.
-- 신뢰하다 | to trust | silloehada | More formal than 믿다 · 신뢰할 수 있는 사람 | 우리 팀원들은 서로를 깊이 신뢰해요. | The members of our team trust each other deeply.
+- 배신 | betrayal | baesin | 背 (turn one's back) + 信 (trust) · 배신을 당하다 = to be betrayed | 믿었던 친구에게 배신을 당해서 너무 속상했어요. | I was so hurt when a friend I trusted betrayed me.
 - 믿음 | faith, trust | mideum | Noun of 믿다 · also means religious faith | 친구 사이에는 믿음이 가장 중요해요. | Trust is the most important thing between friends.
 - 의지하다 | to rely on, to lean on | uijihada | 依支 · Takes 에/에게: 가족에게 의지하다 | 힘들 때 의지할 수 있는 친구가 있어서 다행이에요. | I'm lucky to have a friend I can lean on when things are hard.
 - 협력 | cooperation | hyeomnyeok | Pronounced 혐녁 · 協力; 협력하다 = to work together | 이 문제는 여러 나라의 협력이 필요해요. | This problem needs cooperation among many countries.
@@ -48,12 +48,12 @@ score_max: 300
 - 참여 | participation | chamyeo | 參與 · Takes 에: 행사에 참여하다 | 이번 축제는 시민들의 참여가 많았어요. | Lots of citizens took part in this year's festival.
 - 자원봉사 | volunteer work | jawonbongsa | 自願 (voluntary) + 奉仕 (service) · 자원봉사자 = volunteer | 방학 동안 양로원에서 자원봉사를 했어요. | During vacation, I volunteered at a nursing home.
 - 기부 | donation | gibu | 寄附 · 기부금 = donation money; 재능 기부 = donating one's skills | 연말에는 기부를 하는 사람들이 늘어나요. | More people donate at the end of the year.
-- 기부하다 | to donate | gibuhada | Pattern: 단체에 돈을 기부하다 | 그 가수는 공연 수익을 모두 기부했어요. | That singer donated all the concert proceeds.
+- 인맥 | personal network, connections | inmaek | 人 (people) + 脈 (vein) · 인맥이 넓다 = well connected; 인맥을 쌓다 | 선배는 인맥이 넓어서 좋은 일자리를 쉽게 찾았어요. | My senior is well connected, so she found a good job easily.
 - 나눔 | sharing, giving | nanum | Noun of 나누다 · 나눔 행사 = charity drive | 작은 나눔이 세상을 따뜻하게 만들어요. | Small acts of giving make the world a warmer place.
 - 공감 | empathy, agreement | gonggam | 共 (together) + 感 (feel) · 공감을 얻다 = to win people's sympathy | 그 영화는 많은 사람들의 공감을 얻었어요. | That movie struck a chord with many people.
-- 공감하다 | to empathize, to relate to | gonggamhada | Takes 에: 의견에 공감하다 | 저도 친구의 고민에 깊이 공감했어요. | I really related to my friend's worries too.
+- 질투 | jealousy, envy | jiltu | 嫉妒 · 질투가 나다 = to feel jealous; 질투하다 takes 을/를 | 친구가 먼저 합격해서 조금 질투가 났어요. | My friend passed first, so I felt a little jealous.
 - 소통 | communication | sotong | 疏通 · A buzzword for open, two-way exchange: 소통이 잘 되다 | 가족 간의 소통이 부족하면 오해가 생기기 쉬워요. | When a family doesn't communicate enough, misunderstandings arise easily.
-- 소통하다 | to communicate | sotonghada | Pattern: ~와/과 소통하다 · 팬들과 소통하다 | 요즘 연예인들은 SNS로 팬들과 소통해요. | These days celebrities communicate with fans on social media.
+- 체면 | face, dignity, reputation | chemyeon | 體面 · 체면을 지키다 = save face ↔ 체면을 잃다 = lose face | 사람들 앞에서 혼나니까 체면이 말이 아니었어요. | Getting scolded in front of everyone was a real loss of face.
 - 의사소통 | communication | uisasotong | 의사 (意思, intention) + 소통 · the neutral textbook term | 외국에서는 의사소통이 어려워서 답답했어요. | Communicating abroad was hard, so I felt frustrated.
 - 표현하다 | to express | pyohyeonhada | 表現 · Noun 표현 = expression; 마음을 표현하다, 감사를 표현하다 | 고마운 마음을 말로 표현하는 게 쑥스러워요. | I feel shy about putting my gratitude into words.
 - 감정 | emotion, feelings | gamjeong | 感情 · 감정을 조절하다 = to control one's emotions | 화가 나도 감정을 잘 조절해야 해요. | Even when you're angry, you should keep your emotions in check.
@@ -90,7 +90,7 @@ score_max: 300
 - 책임감 | sense of responsibility | chaegimgam | 책임 (responsibility) + 감 (感, feeling) · 책임감이 강하다 | 그 친구는 책임감이 강해서 믿을 수 있어요. | That friend has a strong sense of responsibility, so you can count on him.
 - 평등 | equality | pyeongdeung | 平等 · 남녀평등 = gender equality ↔ 불평등 | 남녀평등을 위해 많은 사람들이 노력해 왔어요. | Many people have worked hard for gender equality.
 - 차별 | discrimination | chabyeol | 差別 · 차별을 받다 = to be discriminated against | 나이에 따른 차별은 없어져야 해요. | Discrimination based on age should disappear.
-- 차별하다 | to discriminate | chabyeolhada | Pattern: ~(이)라는 이유로 차별하다; passive 차별받다 | 외모로 사람을 차별하면 안 돼요. | You shouldn't discriminate against people based on their looks.
+- 이기적 | selfish | igijeok | 利己 (benefit oneself) + -적 · 이기적인 사람 ↔ 이타적 (altruistic) | 자기 생각만 하는 이기적인 행동은 관계를 망쳐요. | Selfish behavior that only thinks of yourself ruins relationships.
 - 편견 | prejudice, bias | pyeongyeon | 偏 (lopsided) + 見 (view) · 편견을 갖다 / 버리다 | 외국인에 대한 편견을 버려야 해요. | We need to let go of prejudice against foreigners.
 - 성별 | gender, sex | seongbyeol | 性別 · Seen on forms next to 나이, 이름 | 이 일은 성별에 관계없이 누구나 할 수 있어요. | Anyone can do this job regardless of gender.
 - 장애인 | person with a disability | jangaein | 장애 (障礙, obstacle) + 인 · Avoid 장애자, now considered dated | 이 건물에는 장애인을 위한 엘리베이터가 있어요. | This building has an elevator for people with disabilities.

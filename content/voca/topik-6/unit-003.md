@@ -87,7 +87,7 @@ score_max: 300
 - 공권력 | state authority, public power | gonggwonnyeok | Pronounced 공꿘녁; 공권력을 행사하다 / 투입하다 | 정부는 불법 점거를 막기 위해 공권력을 투입했다. | The government sent in the police to end the illegal occupation.
 - 소추 | prosecution, bringing charges | sochu | Mostly in 탄핵 소추 (impeachment motion) | 국회는 장관에 대한 탄핵 소추안을 가결했다. | The National Assembly passed an impeachment motion against the minister.
 - 관할 | jurisdiction | gwanhal | 관 (管) = manage + 할 (轄) = govern; used as 관할 법원 or 관할 구역 | 사건이 발생한 지역을 관할하는 법원에서 재판이 열렸다. | The trial was held in the court with jurisdiction over the area.
-- 원심 | original trial, lower-court ruling | wonsim | Used by higher courts: 원심을 확정하다 / 파기하다 | 대법원은 원심 판결을 그대로 확정했다. | The Supreme Court upheld the lower court's ruling.
+- 원심 | original trial, lower-court ruling | wonsim | Used by higher courts: 원심을 확정하다 / 파기하다 | 항소심 재판부는 원심의 형량이 지나치게 무겁다고 판단했다. | The appeals court found the sentence imposed at trial far too harsh.
 - 확정판결 | final judgment | hwakjeongpangyeol | No appeal left; 확정판결을 받다 | 그는 확정판결이 날 때까지 공직을 유지할 수 있다. | He may keep his public office until the verdict becomes final.
 - 기각 | dismissal, rejection | gigak | 기각 (rejected on merits) vs 각하 (thrown out on procedure) | 법원은 증거가 부족하다며 원고의 청구를 기각했다. | The court rejected the plaintiff's claim for lack of evidence.
 - 각하 | dismissal without review | gakha | Procedural defect, merits never heard; also 각하 = Your Excellency | 요건을 갖추지 못한 소송은 각하되었다. | The suit was dismissed because it did not meet the requirements.

@@ -16,9 +16,9 @@ score_max: 200
 
 - 여가 | free time, leisure | yeoga | 餘暇: "spare" + "time off"; 여가 시간 is a common phrase | 여가 시간에 보통 뭐 해요? | What do you usually do in your free time?
 - 등산 | hiking, mountain climbing | deungsan | 登山: climb + mountain; 등산을 가다 = go hiking | 주말마다 친구들과 등산을 가요. | I go hiking with my friends every weekend.
-- 등산하다 | to hike, to climb a mountain | deungsanhada | 등산 + 하다; in casual talk 산에 가다 or 등산(을) 가다 is more common | 날씨가 좋아서 아침 일찍 등산했어요. | The weather was nice, so I went hiking early in the morning.
+- 등산복 | hiking clothes, outdoor wear | deungsanbok | 등산 (hiking) + 복 (服, clothes), like 운동복 and 수영복 | 주말에 입으려고 새 등산복을 샀어요. | I bought new hiking clothes to wear on the weekend.
 - 낚시 | fishing | naksi | 낚시를 가다 (go fishing); a fishing rod is 낚싯대 | 아버지는 바다낚시를 아주 좋아하세요. | My father really loves sea fishing.
-- 낚시하다 | to fish | naksihada | Place takes 에서: 강에서 낚시하다 | 삼촌하고 호수에서 낚시했어요. | I went fishing at the lake with my uncle.
+- 뜨개질 | knitting | tteugaejil | From 뜨다 (knit) + 질 (repeated action); 뜨개질을 하다 | 겨울에는 뜨개질로 목도리를 만들어요. | In winter I knit scarves.
 - 텐트 | tent | tenteu | Loanword; use 치다 to pitch one: 텐트를 치다 | 강 옆에 텐트를 쳤어요. | We pitched a tent by the river.
 - 테니스 | tennis | teniseu | Racket and club sports take 치다: 테니스를 치다 (but 축구를 하다) | 수요일 저녁에 테니스를 쳐요. | I play tennis on Wednesday evenings.
 - 탁구 | table tennis, ping-pong | takgu | 卓球: table + ball; also takes 치다 | 점심시간에 동료와 탁구를 쳐요. | I play ping-pong with a coworker at lunch.
@@ -54,7 +54,7 @@ score_max: 200
 - 음악회 | concert, recital | eumakoe | 음악 + 회 (會, gathering); pronounced 으마쾨 | 학교 음악회에서 노래를 불렀어요. | I sang at the school concert.
 - 전시회 | exhibition | jeonsihoe | 展示會: display + gathering; 전시회를 열다 = hold a show | 미술관에서 사진 전시회를 해요. | There's a photo exhibition at the art museum.
 - 예매 | advance booking (tickets) | yemae | 豫買: before + buy; for tickets — rooms use 예약 | 콘서트 표 예매가 내일부터예요. | Advance ticket sales for the concert start tomorrow.
-- 예매하다 | to buy tickets in advance | yemaehada | 표를 예매하다 vs 식당을 예약하다 (reserve a table) | 영화표를 인터넷으로 예매했어요. | I booked the movie tickets online.
+- 입장권 | admission ticket | ipjanggwon | 入場券: enter + place + ticket; pronounced 입짱꿘 | 박물관 입장권은 입구에서 살 수 있어요. | You can buy museum admission tickets at the entrance.
 - 관람하다 | to watch, to see (a show, game) | gwallamhada | 觀覽; formal — used on tickets and signs; say 보다 in chat | 경기를 관람하려면 표가 필요해요. | You need a ticket to watch the game.
 - 관객 | audience, spectator | gwangaek | 觀客: watch + guest; 관객이 많다 / 적다 | 공연이 끝나고 관객들이 박수를 쳤어요. | When the show ended, the audience clapped.
 - 감독 | director, (sports) coach | gamdok | 監督: oversee; 영화감독 (film director), 축구 감독 (soccer coach) | 그 영화 감독을 정말 좋아해요. | I really like that film director.
@@ -84,7 +84,7 @@ score_max: 200
 - 설거지 | dishwashing, the dishes | seolgeoji | Takes 하다: 설거지를 하다; no need to add 그릇 | 저녁을 먹고 제가 설거지를 했어요. | I did the dishes after dinner.
 - 정리하다 | to tidy up, to organize | jeongnihada | 整理; pronounced 정니하다; 방을 / 생각을 정리하다 | 토요일 아침에 방을 정리했어요. | I tidied up my room on Saturday morning.
 - 외식 | eating out | oesik | 外食: outside + meal ↔ 집밥 (home cooking) | 오랜만에 가족과 외식을 했어요. | I ate out with my family for the first time in a while.
-- 외식하다 | to eat out | oesikada | Pronounced 외시카다 — ㄱ and ㅎ merge | 생일이라서 친구들과 외식했어요. | It was my birthday, so I ate out with friends.
+- 나들이 | outing, day trip | nadeuri | A short trip out for fun; 봄나들이 = spring outing, 나들이를 가다 | 날씨가 따뜻해서 가족과 한강으로 나들이를 갔어요. | It was warm, so I went on an outing to the Han River with my family.
 - 즐기다 | to enjoy | jeulgida | Takes an object: 여행을 즐기다; for feelings use 즐겁다 | 주말에는 여유를 즐기는 편이에요. | I tend to relax and take it easy on weekends.
 - 흥미 | interest | heungmi | 興味; 흥미가 있다 / 없다, 흥미롭다 (interesting) | 요즘 요리에 흥미가 생겼어요. | I've gotten interested in cooking lately.
 - 관심 | interest, attention | gwansim | Takes 에: 음악에 관심이 있다 / 많다 | 저는 운동에 관심이 많아요. | I'm really interested in sports.

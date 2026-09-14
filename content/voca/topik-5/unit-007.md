@@ -24,7 +24,7 @@ score_max: 300
 - 심미적 | aesthetic | simmijeok | 審美: judging beauty; 적 makes it attributive: 심미적 가치 | 이 건축물은 기능성과 심미적 가치를 함께 지닌다. | This building has both functional and aesthetic value.
 - 감상하다 | to appreciate, to enjoy (art) | gamsanghada | Not 감사하다 (thank): 음악을 감상하다, 그림을 감상하다 | 관람객들은 조용히 그림을 감상하고 있었다. | The visitors were quietly taking in the paintings.
 - 창작 | creation, creative work | changjak | 創作: making something original; contrast 모방 (imitation) | 그는 은퇴 후 시 창작에 몰두하고 있다. | Since retiring, he has devoted himself to writing poetry.
-- 창작하다 | to create, to write (original work) | changjakada | Pronounced 창자카다 — ㄱ and ㅎ merge into ㅋ | 그녀는 전통 설화를 바탕으로 동화를 창작했다. | She wrote a children's story based on a traditional folktale.
+- 위작 | forgery, fake (artwork) | wijak | 僞作: 위 (false) + 작 (work); opposite 진품 (genuine piece) | 경매에 나온 그림이 위작으로 밝혀져 큰 파문이 일었다. | The painting put up for auction turned out to be a forgery, causing a huge stir.
 - 독창적 | original, creative | dokchangjeok | 獨創: 독 (alone) + 창 (create) — an idea no one else had | 심사위원들은 그의 독창적인 발상에 감탄했다. | The judges marveled at his original idea.
 - 모방 | imitation | mobang | Collocation: 모방에서 벗어나다 — to move beyond copying | 모든 창작은 모방에서 시작된다는 말이 있다. | There is a saying that all creation begins with imitation.
 - 영감 | inspiration | yeonggam | Pattern: ~에서 영감을 얻다 / 받다 | 작가는 어린 시절의 기억에서 영감을 얻었다. | The writer drew inspiration from childhood memories.
@@ -51,11 +51,11 @@ score_max: 300
 - 기법 | technique | gibeop | 技法: skill + method; 표현 기법, 촬영 기법 | 감독은 독특한 촬영 기법으로 긴장감을 높였다. | The director heightened tension with unique camera techniques.
 - 양식 | style, form | yangsik | Homonyms: 樣式 (style, form to fill in) vs 糧食 (food supply) | 이 성당은 고딕 양식으로 지어졌다. | This cathedral was built in the Gothic style.
 - 형상화 | embodiment, giving form to | hyeongsanghwa | 形象 (shape) + 化 (-ization): turning an idea into an image | 이 작품은 이별의 슬픔을 형상화한 것이다. | This work gives visual form to the sorrow of parting.
-- 형상화하다 | to embody, to give concrete form | hyeongsanghwahada | Takes an abstract object: 고독을 형상화하다 | 시인은 그리움을 달빛으로 형상화했다. | The poet rendered longing as moonlight.
+- 채색 | coloring, applying color | chaesaek | 彩色: 채 (color) + 색; 채색하다 = to color in, cf. 색채 (the colors) | 밑그림을 완성한 뒤에 채색 작업에 들어갔다. | After finishing the underdrawing, the artist moved on to coloring.
 - 묘사 | description, portrayal | myosa | 描寫: 묘 (draw) + 사 (copy); 심리 묘사 = psychological portrayal | 이 소설은 인물의 심리 묘사가 뛰어나다. | This novel excels at portraying its characters' inner lives.
-- 묘사하다 | to describe, to depict | myosahada | Detailed rendering; 설명하다 explains, 묘사하다 paints a picture | 작가는 시골 풍경을 생생하게 묘사했다. | The author vividly depicted the countryside.
+- 소묘 | drawing, sketch (in pencil or charcoal) | somyo | 素描: plain drawing without color; loanword 데생 means the same | 미대 입시생들은 매일 석고상 소묘를 연습한다. | Art school applicants practice drawing plaster casts every day.
 - 재현 | reproduction, re-creation | jaehyeon | 재 (再) = again + 현 (appear): 역사 재현, 사고 재현 | 이 드라마는 조선 시대 생활을 충실히 재현했다. | This drama faithfully re-created life in the Joseon era.
-- 재현하다 | to reproduce, to re-create | jaehyeonhada | Passive form: 재현되다 — 당시 모습이 재현되다 | 박물관은 옛 장터를 실물 크기로 재현했다. | The museum re-created an old marketplace at full scale.
+- 탐미적 | aestheticist, beauty-worshipping | tammijeok | 耽美: indulging in beauty; 탐미주의 = aestheticism | 그의 소설은 탐미적인 문체로 독자를 매혹한다. | His novels enchant readers with a style devoted to beauty.
 - 상징성 | symbolism, symbolic meaning | sangjingseong | 성 = quality: 상징 (symbol) + 성; ~는 상징성을 지니다 | 광화문은 역사적 상징성이 큰 장소이다. | Gwanghwamun is a place of great historical symbolism.
 - 은유 | metaphor | eunyu | 隱喩: hidden comparison; contrast 직유 (simile, uses 처럼) | "인생은 여행이다"는 대표적인 은유 표현이다. | "Life is a journey" is a classic metaphor.
 - 비유 | figure of speech, analogy | biyu | Umbrella term for 은유 and 직유; A를 B에 비유하다 | 그는 인생을 마라톤에 비유하곤 했다. | He often compared life to a marathon.

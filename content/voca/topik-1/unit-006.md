@@ -25,7 +25,7 @@ score_max: 200
 - 얼마 | how much | eolma | Set phrase for prices: 얼마예요? | 이 모자는 얼마예요? | How much is this hat?
 - 얼마나 | how, how long | eolmana | Goes before an adjective or verb: 얼마나 걸려요? | 여기에서 역까지 얼마나 걸려요? | How long does it take from here to the station?
 - 계산 | paying the bill, calculation | gyesan | 計算 = count + reckon; 계산대 is the checkout counter | 계산은 저기에서 해 주세요. | Please pay over there.
-- 계산하다 | to pay, to calculate | gyesanhada | Ask the cashier: 계산해 주세요 | 제가 오늘 저녁을 계산할게요. | I'll pay for dinner tonight.
+- 교환 | exchange, swap | gyohwan | 交換 = trade + change; 교환하다 at the store, 바꾸다 in everyday talk | 이 신발을 다른 색으로 교환할 수 있어요? | Can I exchange these shoes for another color?
 - 카드 | card | kadeu | Used with 로: 카드로 계산할게요 | 카드로 내도 돼요? | Can I pay by card?
 - 신용카드 | credit card | sinyongkadeu | 信用 (trust) + 카드; 체크카드 is a debit card | 신용카드를 집에 두고 왔어요. | I left my credit card at home.
 - 현금 | cash | hyeongeum | 現金 = present + money; pay with 현금으로 | 이 식당은 현금만 받아요. | This restaurant only takes cash.
@@ -88,9 +88,9 @@ score_max: 200
 - 봉투 | bag, envelope | bongtu | At checkout: 봉투 필요하세요? (Need a bag?) | 봉투에 넣어 드릴까요? | Shall I put it in a bag for you?
 - 포장 | wrapping, takeout | pojang | 包裝; 포장해 주세요 works for gifts and for takeout | 선물 포장을 해 주세요. | Please gift-wrap it.
 - 쇼핑 | shopping | syoping | Pairs with 가다: 쇼핑하러 가다 | 저는 쇼핑을 정말 좋아해요. | I really love shopping.
-- 쇼핑하다 | to shop | syopinghada | Place takes 에서: 백화점에서 쇼핑하다 | 명동에서 쇼핑하고 싶어요. | I want to go shopping in Myeongdong.
+- 팔찌 | bracelet | paljji | 팔 (arm) + 찌; worn with 차다 or 하다: 팔찌를 차다 | 친구에게 예쁜 팔찌를 선물했어요. | I gave my friend a pretty bracelet.
 - 구경 | looking around, sightseeing | gugyeong | Shop phrase: 그냥 구경하고 있어요 (just browsing) | 시장 구경이 재미있어요. | Looking around the market is fun.
-- 구경하다 | to look around, to browse | gugyeonghada | For browsing or sights; 보다 is just "to see" | 그냥 구경하는 거예요. | I'm just looking.
+- 잠옷 | pajamas | jamot | 잠 (sleep) + 옷 (clothes); pronounced 자몯 | 따뜻한 잠옷을 한 벌 샀어요. | I bought a set of warm pajamas.
 - 잔돈 | change (money) | jandon | 잔 (small) + 돈; the money you get back | 잔돈 여기 있어요. | Here's your change.
 - 동전 | coin | dongjeon | 銅錢 = copper money; bills are 지폐 | 동전이 많아서 지갑이 무거워요. | My wallet is heavy with coins.
 - 공책 | notebook | gongchaek | 空冊 = empty book; paper notebook, not a laptop | 공책 두 권 주세요. | Two notebooks, please.

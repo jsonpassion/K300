@@ -14,14 +14,14 @@ score_max: 300
 
 # Level 6 · Mastery · Book 012 — Near-synonym pairs
 
-- 간과하다 | to overlook, to miss | gangwahada | 看過 = see past it; unintentional, vs 묵과 (knowingly let slide) | 연구진은 표본의 편향이라는 중요한 문제를 간과하였다. | The researchers overlooked the important problem of sampling bias.
-- 묵과하다 | to tolerate, to turn a blind eye to | mukgwahada | 默過 = pass in silence; usually negated: 더 이상 묵과할 수 없다 | 정부는 이러한 불법 행위를 더 이상 묵과하지 않겠다고 밝혔다. | The government said it would no longer tolerate such illegal acts.
-- 답습하다 | to follow blindly, to repeat the old way | dapseupada | 踏襲 = step in old footprints; critical tone: 관행을 답습하다 | 새 정부 역시 과거의 잘못된 정책을 답습하고 있다. | The new government is also repeating the misguided policies of the past.
+- 묵살하다 | to ignore, to brush off | muksalhada | 默殺 = kill with silence; for demands or reports: 의견을 묵살하다 | 회사는 직원들의 안전 개선 요구를 번번이 묵살했다. | The company repeatedly brushed off employees' demands for better safety.
+- 방임하다 | to leave unchecked, to let alone | bangimhada | 放任 = let loose; 방임주의 (laissez-faire), 아동 방임 (child neglect) | 문제를 방임하면 결국 더 큰 사회적 비용을 치르게 된다. | Leave the problem unchecked, and society will end up paying a much higher price.
+- 구태의연하다 | to be stuck in old ways, to be outdated | gutaeuiyeonhada | 舊態依然 = old state as ever; methods or thinking: 구태의연한 방식 | 구태의연한 홍보 방식으로는 젊은 소비자를 사로잡을 수 없다. | Old-fashioned marketing methods cannot win over young consumers.
 - 취합하다 | to compile, to gather together | chwihapada | 聚合: collect scattered data or opinions into one place | 각 부서의 의견을 취합하여 다음 주에 보고하겠습니다. | We will compile each department's opinions and report next week.
 - 쇄신 | reform, overhaul | swaesin | 刷新 = brush clean; organizations: 인적 쇄신, 쇄신안 | 잇따른 비리로 당 지도부는 대대적인 쇄신을 약속했다. | After a string of scandals, the party leadership promised a sweeping overhaul.
 - 일신 | complete renewal, fresh start | ilsin | 一新 = entirely new; often 면모를 일신하다 (take on a new look) | 경기장은 보수 공사를 거쳐 면모를 일신하였다. | After renovations, the stadium took on a completely new look.
 - 함축 | implication, connotation | hamchuk | 含蓄 = hold inside; 함축적 의미 = meaning between the lines | 시인은 짧은 구절에 삶의 의미를 함축하였다. | The poet packed the meaning of life into a short line.
-- 귀착 | conclusion, ending up | gwichak | 歸着 = arrive back; pattern ~(으)로 귀착되다 | 오랜 논쟁은 결국 원점으로 귀착되고 말았다. | The long debate ended up right back where it started.
+- 귀착 | conclusion, ending up | gwichak | 歸着 = arrive back; pattern ~(으)로 귀착되다 | 두 사람의 오랜 감정싸움은 결국 법정 다툼으로 귀착되었다. | The two men's long-running feud finally landed them in a court battle.
 - 미흡하다 | to be insufficient, to fall short | miheupada | 未洽 = not yet satisfying; for responses, measures: 대책이 미흡하다 | 피해자들은 정부의 대응이 미흡하다고 비판했다. | Victims criticized the government's response as inadequate.
 - 미진하다 | to be incomplete, to leave something undone | mijinhada | 未盡 = not yet exhausted; 미진한 부분 = loose ends to finish | 미진한 부분은 다음 회의에서 추가로 논의하겠습니다. | We will discuss the unfinished points further at the next meeting.
 - 팽배하다 | to be widespread, to be rampant | paengbaehada | 澎湃 = surging water; for moods: 불신이 팽배하다 | 사회 전반에 정치에 대한 불신이 팽배해 있다. | Distrust of politics is widespread throughout society.
@@ -53,7 +53,7 @@ score_max: 300
 - 과시하다 | to show off, to display | gwasihada | 誇示: can be neutral: 국력을 과시하다 (show national strength) | 그 나라는 대규모 열병식으로 군사력을 과시했다. | The country showed off its military might with a massive parade.
 - 으스대다 | to swagger, to put on airs | euseudaeda | Native, always negative about a person; vs 과시 (flaunt a thing) | 그는 승진하더니 동료들 앞에서 으스대기 시작했다. | Once promoted, he began to put on airs in front of his coworkers.
 - 겸양 | modesty, humility | gyeomyang | 謙讓 = humble and yielding; 겸양의 미덕, 겸양어 (humble speech) | 한국 문화에서는 겸양을 중요한 미덕으로 여긴다. | In Korean culture, modesty is regarded as an important virtue.
-- 관조하다 | to contemplate, to observe detachedly | gwanjohada | 觀照: calm, detached gaze; 삶을 관조하다 in literary essays | 노년의 시인은 담담한 시선으로 삶을 관조하였다. | The aging poet contemplated life with a serene gaze.
+- 침잠하다 | to sink deep into thought, to be absorbed | chimjamhada | 沈潛 = sink and submerge; inward immersion: 사색에 침잠하다 | 그는 은퇴 후 시골에 머물며 독서와 사색에 침잠하였다. | After retiring, he stayed in the countryside, immersed in reading and quiet thought.
 - 회고하다 | to look back on, to recall | hoegohada | 回顧: memoir register; 회고록 = memoir | 그는 자서전에서 험난했던 청년 시절을 회고했다. | In his autobiography, he looked back on his rough younger years.
 - 반추하다 | to ruminate, to reflect on | banchuhada | 反芻 = chew the cud; mulling over again and again | 그녀는 지난날의 실수를 조용히 반추하며 밤을 보냈다. | She spent the night quietly reflecting on her past mistakes.
 - 체념 | resignation, giving up | chenyeom | 諦念: accepting fate inwardly; vs 단념 (decide to quit a goal) | 오랜 투병 끝에 그의 얼굴에는 체념의 빛이 역력했다. | After his long illness, resignation was written all over his face.
@@ -67,7 +67,7 @@ score_max: 300
 - 고무하다 | to inspire, to encourage | gomuhada | 鼓舞 = drum and dance; 고무적 = encouraging (news, results) | 감독의 연설은 선수들의 사기를 크게 고무하였다. | The coach's speech greatly boosted the players' morale.
 - 회유하다 | to win over, to coax | hoeyuhada | 懷柔: sweet-talking opponents to your side; vs 협박 (threaten) | 회사는 금전적 보상으로 반대 주민들을 회유하려 했다. | The company tried to win over opposing residents with monetary compensation.
 - 은닉하다 | to conceal, to hide | eunnikada | 隱匿: legal register, 재산 은닉, 범인 은닉; pronounced 은니카다 | 그는 해외 계좌에 거액의 재산을 은닉한 혐의를 받고 있다. | He is suspected of hiding a fortune in overseas accounts.
-- 호도하다 | to gloss over, to mislead | hodohada | 糊塗 = paste over; 진실을 호도하다, 여론을 호도하다 | 일부 언론이 사건의 본질을 호도하고 있다는 비판이 나왔다. | Critics said some media outlets were misrepresenting what the case was really about.
+- 기만하다 | to deceive, to hoodwink | gimanhada | 欺瞞 = cheat and hide; betraying trust: 국민을 기만하다, 기만적 광고 | 허위 수치로 소비자를 기만한 업체에 과징금이 부과되었다. | A penalty was imposed on the company that misled consumers with false figures.
 - 잔존하다 | to remain, to survive | janjonhada | 殘存 = left over; 잔존 세력 (remnant forces), 잔존 가치 (residual value) | 전쟁의 상처가 아직도 마을 곳곳에 잔존하고 있다. | The scars of war still remain all over the village.
 - 각박하다 | to be heartless, to be harsh | gakbakada | 刻薄: people or society lacking warmth; 인심이 각박하다 | 세상이 각박해질수록 이웃 간의 정이 더욱 소중하다. | The colder the world becomes, the more precious neighborly warmth is.
 - 삭막하다 | to be bleak, to be desolate | sangmakada | 索莫: landscapes or city life; pronounced 상마카다 | 회색 빌딩만 늘어선 도심 풍경이 삭막하게 느껴진다. | The downtown scenery, lined only with gray buildings, feels bleak.
@@ -83,8 +83,8 @@ score_max: 300
 - 식상하다 | to be tired of, to be clichéd | siksanghada | 食傷 = sick from overeating; 식상한 소재 (stale material) | 뻔한 결말의 드라마에 시청자들은 이미 식상해 있다. | Viewers are already tired of dramas with predictable endings.
 - 결여 | lack, absence | gyeoryeo | 缺如: formal; ~이/가 결여되다: 도덕성이 결여되다 | 그의 주장에는 객관적 근거가 결여되어 있다. | His argument lacks objective evidence.
 - 곤궁하다 | to be destitute, to be in straits | gongunghada | 困窮: hardship with no way out; 곤궁한 처지 | 전쟁 이후 백성들은 곤궁한 삶을 이어 갔다. | After the war, the people carried on lives of hardship.
-- 번성하다 | to flourish, to thrive | beonseonghada | 繁盛: families, species, businesses; 자손이 번성하다 | 이 항구 도시는 해상 무역으로 크게 번성하였다. | This port city flourished greatly through maritime trade.
-- 융성하다 | to prosper, to be in its heyday | yungseonghada | 隆盛: nations, cultures, eras; grander than 번성 | 통일 신라 시대에는 불교문화가 크게 융성하였다. | Buddhist culture prospered greatly during the Unified Silla period.
+- 번성하다 | to flourish, to thrive | beonseonghada | 繁盛: families, species, cities; 자손이 번성하다 | 이 항구 도시는 해상 무역으로 크게 번성하였다. | This port city flourished greatly through maritime trade.
+- 번창하다 | to prosper, to do good business | beonchanghada | 繁昌: shops and trade, vs 번성 (species, families); 사업이 번창하다 | 개업을 축하드리며 사업이 날로 번창하시기를 바랍니다. | Congratulations on your opening, and may your business grow busier every day.
 - 요긴하다 | to be handy, to be vital | yoginhada | 要緊: practical usefulness: 요긴하게 쓰다 (put to good use) | 여행 중에 챙겨 간 비상약을 요긴하게 썼다. | The emergency medicine I packed came in handy during the trip.
 - 긴요하다 | to be essential, to be crucial | ginyohada | 緊要: formal importance; 긴요한 과제 — same hanja as 요긴, flipped | 기후 위기 대응을 위한 국제 협력이 무엇보다 긴요하다. | International cooperation to tackle the climate crisis is essential above all.
 - 유려하다 | to be flowing, to be elegant | yuryeohada | 流麗 = flowing beauty; for writing or music: 유려한 문체 | 작가의 유려한 문장이 독자를 단숨에 사로잡는다. | The author's elegant prose captivates readers at once.

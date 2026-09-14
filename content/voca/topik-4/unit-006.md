@@ -111,6 +111,6 @@ score_max: 300
 - 명예퇴직 | voluntary early retirement | myeongyetoejik | Offered with a payout; 명퇴 for short | 회사는 50대 직원들을 대상으로 명예퇴직 신청을 받았습니다. | The company took applications for early retirement from staff in their 50s.
 - 정년퇴직 | retirement at mandatory age | jeongnyeontoejik | 정년 (停年) = retirement age, e.g., 60 | 아버지는 30년 동안 근무한 뒤 정년퇴직하셨습니다. | My father retired at the mandatory age after working 30 years.
 - 근로기준법 | Labor Standards Act | geullogijunbeop | Pronounced 글로기준뻡; the core Korean labor law | 근로기준법에 따라 주휴수당을 지급해야 합니다. | Weekly holiday pay must be provided under the Labor Standards Act.
-- 파업하다 | to go on strike | paeophada | Also 파업에 들어가다 / 돌입하다 in news | 철도 노조가 다음 주부터 파업하기로 결정했습니다. | The railway union decided to strike starting next week.
+- 노동쟁의 | labor dispute | nodongjaengui | 爭議 = dispute; 노동쟁의 조정 = official mediation before a strike | 임금 협상이 결렬되자 노조는 노동쟁의 조정을 신청했습니다. | When wage talks broke down, the union filed for labor dispute mediation.
 - 노동시장 | labor market | nodongsijang | 노동 + 시장 (market); 노동시장 유연화 = flexibility | 인공지능의 발달로 노동시장이 빠르게 변하고 있습니다. | The labor market is changing fast with advances in AI.
 - 취업률 | employment rate | chwieomnyul | Pronounced 취엄뉼; contrast 실업률 (unemployment rate) | 이 학과는 졸업생 취업률이 높기로 유명합니다. | This department is known for its high graduate employment rate.

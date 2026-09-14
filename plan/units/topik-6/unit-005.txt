@@ -82,7 +82,7 @@
 소득재분배 | sodeukjaebunbae
 역진세 | yeokjinse
 조세부담률 | josebudamnyul
-지니계수 | jinigyesu
+로렌츠곡선 | rorencheugokseon
 낙수효과 | naksuhyogwa
 관세장벽 | gwansejangbyeok
 덤핑 | deomping

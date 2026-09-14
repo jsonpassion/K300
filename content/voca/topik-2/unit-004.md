@@ -17,7 +17,7 @@ score_max: 200
 - 관광 | sightseeing, tourism | gwangwang | 觀光: 관 (see) + 광 (light, glory); 관광버스, 관광 안내소 | 이번 여행은 관광보다 휴식이 목적이에요. | This trip is more about resting than sightseeing.
 - 관광지 | tourist attraction, tourist spot | gwangwangji | 관광 + 지 (地, place) — compare 여행지 (travel destination) | 제주도는 유명한 관광지라서 사람이 많아요. | Jeju Island is a famous tourist spot, so it's crowded.
 - 관광객 | tourist | gwangwanggaek | -객 (客) = guest, visitor: 관광객, 승객, 여행객 | 명동에는 외국인 관광객이 정말 많아요. | There are so many foreign tourists in Myeongdong.
-- 관광하다 | to go sightseeing, to tour | gwangwanghada | Place + 을/를: 시내를 관광하다 | 오후에는 시내를 관광할 거예요. | We're going to tour the city this afternoon.
+- 유람선 | cruise boat, sightseeing boat | yuramseon | 遊覽船: 유람 (sightseeing trip) + 선 (船, ship); 유람선을 타다 | 저녁에 한강에서 유람선을 탔어요. | We took a sightseeing boat on the Han River in the evening.
 - 여권 | passport | yeogwon | 旅券: 여 (travel) + 권 (ticket, document); 여권을 만들다 = get one | 공항에 가기 전에 여권을 꼭 챙기세요. | Be sure to pack your passport before going to the airport.
 - 비자 | visa | bija | Loanword; 비자를 받다 (get) / 비자가 나오다 (be issued) | 한국에서 일하려면 비자를 받아야 해요. | You need to get a visa to work in Korea.
 - 비행기표 | plane ticket | bihaenggipyo | Everyday word; 항공권 is the formal term on booking sites | 방학 때 가려고 비행기표를 미리 샀어요. | I bought a plane ticket in advance for the vacation.
@@ -26,9 +26,9 @@ score_max: 200
 - 입국 | entry into a country | ipguk | 입 (in) + 국 (country) ↔ 출국; 입국 신고서 = arrival card | 입국할 때 여권을 보여 줘야 해요. | You have to show your passport when you enter the country.
 - 면세점 | duty-free shop | myeonsejeom | 면세 (免稅, tax-free) + 점 (店, shop) | 공항 면세점에서 화장품을 샀어요. | I bought cosmetics at the airport duty-free shop.
 - 출발 | departure | chulbal | ↔ 도착 (arrival); 출발 시간 = departure time | 비행기 출발 시간이 한 시간 늦어졌어요. | The flight's departure time was delayed by an hour.
-- 출발하다 | to depart, to leave | chulbalhada | Place + 에서: 서울에서 출발하다 | 기차가 아침 여덟 시에 서울에서 출발해요. | The train leaves Seoul at eight in the morning.
+- 차표 | bus or train ticket | chapyo | 차 (vehicle) + 표 (ticket); 차표를 끊다 = buy one; formal term is 승차권 | 명절에는 차표를 구하기가 어려워요. | It's hard to get bus or train tickets during the holidays.
 - 도착 | arrival | dochak | ↔ 출발; 도착 시간, 도착 예정 = expected arrival | 도착 예정 시간은 오후 세 시예요. | The expected arrival time is 3 p.m.
-- 도착하다 | to arrive | dochakada | Place + 에: 공항에 도착하다. Pronounced 도차카다 | 부산에 도착하면 전화해 주세요. | Please call me when you arrive in Busan.
+- 표지판 | sign, signpost | pyojipan | 표지 (標識, marker) + 판 (board); 표지판을 따라가다 = follow the signs | 표지판을 보고 출구를 찾았어요. | I found the exit by looking at the signs.
 - 탑승 | boarding | tapseung | 搭乘: 탑승 시간 (boarding time), 탑승구 (boarding gate) | 탑승 시간은 출발 삼십 분 전이에요. | Boarding time is thirty minutes before departure.
 - 탑승권 | boarding pass | tapseunggwon | 탑승 + 권 (券, ticket) — same 권 as 여권, 항공권 | 탑승권과 여권을 함께 보여 주세요. | Please show your boarding pass along with your passport.
 - 좌석 | seat | jwaseok | Formal for 자리; 좌석 번호 (seat number), 좌석을 예약하다 | 제 좌석 번호는 12A예요. | My seat number is 12A.
@@ -46,7 +46,7 @@ score_max: 200
 - 위치 | location | wichi | 位置: 위치가 좋다 = conveniently located; 위치하다 = be located | 이 숙소는 위치가 좋아서 편해요. | This place is conveniently located.
 - 안내 | guidance, information | annae | 案內: 안내 방송 (announcement), 안내문 (notice) | 공항에서 탑승 안내 방송이 나왔어요. | A boarding announcement came on at the airport.
 - 안내소 | information desk, info center | annaeso | 안내 + 소 (所, place); 관광 안내소 = tourist info center | 관광 안내소에서 지도를 받았어요. | I got a map at the tourist information center.
-- 안내하다 | to guide, to show the way | annaehada | Person + 을/를 + place + (으)로: 손님을 방으로 안내하다 | 직원이 우리를 객실로 안내했어요. | A staff member showed us to our room.
+- 휴가철 | vacation season, peak travel season | hyugacheol | -철 = season: 휴가철, 장마철; roads and flights fill up | 휴가철에는 비행기표가 비싸요. | Plane tickets are expensive during vacation season.
 - 가이드 | tour guide | gaideu | Loanword; 가이드북 = guidebook; formal 안내원 | 가이드가 궁의 역사를 설명해 줬어요. | The guide explained the history of the palace.
 - 기념품 | souvenir | ginyeompum | 기념 (記念, remember) + 품 (品, item); 기념품 가게 = gift shop | 친구에게 줄 기념품을 샀어요. | I bought a souvenir to give my friend.
 - 특산물 | local specialty | teuksanmul | 특 (特, special) + 산 (産, produce) + 물 (物, thing) | 제주도 특산물은 귤이에요. | Tangerines are Jeju's local specialty.
@@ -63,7 +63,7 @@ score_max: 200
 - 터미널 | bus terminal | teomineol | Loanword; 고속버스 터미널 — for buses, not just airports | 버스 터미널에서 표를 샀어요. | I bought a ticket at the bus terminal.
 - 기사 | driver | gisa | 技士: 버스 기사, 택시 기사; add 님 when addressing: 기사님 | 택시 기사님이 길을 잘 아세요. | The taxi driver knows the roads well.
 - 운전 | driving | unjeon | 運轉: 운전을 잘하다 = be a good driver; 음주 운전 = drunk driving | 저는 아직 운전이 서툴러요. | I'm still not good at driving.
-- 운전하다 | to drive | unjeonhada | Car + 을/를: 차를 운전하다; takes vehicles, not people | 아버지는 항상 조심해서 차를 운전하세요. | My father always drives carefully.
+- 렌터카 | rental car | renteoka | Konglish from "rent-a-car"; 렌터카를 빌리다 — needs a 운전면허 | 제주도에서는 렌터카를 빌려서 여행했어요. | We rented a car to get around Jeju.
 - 운전면허 | driver's license | unjeonmyeonheo | 면허 (免許, license); 운전면허를 따다 = get a license | 대학생 때 운전면허를 땄어요. | I got my driver's license in college.
 - 오토바이 | motorcycle, scooter | otobai | Via Japanese, from "auto-bicycle"; 오토바이를 타다 | 오토바이를 탈 때는 헬멧을 써야 해요. | You must wear a helmet when riding a motorcycle.
 - 항구 | port, harbor | hanggu | 港口: 항 (port) + 구 (mouth); 공항 = air port with the same 항 | 배가 항구에 도착했어요. | The ship arrived at the port.

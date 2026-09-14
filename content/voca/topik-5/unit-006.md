@@ -14,14 +14,14 @@ score_max: 300
 
 # Level 5 · Advanced · Book 006 — Welfare and inequality
 
-- 빈부 격차 | gap between rich and poor, wealth gap | binbu gyeokcha | 貧富 = poor + rich; often with 커지다 or 줄이다 | 경제가 성장해도 빈부 격차는 오히려 커지고 있다. | Even as the economy grows, the wealth gap is actually widening.
-- 소외 계층 | marginalized groups, the underprivileged | soe gyecheung | 疏外 = pushed aside; 소외되다 = to be left out | 정부는 소외 계층을 위한 지원을 확대하기로 했다. | The government decided to expand support for marginalized groups.
-- 취약 계층 | vulnerable groups | chwiyak gyecheung | 脆弱 = fragile; 취약하다 also means weak in a skill | 폭염이 계속되자 취약 계층에 대한 보호 대책이 마련되었다. | As the heat wave continued, protective measures for vulnerable groups were prepared.
-- 사회 안전망 | social safety net | sahoe anjeonmang | 안전 (safety) + 망 (網, net); often with 구축하다 or 강화하다 | 경제 위기일수록 사회 안전망을 튼튼히 해야 한다. | In times of economic crisis, the social safety net needs to be all the stronger.
-- 기초 생활 수급자 | basic livelihood recipient | gicho saenghwal sugeupja | Official term for people on Korea's main welfare benefit; -자 = person | 기초 생활 수급자로 선정되면 매달 생계비를 지원받는다. | Once selected as a basic livelihood recipient, you receive living expenses every month.
+- 극빈층 | the extremely poor, the destitute | geukbincheung | 極貧 = extreme poverty; a step below 빈곤층 | 극빈층 가구는 난방비조차 감당하기 어려운 형편이다. | Destitute households can barely even afford heating costs.
+- 공공 부조 | public assistance | gonggong bujo | 扶助 = help; tax-funded aid, unlike contribution-based 사회 보험 | 공공 부조는 스스로 생활하기 어려운 국민에게 최소한의 생활을 보장한다. | Public assistance guarantees a minimum standard of living to citizens who cannot support themselves.
+- 생활고 | financial hardship, struggle to make ends meet | saenghwalgo | 苦 = suffering; often 생활고에 시달리다 (to suffer hardship) | 오랜 실직으로 생활고에 시달리던 가족이 긴급 지원을 받게 되었다. | A family who had long struggled with hardship after losing work received emergency aid.
+- 사회 보험 | social insurance | sahoe boheom | Covers 국민연금, 건강 보험, 고용 보험 and 산재 보험, funded by contributions | 모든 근로자는 법에 따라 사회 보험에 가입해야 한다. | By law, every worker must be enrolled in social insurance.
+- 빈곤선 | poverty line | bingonseon | 선 (線) = line; 빈곤선 이하 = below the poverty line | 물가가 급등하면서 빈곤선 아래로 떨어지는 가구가 늘었다. | As prices soared, more households fell below the poverty line.
 - 수급 | receipt of benefits, supply and demand | sugeup | Two Hanja: 受給 (receiving benefits) vs 需給 (supply and demand) | 연금 수급 연령이 점차 늦춰질 전망이다. | The age for receiving pension benefits is expected to be pushed back gradually.
 - 기초 연금 | basic pension | gicho yeongeum | Tax-funded pension for low-income seniors, unlike contribution-based 국민연금 | 만 65세 이상 노인은 소득에 따라 기초 연금을 받을 수 있다. | Seniors aged 65 and over can receive a basic pension depending on their income.
-- 최저 임금 | minimum wage | choejeo imgeum | 최저 (lowest) ↔ 최고 (highest); set each year by a national committee | 내년도 최저 임금 인상률을 두고 노사 간 갈등이 깊어졌다. | Conflict between labor and management deepened over next year's minimum wage increase.
+- 편중 | concentration, imbalance | pyeonjung | 偏重 = leaning to one side; 부의 편중 = concentration of wealth | 소수에게 부가 편중되면 사회 갈등이 커지기 쉽다. | When wealth is concentrated in a few hands, social conflict tends to grow.
 - 최저 생계비 | minimum cost of living | choejeo saenggyebi | 생계 (livelihood) + 비 (費, cost); replaced by 기준 중위소득 in 2015 welfare rules | 그 가구의 소득은 최저 생계비에도 미치지 못한다. | That household's income does not even reach the minimum cost of living.
 - 생계 | livelihood, living | saenggye | Common set phrases: 생계를 유지하다, 생계가 막막하다 | 그는 실직 후 아르바이트로 겨우 생계를 유지하고 있다. | After losing his job, he is barely making a living from part-time work.
 - 빈민 | the poor, poor people | binmin | 貧民; 빈민가 = slum, 빈민촌 = poor village | 그 단체는 도시 빈민의 주거 문제를 해결하려고 노력해 왔다. | That organization has worked to solve the housing problems of the urban poor.

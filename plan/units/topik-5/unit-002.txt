@@ -2,12 +2,12 @@
 # unit: voca-5-u002
 대응책 | daeeungchaek
 예방책 | yebangchaek
-억제하다 | eokjehada
+과잉 규제 | gwaing gyuje
 단속 | dansok
 처벌하다 | cheobeolhada
 징계 | jinggye
 제재 | jejae
-제재하다 | jejaehada
+벌점 | beoljeom
 과징금 | gwajinggeum
 벌칙 | beolchik
 위반하다 | wibanhada
@@ -31,7 +31,7 @@
 묵인하다 | muginhada
 방치하다 | bangchihada
 근절 | geunjeol
-근절하다 | geunjeolhada
+감찰 | gamchal
 척결 | cheokgyeol
 차단하다 | chadanhada
 봉쇄 | bongswae
@@ -49,7 +49,7 @@
 구속력 | gusongnyeok
 발효되다 | balhyodoeda
 유예 | yuye
-유예하다 | yuyehada
+사후 관리 | sahu gwalli
 보완책 | bowanchaek
 개선책 | gaeseonchaek
 미봉책 | mibongchaek
@@ -79,16 +79,16 @@
 소홀하다 | soholhada
 문책 | munchaek
 권고 | gwongo
-권고하다 | gwongohada
+자진 신고 | jajin singo
 시정 | sijeong
-시정하다 | sijeonghada
+집행하다 | jiphaenghada
 당국 | dangguk
 무분별하다 | mubunbyeolhada
 난립 | nallip
 엄단 | eomdan
 일벌백계 | ilbeolbaekgye
 규제책 | gyujechaek
-징계하다 | jinggyehada
+등록제 | deungnokje
 규제 완화 | gyuje wanhwa
 규제 강화 | gyuje ganghwa
 제재 조치 | jejae jochi
@@ -98,5 +98,5 @@
 감독 기관 | gamdok gigwan
 실태 조사 | siltae josa
 재발 방지 | jaebal bangji
-엄단하다 | eomdanhada
+경고 조치 | gyeonggo jochi
 불시 점검 | bulsi jeomgeom

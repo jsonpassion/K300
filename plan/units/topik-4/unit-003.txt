@@ -47,7 +47,7 @@
 구호 | guho
 층간소음 | cheunggansoeum
 악성댓글 | akseongdaetgeul
-개인정보 | gaeinjeongbo
+보이스피싱 | boiseupising
 감시 | gamsi
 양성평등 | yangseongpyeongdeung
 고정관념 | gojeonggwannyeom

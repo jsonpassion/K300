@@ -51,7 +51,7 @@ score_max: 300
 - 투사 | projection | tusa | 投射: throw + shoot; pinning your own flaws on others | 자신의 불안을 남의 탓으로 돌리는 것은 일종의 투사이다. | Blaming others for your own anxiety is a form of projection.
 - 합리화 | rationalization | hamnihwa | 합리 (合理) reason + 화 (化) making; pronounced 함니화 | 그는 실수를 인정하지 않고 자기 합리화에만 급급했다. | Rather than admit his mistake, he was busy justifying himself.
 - 회피 | avoidance, evasion | hoepi | 回避: turn + escape; 책임 회피 = dodging responsibility | 문제에 대한 회피는 상황을 더욱 악화시킬 뿐이다. | Avoiding a problem only makes things worse.
-- 회피하다 | to avoid, evade | hoepihada | Formal; 책임을 회피하다; say 피하다 in conversation | 그는 기자들의 날카로운 질문을 끝까지 회피하려 했다. | He tried to dodge the reporters' pointed questions to the very end.
+- 현실 도피 | escapism, escape from reality | hyeonsil dopi | 도피 (逃避) = flee + avoid; broader than 회피 (dodging one issue) | 그는 게임에 몰두하며 현실 도피를 일삼았다. | He kept escaping reality by losing himself in video games.
 - 퇴행 | regression | toehaeng | 退行: step back; e.g. an older child acting like a baby again | 동생이 태어나자 첫째 아이에게 퇴행 행동이 나타났다. | After the new baby arrived, the older child began showing regressive behavior.
 - 트라우마 | trauma | teurauma | Loanword; Sino-Korean 정신적 외상; 트라우마로 남다 | 어린 시절의 사고는 그에게 깊은 트라우마로 남았다. | The accident in his childhood left him deeply traumatized.
 - 외상 | external injury, trauma | oesang | 外傷: outer wound; 외상 후 스트레스 장애 = PTSD | 전쟁을 겪은 군인들은 외상 후 스트레스 장애를 앓기도 한다. | Soldiers who have been through war may suffer from PTSD.

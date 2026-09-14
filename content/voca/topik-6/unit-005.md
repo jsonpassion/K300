@@ -96,7 +96,7 @@ score_max: 300
 - 소득재분배 | income redistribution | sodeukjaebunbae | 재 (再) = again + 분배 (distribution); done via tax and welfare | 누진세는 소득재분배 효과를 가진다. | Progressive taxation has an income redistribution effect.
 - 역진세 | regressive tax | yeokjinse | 逆進 = go backward ↔ 누진세 (累進稅, progressive tax) | 부가가치세는 역진세의 성격이 강하다. | The value-added tax is strongly regressive in nature.
 - 조세부담률 | tax burden ratio | josebudamnyul | Taxes as a share of GDP; 률 is read 뉼 after ㅁ | 우리나라의 조세부담률은 OECD 평균보다 낮다. | Korea's tax burden ratio is lower than the OECD average.
-- 지니계수 | Gini coefficient | jinigyesu | 0 = perfect equality, 1 = total inequality | 지니계수가 높을수록 소득 불평등이 심하다. | The higher the Gini coefficient, the worse income inequality is.
+- 로렌츠곡선 | Lorenz curve | rorencheugokseon | Named after M. O. Lorenz; the farther it sags from the 45° line, the less equal | 로렌츠곡선이 대각선에서 멀어질수록 소득 분배가 불평등하다는 뜻이다. | The farther the Lorenz curve bows away from the diagonal, the more unequal the income distribution.
 - 낙수효과 | trickle-down effect | naksuhyogwa | 落水 = falling water; often criticized in editorials | 대기업 감세의 낙수효과는 크지 않았다. | Tax cuts for large firms had little trickle-down effect.
 - 관세장벽 | tariff barrier | gwansejangbyeok | Contrast 비관세장벽 (non-tariff barrier: quotas, rules) | 각국이 관세장벽을 높이며 무역 갈등이 심해졌다. | Trade tensions deepened as countries raised tariff barriers.
 - 덤핑 | dumping (below-cost exports) | deomping | Loanword; 반덤핑 관세 = anti-dumping duty | 외국산 철강의 덤핑 판매에 반덤핑 관세가 부과되었다. | Anti-dumping duties were imposed on cheap foreign steel.

@@ -14,38 +14,38 @@ score_max: 300
 
 # Level 4 · Upper-intermediate · Book 009 — Formal 하다 verbs
 
-- 실시하다 | to carry out, to conduct | silsihada | 實施; news staple: 조사를 / 시험을 / 정책을 실시하다 | 정부는 전국 초등학생을 대상으로 건강 검사를 실시했습니다. | The government conducted health checkups for elementary students nationwide.
-- 시행하다 | to put into effect, to enforce | sihaenghada | 施行; for laws and rules — passive: 새 법이 다음 달부터 시행되다 | 정부는 다음 달부터 새로운 교통 법규를 시행합니다. | The government will put new traffic rules into effect next month.
+- 발행하다 | to issue, to publish | balhaenghada | 發行; bonds, stamps, certificates, magazines: 채권을 / 잡지를 발행하다 | 한국은행은 새로운 디자인의 기념주화를 발행했습니다. | The Bank of Korea issued commemorative coins with a new design.
+- 확정하다 | to finalize, to confirm | hwakjeonghada | 確定 = certain + fixed; passive 확정되다: 일정이 확정되다 | 위원회는 회의를 거쳐 내년 행사 일정을 확정했습니다. | After a meeting, the committee finalized next year's event schedule.
 - 실행하다 | to execute, to put into action | silhaenghada | 계획을 실행하다; also "run" a program: 앱을 실행하다 | 그는 오랫동안 준비한 계획을 마침내 실행했습니다. | He finally put the plan he had long prepared into action.
-- 추진하다 | to push forward, to pursue | chujinhada | 推進 = push + advance; 사업을 / 정책을 추진하다 | 시는 도심 재개발 사업을 적극적으로 추진하고 있습니다. | The city is actively pushing ahead with the downtown redevelopment project.
+- 정비하다 | to overhaul, to maintain | jeongbihada | 整備; putting systems or machines in order: 제도를 / 차량을 정비하다 | 정부는 복잡한 복지 제도를 알기 쉽게 정비하기로 했습니다. | The government decided to streamline its complicated welfare system.
 - 진행하다 | to proceed with, to hold | jinhaenghada | Passive 진행되다; 회의가 진행 중이다 = the meeting is underway | 오늘 회의는 예정대로 오후 두 시에 진행하겠습니다. | Today's meeting will go ahead as planned at 2 p.m.
 - 확보하다 | to secure, to obtain | hwakbohada | 確保; objects like 예산, 인력, 증거, 자리 | 경찰은 사건 현장에서 중요한 증거를 확보했습니다. | The police secured key evidence at the crime scene.
 - 유지하다 | to maintain, to keep | yujihada | 維持 = hold + keep; used with health, relationships, a current level | 규칙적인 운동은 건강을 유지하는 데 도움이 됩니다. | Regular exercise helps you stay healthy.
 - 보완하다 | to supplement, to make up for | bowanhada | Fixes weak spots: 단점을 보완하다; noun 보완점 | 전문가들은 제도의 문제점을 보완해야 한다고 지적했습니다. | Experts pointed out that the system's shortcomings need to be addressed.
-- 보장하다 | to guarantee, to ensure | bojanghada | 保障; formal promise that rights, safety or freedom will be protected | 헌법은 모든 국민의 표현의 자유를 보장합니다. | The constitution guarantees freedom of expression for all citizens.
-- 강화하다 | to strengthen, to tighten | ganghwahada | 強化 ↔ 완화하다 (ease); 규제를 강화하다 | 정부는 음주 운전 단속을 강화하기로 했습니다. | The government decided to crack down harder on drunk driving.
-- 완화하다 | to ease, to relax | wanhwahada | 緩和 = loosen; opposite of 강화하다; for rules, pain or tension | 정부는 부동산 대출 규제를 일부 완화했습니다. | The government partially eased restrictions on real estate loans.
-- 도입하다 | to introduce, to adopt | doipada | Pronounced 도이파다; for new systems: 제도를 도입하다 | 많은 기업이 주 4일 근무제를 도입하고 있습니다. | Many companies are adopting a four-day workweek.
-- 적용하다 | to apply | jeogyonghada | Takes 에: 새 기준을 모든 지역에 적용하다 | 이 할인은 온라인 주문에만 적용됩니다. | This discount applies only to online orders.
-- 활용하다 | to make use of, to utilize | hwaryonghada | 活用; stronger than 사용하다 — making the most of it | 학생들은 도서관 자료를 적극적으로 활용해야 합니다. | Students should make full use of library resources.
-- 운영하다 | to run, to operate | unyeonghada | For businesses and programs: 식당을 / 프로그램을 운영하다 | 그 부부는 시골에서 작은 카페를 운영하고 있습니다. | The couple runs a small café in the countryside.
+- 보강하다 | to reinforce, to beef up | boganghada | 補強 = add + strong: 인력을 / 건물을 보강하다; vs 보완 (fix a flaw) | 구청은 오래된 다리의 안전을 위해 구조를 보강했습니다. | The district office reinforced the old bridge's structure for safety.
+- 절감하다 | to cut, to save | jeolgamhada | 節減 = economize + reduce; objects like 비용, 에너지, 시간 | 공장은 새 설비로 전기 요금을 30퍼센트 절감했습니다. | The factory cut its electricity bill by 30 percent with new equipment.
+- 삭감하다 | to cut, to slash | sakgamhada | 削減; an allotted amount is cut: 예산을 / 임금을 삭감하다; vs 절감 (save) | 국회는 정부가 제출한 예산안에서 홍보비를 크게 삭감했습니다. | The National Assembly sharply cut publicity spending from the government's budget bill.
+- 채택하다 | to adopt, to select | chaetaekada | 採擇 = pick + choose; 안건을 / 결의안을 / 교과서를 채택하다 | 참석자들은 환경 보호 결의안을 만장일치로 채택했습니다. | The participants unanimously adopted a resolution on environmental protection.
+- 투입하다 | to put in, to deploy | tuipada | Pronounced 투이파다; resources go in: 인력을 / 예산을 현장에 투입하다 | 소방청은 화재 현장에 헬기 다섯 대를 투입했습니다. | The fire agency deployed five helicopters to the fire.
+- 조달하다 | to raise, to procure | jodalhada | 調達; 자금을 조달하다 = raise funds, 물자를 조달하다 = procure supplies | 그 회사는 은행 대출로 사업 자금을 조달했습니다. | The company raised funds for the business through a bank loan.
+- 편성하다 | to draw up, to organize | pyeonseonghada | 編成; budgets, schedules, teams: 예산을 편성하다, 방송 편성표 (TV lineup) | 정부는 내년도 예산을 복지 중심으로 편성했습니다. | The government drew up next year's budget with a focus on welfare.
 - 관리하다 | to manage, to take care of | gwallihada | 管理; 건강 관리, 시간 관리, 관리비 (maintenance fee) | 시간을 효율적으로 관리하는 것이 성공의 비결입니다. | Managing your time efficiently is the key to success.
 - 파악하다 | to grasp, to figure out | paakada | Pronounced 파아카다; 상황을 / 원인을 파악하다 | 경찰은 사고 원인을 파악하기 위해 조사하고 있습니다. | The police are investigating to determine the cause of the accident.
 - 발견하다 | to discover, to find | balgyeonhada | 發見; compare 발명하다 (invent something new) | 연구진은 바닷속에서 새로운 생물 종을 발견했습니다. | Researchers discovered a new species deep in the ocean.
-- 개발하다 | to develop | gaebalhada | 개발 = create new tech or land; 발전 = grow or advance | 그 회사는 암을 진단하는 새로운 기술을 개발했습니다. | The company developed a new technology for diagnosing cancer.
+- 창출하다 | to create, to generate | changchulhada | 創出; abstract gains: 일자리를 / 가치를 / 이익을 창출하다 | 새 공장이 들어서면 지역에 많은 일자리가 창출될 것입니다. | A new factory will create many jobs in the area.
 - 구축하다 | to build, to establish | guchukada | For systems and networks: 시스템을 / 협력 체계를 구축하다 | 정부는 재난에 대비한 통합 관리 체계를 구축했습니다. | The government built an integrated management system for disasters.
 - 마련하다 | to prepare, to come up with | maryeonhada | 대책을 / 자금을 / 집을 마련하다 — native word, no hanja | 정부는 청년 실업 문제에 대한 대책을 마련했습니다. | The government came up with measures to address youth unemployment.
 - 제공하다 | to provide, to offer | jegonghada | 提供; A에게 B를 제공하다 | 이 호텔은 투숙객에게 무료 아침 식사를 제공합니다. | This hotel offers guests a free breakfast.
 - 지원하다 | to support, to apply for | jiwonhada | Two hanja: 支援 (support) vs 志願 (apply: 회사에 지원하다) | 시는 저소득층 가정에 난방비를 지원하고 있습니다. | The city subsidizes heating costs for low-income households.
-- 승인하다 | to approve | seunginhada | 承認; official sign-off: 승인을 받다 (get approval), 승인이 나다 | 식약처는 새로운 치료제의 사용을 승인했습니다. | The food and drug agency approved the use of the new treatment.
-- 허가하다 | to permit, to authorize | heogahada | 許可; 허가를 받다 = get permission; ↔ 금지하다 | 시청은 광장에서의 영화 촬영을 허가하지 않았습니다. | City Hall did not permit filming in the plaza.
+- 인증하다 | to certify, to verify | injeunghada | 認證; official stamp: 인증을 받다, 본인 인증 = identity verification | 이 제품은 정부 기관이 안전성을 인증한 제품입니다. | This product's safety has been certified by a government agency.
+- 심사하다 | to review, to screen | simsahada | 審査; officials or judges evaluate: 서류를 심사하다, 심사 위원 = judge | 위원회는 지원자들의 서류를 꼼꼼히 심사했습니다. | The committee carefully reviewed the applicants' documents.
 - 금지하다 | to prohibit, to ban | geumjihada | Signs read 출입 금지, 흡연 금지; passive 금지되다 | 이 공원에서는 반려동물의 출입을 금지하고 있습니다. | Pets are not allowed in this park.
-- 제한하다 | to limit, to restrict | jehanhada | 制限; 속도 제한 = speed limit, 나이 제한 | 이 행사는 참가 인원을 100명으로 제한합니다. | This event limits attendance to 100 people.
-- 규제하다 | to regulate | gyujehada | 規制; used with laws on industry: 규제를 풀다 = deregulate | 정부는 일회용 플라스틱 사용을 규제하기로 했습니다. | The government decided to regulate the use of disposable plastics.
+- 해제하다 | to lift, to cancel | haejehada | 解除 = undo a restriction: 경보를 / 규제를 / 계약을 해제하다 | 기상청은 오후 여섯 시에 폭염 경보를 해제했습니다. | The weather agency lifted the heat wave warning at 6 p.m.
+- 폐쇄하다 | to close down, to shut off | pyeswaehada | 閉鎖; forced or official closing: 도로를 / 공장을 폐쇄하다 | 경찰은 사고 수습을 위해 고속도로 일부 구간을 폐쇄했습니다. | Police closed part of the expressway to deal with the accident.
 - 통제하다 | to control, to close off | tongjehada | Also for roads: 도로가 통제되다 = the road is closed | 경찰은 사고 현장 주변의 차량 통행을 통제했습니다. | Police restricted traffic around the accident scene.
 - 감독하다 | to supervise, to oversee | gamdokada | Noun 감독 also means a film director or team coach | 교사들은 시험장에서 학생들을 감독했습니다. | Teachers supervised the students in the exam room.
 - 점검하다 | to inspect, to check | jeomgeomhada | Routine safety checks: 안전 점검, 시설을 점검하다 | 관리 사무소는 겨울을 앞두고 난방 시설을 점검했습니다. | The management office inspected the heating system ahead of winter.
-- 측정하다 | to measure | cheukjeonghada | 測定; scientific or official measuring, e.g. body temperature, fine dust | 입구에서 모든 방문객의 체온을 측정하고 있습니다. | Every visitor's temperature is being taken at the entrance.
+- 집계하다 | to tally, to count up | jipgyehada | 集計 = gather + count; official totals: 투표 결과를 집계하다 | 선거관리위원회는 밤늦게까지 투표 결과를 집계했습니다. | The election commission tallied the votes late into the night.
 - 개최하다 | to host, to hold | gaechoehada | For big events: 올림픽을 / 회의를 개최하다 | 우리 시는 내년에 국제 영화제를 개최합니다. | Our city will host an international film festival next year.
 - 주최하다 | to host, to organize | juchoehada | 주최 = the host who puts it on; 주관 = runs the details | 이번 대회는 한 신문사가 주최했습니다. | This competition was hosted by a newspaper company.
 - 주관하다 | to be in charge of, to run | jugwanhada | Posters: 주최 OO시, 주관 OO협회 — host vs. organizer | 이번 행사는 문화재단이 주관하여 진행됩니다. | This event is run by the cultural foundation.
@@ -63,13 +63,13 @@ score_max: 300
 - 예방하다 | to prevent | yebanghada | 豫防 = beforehand + guard; 예방 접종 = vaccination | 손을 자주 씻으면 감기를 예방할 수 있습니다. | Washing your hands often can help prevent colds.
 - 방지하다 | to prevent, to avoid | bangjihada | Stops an accident or repeat: 재발 방지, 사고를 방지하다 | 정부는 사고 재발을 방지하기 위한 대책을 발표했습니다. | The government announced measures to prevent the accident from recurring.
 - 극복하다 | to overcome | geukbokada | 克服 = conquer + subdue; used for a crisis, hardship or a slump | 그는 여러 어려움을 극복하고 국가대표가 되었습니다. | He overcame many hardships to make the national team.
-- 해소하다 | to relieve, to resolve | haesohada | Makes a problem go away: stress, conflict, anxiety, a shortage | 운동은 스트레스를 해소하는 좋은 방법입니다. | Exercise is a great way to relieve stress.
+- 복구하다 | to restore, to repair | bokguhada | 復舊 = back to the old state; after damage: 피해를 / 데이터를 복구하다 | 주민들과 군인들이 함께 홍수 피해를 복구하고 있습니다. | Residents and soldiers are working together to repair the flood damage.
 - 감당하다 | to handle, to cope with | gamdanghada | Often negative: 감당할 수 없다 = more than one can handle | 혼자서 그 많은 일을 감당하기는 어렵습니다. | It's hard to handle that much work on your own.
 - 부담하다 | to bear, to pay | budamhada | For costs: 비용을 부담하다; noun 부담 = burden, pressure | 교통비는 회사가 전액 부담합니다. | The company covers the full cost of transportation.
 - 담당하다 | to be in charge of | damdanghada | 담당자 = the person in charge; 업무를 담당하다 | 저는 이 회사에서 해외 마케팅을 담당하고 있습니다. | I'm in charge of overseas marketing at this company.
 - 수행하다 | to perform, to carry out | suhaenghada | For duties and missions: 임무를 / 업무를 수행하다 | 그는 맡은 임무를 성공적으로 수행했습니다. | He successfully carried out the mission he was given.
 - 이행하다 | to fulfill, to carry out | ihaenghada | For promises and duties: 약속을 / 의무를 이행하다 | 정치인은 선거 때 한 약속을 이행해야 합니다. | Politicians must keep the promises they made during the election.
-- 준수하다 | to observe, to comply with | junsuhada | Formal 지키다: 법을 / 규정을 / 안전 수칙을 준수하다 | 모든 운전자는 교통 법규를 준수해야 합니다. | All drivers must obey traffic laws.
+- 건의하다 | to propose, to suggest | geonuihada | Pronounced 거니하다; a suggestion to those in charge: 회사에 건의하다 | 직원들은 회사에 유연 근무제 도입을 건의했습니다. | The employees proposed that the company introduce flexible working hours.
 - 요구하다 | to demand, to require | yoguhada | Stronger than 요청하다; 임금 인상을 요구하다 | 노조는 회사에 임금 인상을 요구했습니다. | The union demanded a pay raise from the company.
 - 요청하다 | to request, to ask for | yocheonghada | Politer than 요구하다: 도움을 / 협조를 요청하다 | 주민들은 시청에 신호등 설치를 요청했습니다. | Residents asked City Hall to install a traffic light.
 - 촉구하다 | to urge, to call for | chokguhada | News verb: ~할 것을 촉구하다 = call on someone to | 시민 단체는 정부에 신속한 조치를 촉구했습니다. | Civic groups urged the government to take swift action.
@@ -94,7 +94,7 @@ score_max: 300
 - 부과하다 | to impose, to levy | bugwahada | For taxes and fines: 세금을 / 벌금을 부과하다 | 시는 불법 주차 차량에 과태료를 부과했습니다. | The city fined illegally parked vehicles.
 - 적발하다 | to catch, to uncover | jeokbalhada | Violations found by authorities: 음주 운전이 적발되다 | 경찰은 이번 단속에서 음주 운전자 50명을 적발했습니다. | Police caught 50 drunk drivers in this crackdown.
 - 단속하다 | to crack down on | dansokada | Pronounced 단소카다; 음주 운전을 / 불법 주차를 단속하다 | 경찰은 연말을 맞아 음주 운전을 집중적으로 단속합니다. | Police are cracking down hard on drunk driving over the year-end holidays.
-- 협의하다 | to consult, to discuss | hyeobuihada | Pronounced 혀비하다; talk it over to agree: A와 협의하다, 협의를 거치다 | 노사는 임금 문제에 대해 협의하고 있습니다. | Labor and management are in talks over wage issues.
+- 위탁하다 | to entrust, to outsource | witakada | Pronounced 위타카다; A에 B를 위탁하다 — hand a job to an outside body | 시는 공원 관리를 민간 업체에 위탁하기로 했습니다. | The city decided to outsource park management to a private company.
 - 조정하다 | to adjust, to mediate | jojeonghada | 일정을 / 가격을 조정하다; also mediate a dispute | 회의 일정을 다음 주로 조정했습니다. | We moved the meeting schedule to next week.
 - 조율하다 | to coordinate, to fine-tune | joyulhada | 調律 = tune an instrument; 의견을 / 일정을 조율하다 | 두 부서는 의견 차이를 조율하기 위해 만났습니다. | The two departments met to work out their differences.
 - 통합하다 | to integrate, to merge | tonghapada | 統合 = unify + combine; opposite of 분리하다 (separate) | 정부는 비슷한 기능의 두 기관을 통합했습니다. | The government merged two agencies with similar functions.
@@ -107,7 +107,7 @@ score_max: 300
 - 선정하다 | to select, to choose | seonjeonghada | Picked by criteria: 올해의 책으로 선정되다 | 이 도시는 세계에서 가장 살기 좋은 도시로 선정되었습니다. | This city was named the most livable city in the world.
 - 선발하다 | to select, to recruit | seonbalhada | Picking people by test: 신입 사원을 / 대표 선수를 선발하다 | 협회는 공개 오디션을 통해 대표 선수를 선발했습니다. | The association picked its national players through open tryouts.
 - 지정하다 | to designate | jijeonghada | 지정석 = reserved seat; 문화재로 지정되다 | 이 건물은 국가 문화재로 지정되었습니다. | This building has been designated a national cultural heritage site.
-- 규정하다 | to define, to stipulate | gyujeonghada | Law defines it: 법으로 규정하다; noun 규정 = regulation | 법은 근로자의 최소 휴가 일수를 규정하고 있습니다. | The law stipulates the minimum number of vacation days for workers.
+- 공표하다 | to announce officially, to promulgate | gongpyohada | 公表 = public + show; formal release of results or laws | 정부는 개정된 법률을 관보에 공표했습니다. | The government officially published the revised law in the official gazette.
 - 명시하다 | to state clearly, to specify | myeongsihada | 明示 = clear + show; 계약서에 명시하다 | 회사는 계약서에 근무 시간과 급여를 명시했습니다. | The company clearly stated the working hours and salary in the contract.
 - 보관하다 | to store, to keep | bogwanhada | 保管; 냉장 보관 = keep refrigerated | 이 약은 서늘하고 건조한 곳에 보관하십시오. | Store this medicine in a cool, dry place.
 - 유치하다 | to attract, to bring in | yuchihada | 誘致 (attract 투자·올림픽) vs 幼稚 (childish) | 시는 국제 대회를 유치하기 위해 노력하고 있습니다. | The city is working to bring an international competition to town.

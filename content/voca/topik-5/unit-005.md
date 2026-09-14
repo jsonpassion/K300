@@ -59,7 +59,7 @@ score_max: 300
 - 공급망 | supply chain | gonggeummang | 공급 (supply) + 망 (網 net); pronounced 공금망 | 팬데믹으로 전 세계 공급망이 큰 타격을 입었다. | The pandemic dealt a heavy blow to global supply chains.
 - 생산기지 | production base | saengsangiji | 기지 (基地) = base; 생산기지를 이전하다 (relocate) | 기업들은 인건비가 싼 나라로 생산기지를 옮겼다. | Companies moved their production bases to countries with cheaper labor.
 - 진출 | entry, advance (into a market) | jinchul | 進出: 해외 진출, 결승 진출 (reaching the finals) | 해외 진출에 앞서 현지 시장 조사가 필수적이다. | Local market research is essential before expanding overseas.
-- 진출하다 | to advance into, to enter | jinchulhada | Takes 에/로: 해외 시장에 진출하다 | 그 회사는 올해 동남아시아 시장에 진출했다. | The company entered the Southeast Asian market this year.
+- 무역장벽 | trade barrier | muyeokjangbyeok | 장벽 (障壁) = wall; 무역장벽을 낮추다/허물다 (lower/tear down) | 각국이 무역장벽을 높이면서 수출 기업들이 어려움을 겪고 있다. | Exporters are struggling as countries raise their trade barriers.
 - 현지 | the local area, on site | hyeonji | 現地: 현지 시간 (local time), 현지 직원 (local staff) | 현지 사정을 잘 아는 직원을 채용하는 것이 중요하다. | It is important to hire staff who know local conditions well.
 - 현지인 | local (person) | hyeonjiin | 현지 + 인 (人); natural partner of 관광객 (tourist) | 여행지에서는 현지인이 추천하는 식당이 가장 믿을 만하다. | When traveling, restaurants recommended by locals are the most reliable.
 - 외국계 | foreign-owned | oegukgye | -계 (系) = affiliated with; 외국계 기업/은행 | 그는 대학 졸업 후 외국계 기업에 취직했다. | He got a job at a foreign-owned company after graduating.
@@ -80,7 +80,7 @@ score_max: 300
 - 이질적 | heterogeneous, alien | ijiljeok | Opposite of 동질적 (homogeneous); usually 이질적인 + noun | 이질적인 문화가 만나 새로운 문화가 탄생하기도 한다. | New cultures are sometimes born when very different cultures meet.
 - 동화되다 | to be assimilated | donghwadoeda | 同化: 주류 문화에 동화되다; not 동화 (童話 fairy tale) | 이민 2세대는 현지 문화에 빠르게 동화된다. | Second-generation immigrants quickly assimilate into the local culture.
 - 공존 | coexistence | gongjon | 共存: 평화 공존; 공생 (symbiosis) is the close cousin | 다양한 문화의 공존은 사회를 풍요롭게 만든다. | The coexistence of diverse cultures enriches a society.
-- 공존하다 | to coexist | gongjonhada | Takes 와/과: 자연과 공존하다 | 이 도시에는 전통과 현대가 조화롭게 공존한다. | Tradition and modernity coexist harmoniously in this city.
+- 공생 | symbiosis, mutual prosperity | gongsaeng | 共生: stresses benefiting each other, while 공존 means simply living side by side | 대기업과 중소기업의 공생을 위한 정책이 마련되었다. | Policies were introduced for large and small companies to prosper together.
 - 다원화 | pluralization, diversification | dawonhwa | 다원 (多元) = many sources; 사회가 다원화되다 | 사회가 다원화되면서 가치관도 다양해졌다. | As society became more pluralistic, values diversified too.
 - 다원주의 | pluralism | dawonjuui | 다원 + 주의; opposite of 획일주의 (uniformity) | 민주 사회는 다원주의를 바탕으로 한다. | Democratic societies are founded on pluralism.
 - 혼종 | hybrid | honjong | 混種: cultural studies term; 혼종 문화 = hybrid culture | 케이팝은 여러 장르가 섞인 혼종 문화의 산물이다. | K-pop is the product of a hybrid culture mixing many genres.
@@ -108,7 +108,7 @@ score_max: 300
 - 반세계화 | anti-globalization | bansegyehwa | 반 (反) = against; 반세계화 시위 (protest) vs 탈세계화 (retreat) | 정상회의장 밖에서는 반세계화 시위가 열렸다. | Anti-globalization protests were held outside the summit venue.
 - 출입국 | immigration, entry and exit | churipguk | 출국 (leave) + 입국 (enter); 출입국 관리 사무소 | 출입국 절차가 간소화되어 여행이 편리해졌다. | Simplified immigration procedures have made travel more convenient.
 - 체류 | stay, sojourn | cheryu | 滯留: official stay; 체류 기간, 불법 체류 (overstaying) | 비자의 체류 기간이 끝나기 전에 연장 신청을 해야 한다. | You must apply for an extension before your visa's permitted stay ends.
-- 체류하다 | to stay (abroad) | cheryuhada | Takes 에: 한국에 체류하다; formal version of 머물다 | 그는 연구를 위해 일 년 동안 독일에 체류했다. | He stayed in Germany for a year to do research.
+- 영주권 | permanent residency | yeongjugwon | Pronounced 영주꿘; 영주권을 취득하다 — a step short of 국적 (citizenship) | 그는 미국에서 십 년 넘게 일한 끝에 영주권을 받았다. | He received permanent residency after working in the U.S. for over ten years.
 - 정착하다 | to settle down | jeongchakada | Pronounced 정차카다; takes 에: 새 나라에 정착하다 | 그 가족은 캐나다에 이민 가서 무사히 정착했다. | The family emigrated to Canada and settled in safely.
 - 동포 | compatriot, fellow Korean | dongpo | 同胞: 해외 동포 = ethnic Koreans abroad; stresses shared roots | 해외 동포들이 고국의 수해 복구를 위해 성금을 보냈다. | Koreans abroad sent donations to help their homeland recover from floods.
 - 교포 | Korean living abroad | gyopo | 僑胞: 재미 교포 (Korean American); 교포 2세 = second generation | 재미 교포인 그는 한국어와 영어를 모두 유창하게 한다. | A Korean American, he speaks both Korean and English fluently.

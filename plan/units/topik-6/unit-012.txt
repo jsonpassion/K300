@@ -1,8 +1,8 @@
 # theme: Near-synonym pairs
 # unit: voca-6-u012
-간과하다 | gangwahada
-묵과하다 | mukgwahada
-답습하다 | dapseupada
+묵살하다 | muksalhada
+방임하다 | bangimhada
+구태의연하다 | gutaeuiyeonhada
 취합하다 | chwihapada
 쇄신 | swaesin
 일신 | ilsin
@@ -39,7 +39,7 @@
 과시하다 | gwasihada
 으스대다 | euseudaeda
 겸양 | gyeomyang
-관조하다 | gwanjohada
+침잠하다 | chimjamhada
 회고하다 | hoegohada
 반추하다 | banchuhada
 체념 | chenyeom
@@ -53,7 +53,7 @@
 고무하다 | gomuhada
 회유하다 | hoeyuhada
 은닉하다 | eunnikada
-호도하다 | hodohada
+기만하다 | gimanhada
 잔존하다 | janjonhada
 각박하다 | gakbakada
 삭막하다 | sangmakada
@@ -70,7 +70,7 @@
 결여 | gyeoryeo
 곤궁하다 | gongunghada
 번성하다 | beonseonghada
-융성하다 | yungseonghada
+번창하다 | beonchanghada
 요긴하다 | yoginhada
 긴요하다 | ginyohada
 유려하다 | yuryeohada

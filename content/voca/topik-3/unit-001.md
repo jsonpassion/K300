@@ -67,9 +67,9 @@ score_max: 300
 - 기념일 | anniversary, memorial day | ginyeomil | 기념 (commemoration) + 일 (日, day); pronounced 기녀밀 | 오늘은 우리 부모님의 결혼 기념일이에요. | Today is my parents' wedding anniversary.
 - 기원 | origin | giwon | 起源; homonym 祈願 = prayer for; 기원을 찾다 | 이 놀이의 기원은 아주 오래됐어요. | The origin of this game goes back a long way.
 - 유래 | origin of a custom or name | yurae | 由來; about names and customs: 이름의 유래 | 추석이라는 이름의 유래를 알아요? | Do you know where the name Chuseok comes from?
-- 유래하다 | to originate from | yuraehada | Takes 에서: 중국에서 유래하다 | 이 명절은 농사 문화에서 유래했어요. | This holiday originated from farming culture.
+- 단오 | Dano, spring festival on lunar May 5 | dano | 端午; women swing (그네) and wash their hair in iris water (창포물) | 강릉에서는 단오에 큰 축제가 열려요. | A big festival is held in Gangneung on Dano.
 - 상징 | symbol | sangjing | 象徵; 평화의 상징 = a symbol of peace | 무궁화는 한국의 상징이에요. | The rose of Sharon is a symbol of Korea.
-- 상징하다 | to symbolize | sangjinghada | ~을/를 상징하다; passive 상징되다 | 태극기의 흰색은 평화를 상징해요. | The white of the Korean flag symbolizes peace.
+- 널뛰기 | neolttwigi, Korean seesaw jumping | neolttwigi | 널 (plank) + 뛰다 (jump) + -기; two people take turns bouncing on one plank | 설날에 언니와 널뛰기를 하면서 높이 뛰었어요. | On New Year's Day I jumped high playing on the seesaw with my sister.
 - 의미 | meaning, significance | uimi | 意味; 의미가 있다 = to be meaningful ↔ 의미가 없다 = pointless | 이 옷의 색깔에는 특별한 의미가 있어요. | The colors of this outfit carry a special meaning.
 - 뜻깊다 | to be meaningful | tteutgipda | Pronounced 뜯낍따; 뜻 (meaning) + 깊다 (deep) | 가족과 함께한 추석이라서 더 뜻깊었어요. | Chuseok felt even more meaningful because I spent it with family.
 - 역사적 | historical, historic | yeoksajeok | -적 (的) makes adjectives: 역사적인 장소 / 역사적으로 | 경주는 역사적인 도시로 유명해요. | Gyeongju is famous as a historic city.

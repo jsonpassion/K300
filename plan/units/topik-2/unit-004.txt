@@ -3,7 +3,7 @@
 관광 | gwangwang
 관광지 | gwangwangji
 관광객 | gwangwanggaek
-관광하다 | gwangwanghada
+유람선 | yuramseon
 여권 | yeogwon
 비자 | bija
 비행기표 | bihaenggipyo
@@ -12,9 +12,9 @@
 입국 | ipguk
 면세점 | myeonsejeom
 출발 | chulbal
-출발하다 | chulbalhada
+차표 | chapyo
 도착 | dochak
-도착하다 | dochakada
+표지판 | pyojipan
 탑승 | tapseung
 탑승권 | tapseunggwon
 좌석 | jwaseok
@@ -32,7 +32,7 @@
 위치 | wichi
 안내 | annae
 안내소 | annaeso
-안내하다 | annaehada
+휴가철 | hyugacheol
 가이드 | gaideu
 기념품 | ginyeompum
 특산물 | teuksanmul
@@ -49,7 +49,7 @@
 터미널 | teomineol
 기사 | gisa
 운전 | unjeon
-운전하다 | unjeonhada
+렌터카 | renteoka
 운전면허 | unjeonmyeonheo
 오토바이 | otobai
 항구 | hanggu

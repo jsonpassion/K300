@@ -61,7 +61,7 @@ score_max: 300
 - 구호 | relief, aid | guho | 救護: rescue + protect; 구호품 = relief supplies; 口號 구호 = slogan | 지진 피해 지역에 구호 물품이 도착했습니다. | Relief supplies arrived in the earthquake zone.
 - 층간소음 | noise between floors | cheunggansoeum | 층 (floor) + 간 (between) + 소음; a classic apartment dispute | 층간소음 때문에 이웃 간 다툼이 자주 일어납니다. | Noise between floors often causes fights between neighbors.
 - 악성댓글 | malicious comments | akseongdaetgeul | 惡性: bad + nature; shortened to 악플 in speech | 악성댓글로 고통받는 연예인이 많습니다. | Many celebrities suffer from malicious comments.
-- 개인정보 | personal information | gaeinjeongbo | 개인정보가 유출되다 = personal data is leaked | 해킹으로 고객의 개인정보가 유출되었습니다. | Customers' personal information was leaked in a hack.
+- 보이스피싱 | voice phishing, phone scam | boiseupising | From English "voice phishing"; 보이스피싱을 당하다 = to fall for a phone scam | 검찰을 사칭한 보이스피싱에 속아 큰돈을 잃는 사람이 많습니다. | Many people lose large sums to phone scams by callers posing as prosecutors.
 - 감시 | surveillance, monitoring | gamsi | 監視: oversee + look; 감시를 받다 = to be watched | 많은 사람들이 사생활 침해를 우려해 과도한 감시에 반대합니다. | Many people oppose excessive surveillance over privacy concerns.
 - 양성평등 | gender equality | yangseongpyeongdeung | 兩性: both sexes + 평등 (equality); opposite of 성차별 | 양성평등을 실현하기 위한 교육이 강화되었습니다. | Education to achieve gender equality has been strengthened.
 - 고정관념 | stereotype, fixed idea | gojeonggwannyeom | 고정 (fixed) + 관념 (idea); 고정관념을 깨다 = to break a stereotype | 직업에 대한 고정관념을 깨는 사람들이 늘고 있습니다. | More people are breaking stereotypes about jobs.

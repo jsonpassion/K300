@@ -22,7 +22,7 @@ score_max: 200
 - 아니다 | to not be | anida | Negates nouns: N이/가 아니에요 — never used with verbs | 저는 학생이 아니에요. 회사원이에요. | I'm not a student. I'm an office worker.
 - 보다 | to see, to watch | boda | Also means to take a test: 시험을 보다 | 저녁에 가족하고 영화를 보고 싶어요. | I want to watch a movie with my family this evening.
 - 듣다 | to listen, to hear | deutda | ㄷ irregular: 듣다 → 들어요 before a vowel | 저는 매일 아침에 음악을 듣고 학교에 가요. | Every morning I listen to music and then head to school.
-- 말하다 | to speak, to say | malhada | 말 (words) + 하다; honorific form is 말씀하시다 | 천천히 말하면 이해할 수 있어요. | If you speak slowly, I can understand.
+- 고치다 | to fix, to repair | gochida | Also to correct or cure: 발음을 고치다, 병을 고치다 | 아빠가 고장 난 제 자전거를 고쳐 주셨어요. | My dad fixed my broken bike for me.
 - 알다 | to know | alda | ㄹ drops before ㄴ/ㅂ/ㅅ: 알아요 but 압니다, 아세요 | 저는 그 사람 전화번호를 알아요. | I know that person's phone number.
 - 모르다 | to not know | moreuda | 르 irregular: 모르다 → 몰라요 | 이 단어의 뜻을 잘 모르겠어요. | I'm not sure what this word means.
 - 주다 | to give | juda | V-아/어 주세요 = please do V for me | 물 한 잔만 주세요. | Could I have a glass of water, please?
@@ -58,7 +58,7 @@ score_max: 200
 - 같다 | to be the same | gatda | Takes 와/과: 친구와 같다; pronounced 갇따 | 저하고 동생은 같은 학교에 다녀요. | My sister and I go to the same school.
 - 다르다 | to be different | dareuda | 르 irregular: 다르다 → 달라요; 같다 ↔ 다르다 | 한국과 미국은 문화가 많이 다르고 음식도 달라요. | Korea and the US have very different cultures, and the food is different too.
 - 멀다 | to be far | meolda | Takes 에서: 집에서 멀다; ㄹ drops in 먼 | 학교가 집에서 멀어서 버스를 타요. | School is far from home, so I take the bus.
-- 가깝다 | to be close, to be near | gakkapda | ㅂ irregular: 가깝다 → 가까워요; 멀다 ↔ 가깝다 | 우리 집은 지하철역에서 가까워요. | My house is close to the subway station.
+- 가깝다 | to be close, to be near | gakkapda | ㅂ irregular: 가깝다 → 가까워요; 멀다 ↔ 가깝다 | 회사가 가까우니까 매일 걸어서 출근해요. | My office is nearby, so I walk to work every day.
 - 배우다 | to learn | baeuda | Takes 에게서/한테서 for the teacher: 선생님한테서 배우다 | 저는 요즘 한국어를 배우고 있어요. | I'm learning Korean these days.
 - 가르치다 | to teach | gareuchida | 배우다 (learn) ↔ 가르치다 (teach) | 우리 어머니는 중학교에서 영어를 가르치세요. | My mother teaches English at a middle school.
 - 놀다 | to play, to hang out | nolda | Not for sports or instruments; hanging out with friends | 주말에 친구들하고 공원에서 놀았어요. | I hung out with friends at the park over the weekend.
@@ -69,7 +69,7 @@ score_max: 200
 - 찾다 | to look for, to find | chatda | Also to withdraw money: 돈을 찾다 | 잃어버린 지갑을 찾고 있어요. | I'm looking for the wallet I lost.
 - 기다리다 | to wait | gidarida | Takes 을/를: 친구를 기다리다 (no "for" particle) | 여기에서 잠깐만 기다려 주세요. | Please wait here for a moment.
 - 부르다 | to call, to sing | bureuda | 르 irregular: 부르다 → 불러요; 노래를 부르다 = sing a song | 노래방에서 친구들과 노래를 부르고 놀았어요. | I sang songs and hung out with friends at a karaoke room.
-- 노래하다 | to sing | noraehada | 노래 (song) + 하다; same as 노래를 부르다 | 제 동생은 노래하는 것을 좋아해요. | My younger sibling loves singing.
+- 어리다 | to be young, to be little | eorida | For children: 어린 아이; young adults are 젊다 | 제 동생은 아직 어려서 학교에 안 다녀요. | My little brother is still too young to go to school.
 - 춤추다 | to dance | chumchuda | 춤 (a dance) + 추다; also 춤을 추다 | 파티에서 친구들과 같이 춤췄어요. | I danced with my friends at the party.
 - 웃다 | to laugh, to smile | utda | Regular verb: 웃어요, not 우어요 | 아기가 엄마를 보고 웃었어요. | The baby smiled when it saw its mom.
 - 울다 | to cry | ulda | 웃다 (laugh) ↔ 울다 (cry); ㄹ drops in 우는 | 슬픈 영화를 보고 많이 울었어요. | I cried a lot watching a sad movie.

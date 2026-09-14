@@ -29,7 +29,7 @@ score_max: 300
 - 플라스틱 | plastic | peullaseutik | Loanword; 플라스틱 용기 = plastic container | 바다에 플라스틱 쓰레기가 너무 많아요. | There is far too much plastic waste in the ocean.
 - 종이컵 | paper cup | jongikeop | 종이 (paper) + 컵; cf. 종이봉투 (paper bag), 머그컵 (mug) | 사무실에서 종이컵 대신 머그컵을 써요. | At the office I use a mug instead of a paper cup.
 - 음식물 | food, food and drink | eumsingmul | Pronounced 음싱물; 음식물 쓰레기 = food waste | 음식물 쓰레기는 따로 버려야 해요. | Food waste has to be thrown out separately.
-- 배출하다 | to emit, to discharge | baechulhada | 排出: 배 (push out) + 출 (out); 쓰레기를 배출하다 = put out trash | 공장에서 연기를 많이 배출하고 있어요. | The factory is giving off a lot of smoke.
+- 대기 | atmosphere, the air | daegi | 大氣: 대 (great) + 기 (air); not 대기 (待機, waiting) | 공장이 많은 지역은 대기가 많이 오염돼 있어요. | The air is heavily polluted in areas with lots of factories.
 - 배출 | emission, discharge | baechul | Common pairs: 탄소 배출, 배출량 (amount emitted) | 탄소 배출을 줄이려면 차를 덜 타야 해요. | To cut carbon emissions, we need to drive less.
 - 배기가스 | exhaust fumes | baegigaseu | 배기 (排氣, let out air) + 가스; mostly from cars | 배기가스 때문에 도로 공기가 안 좋아요. | The air by the road is bad because of exhaust.
 - 매연 | fumes, black smoke | maeyeon | 煤煙: black smoke from chimneys, buses, and factories | 버스 매연 때문에 기침이 났어요. | The bus fumes made me cough.
@@ -38,7 +38,7 @@ score_max: 300
 - 온실가스 | greenhouse gas | onsilgaseu | 온실 (溫室, greenhouse) + 가스 | 온실가스를 줄이려고 여러 나라가 노력해요. | Many countries are working to cut greenhouse gases.
 - 온난화 | warming | onnanhwa | 溫暖化: -화 = becoming; usually 지구 온난화 | 지구 온난화로 여름이 점점 더워져요. | Summers keep getting hotter because of global warming.
 - 기후 | climate | gihu | 기후 = long-term pattern; 날씨 = today's weather | 기후가 변하면서 농사가 힘들어졌어요. | Farming has gotten harder as the climate changes.
-- 상승하다 | to rise, to go up | sangseunghada | 상승 (rise) ↔ 하락 (fall); formal — say 오르다 in speech | 올해 평균 기온이 크게 상승했어요. | The average temperature rose sharply this year.
+- 지진 | earthquake | jijin | 地震: 지 (earth) + 진 (shake); 지진이 나다 = an earthquake strikes | 지진이 나면 먼저 책상 밑으로 들어가세요. | If an earthquake hits, get under a desk first.
 - 해수면 | sea level | haesumyeon | 해수 (seawater) + 면 (surface); 해수면이 상승하다 | 해수면이 높아지면 섬이 사라질 수 있어요. | If sea levels rise, islands could disappear.
 - 빙하 | glacier | bingha | 氷河: 빙 (ice) + 하 (river) — a river of ice | 북극의 빙하가 빠르게 녹고 있어요. | The Arctic glaciers are melting fast.
 - 가뭄 | drought | gamum | Native word; 가뭄이 들다 = a drought sets in | 가뭄이 들어서 논이 다 말랐어요. | A drought hit and the rice paddies all dried up.
@@ -56,13 +56,13 @@ score_max: 300
 - 멸종 | extinction | myeoljong | 滅種: 멸 (destroy) + 종 (species); 멸종 위기 = endangered | 호랑이는 멸종 위기에 처한 동물이에요. | Tigers are an endangered species.
 - 멸종되다 | to become extinct | myeoljongdoeda | 되다 marks the change; 공룡은 멸종된 동물이다 | 많은 종류의 새가 이미 멸종됐어요. | Many kinds of birds have already gone extinct.
 - 보호 | protection | boho | 保護: 환경 보호, 개인정보 보호; 보호자 = guardian | 자연 보호는 우리 모두의 책임이에요. | Protecting nature is everyone's responsibility.
-- 보호하다 | to protect | bohohada | Takes 를; 지키다 is the everyday native-word equivalent | 멸종 위기 동물을 보호해야 해요. | We have to protect endangered animals.
+- 파괴 | destruction | pagoe | 破壞 ↔ 보호; 환경 파괴, 파괴되다 (be destroyed) | 개발 때문에 숲 파괴가 점점 심해지고 있어요. | Development is making forest destruction worse and worse.
 - 산림 | forest(s) | sallim | 山林: pronounced 살림 — ㄴ becomes ㄹ before ㄹ | 산림을 지키려고 나무를 베지 못하게 해요. | Tree cutting is banned to protect the forests.
 - 심다 | to plant | simda | Takes 를: 나무를 심다; 식목일 = Arbor Day (April 5) | 식목일에 학교에서 나무를 심었어요. | We planted trees at school on Arbor Day.
 - 에너지 | energy | eneoji | Loanword; 에너지를 아끼다 = save energy | 여름에는 에어컨 때문에 에너지를 많이 써요. | We use a lot of energy on AC in summer.
 - 절약하다 | to save, to conserve | jeoryakada | Pronounced 저랴카다; 절약 ↔ 낭비 | 전기를 절약하려고 불을 꺼요. | I turn off the lights to save electricity.
 - 낭비 | waste (of something) | nangbi | 浪費: 시간 낭비 = waste of time; 쓰레기 is waste you throw out | 물을 계속 틀어 두는 건 낭비예요. | Leaving the water running is wasteful.
-- 낭비하다 | to waste | nangbihada | Takes 를: 돈을 낭비하다 ↔ 아끼다, 절약하다 | 필요 없는 물건에 돈을 낭비하지 마세요. | Don't waste money on things you don't need.
+- 녹지 | green space | nokji | 綠地: 녹 (green, as in 녹색) + 지 (land) — parks and wooded areas | 도시에 녹지가 많으면 공기가 좋아져요. | More green space in a city means cleaner air.
 - 전력 | electric power | jeollyeok | 電力: pronounced 절력; 전력 사용량 = power usage | 여름에는 전력 사용이 크게 늘어요. | Electricity use jumps in summer.
 - 석유 | oil, petroleum | seogyu | 石油: 석 (stone) + 유 (oil); pronounced 서규 | 석유 가격이 올라서 기름값도 올랐어요. | Oil prices went up, so gas got pricier too.
 - 석탄 | coal | seoktan | 石炭: 석 (stone) + 탄 (charcoal) | 옛날에는 석탄으로 집을 따뜻하게 했어요. | People used to heat their homes with coal.
@@ -76,7 +76,7 @@ score_max: 300
 - 분해되다 | to decompose, to break down | bunhaedoeda | 分解: 분 (split) + 해 (undo); also 기계를 분해하다 | 플라스틱은 분해되는 데 수백 년이 걸려요. | Plastic takes hundreds of years to break down.
 - 썩다 | to rot, to decay | sseokda | Native word for food and wood; 분해되다 is the science term | 여름에는 음식이 빨리 썩어요. | Food goes bad quickly in summer.
 - 유해하다 | to be harmful, hazardous | yuhaehada | 유 (有, having) + 해 (害) ↔ 무해하다 (harmless) | 이 물질은 사람 몸에 유해해요. | This substance is harmful to the human body.
-- 해롭다 | to be harmful, bad for | haeropda | Takes 에: 건강에 해롭다; ㅂ-irregular → 해로워요 | 담배는 건강에 해로워요. | Smoking is bad for your health.
+- 해롭다 | to be harmful, bad for | haeropda | Takes 에: 건강에 해롭다; ㅂ-irregular → 해로워요 | 플라스틱을 태운 연기는 몸에 아주 해로워요. | Smoke from burning plastic is really bad for you.
 - 해치다 | to harm, to damage | haechida | Takes 를: 건강을 해치다, 자연을 해치다 | 쓰레기를 함부로 버리면 자연을 해쳐요. | Dumping trash carelessly harms nature.
 - 악화되다 | to get worse, to worsen | akwadoeda | 악 (bad) + 화 (become) ↔ 개선되다 (improve) | 대기 오염이 점점 악화되고 있어요. | Air pollution keeps getting worse.
 - 심각하다 | to be serious, severe | simgakada | Pronounced 심가카다; 문제가 심각하다 is a news staple | 물 부족 문제가 아주 심각해요. | The water shortage is very serious.

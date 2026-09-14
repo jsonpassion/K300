@@ -15,7 +15,7 @@ score_max: 300
 # Level 4 · Upper-intermediate · Book 007 — Opinions and argument
 
 - 주장 | claim, argument | jujang | 主張 = main + stretch out; 주장을 펼치다 = to lay out a claim | 그의 주장은 구체적인 자료가 부족해 설득력이 떨어졌습니다. | His argument lacked concrete data, so it wasn't very convincing.
-- 주장하다 | to claim, to insist | jujanghada | Quote with -다고: 옳다고 주장하다 | 시민 단체는 정부가 책임을 져야 한다고 주장하고 있습니다. | The civic group insists that the government must take responsibility.
+- 우기다 | to insist stubbornly | ugida | Negative: pushing a claim without reason; 주장하다 is neutral | 그는 증거가 없는데도 자기 말이 맞다고 끝까지 우겼습니다. | Even without evidence, he stubbornly insisted to the end that he was right.
 - 견해 | view, opinion | gyeonhae | 見解 = see + untie; formal cousin of 의견 | 이 문제에 대해 전문가들의 견해가 크게 엇갈립니다. | Experts' views on this issue differ sharply.
 - 견해차 | difference of opinion | gyeonhaecha | 견해 + 차 (差, gap); often 견해차를 좁히다 = narrow the gap | 노사 양측은 임금 문제에서 견해차를 좁히지 못했습니다. | Labor and management couldn't narrow their differences on wages.
 - 입장 | position, stance | ipjang | 立場 = where you stand; 입장을 밝히다 = to state one's position | 정부는 아직 공식적인 입장을 발표하지 않았습니다. | The government has not yet announced its official position.
@@ -25,10 +25,10 @@ score_max: 300
 - 논리적 | logical | nollijeok | -적 + 인 before a noun, + 으로 as an adverb: 논리적인 설명, 논리적으로 | 토론에서는 감정보다 논리적인 근거가 중요합니다. | In a debate, logical evidence matters more than emotion.
 - 근거하다 | to be based on | geungeohada | Takes 에: 사실에 근거하다; 근거 (根據) = root + hold | 이 보고서는 3년간의 조사 결과에 근거하고 있습니다. | This report is based on the results of a three-year study.
 - 반박 | rebuttal, refutation | banbak | 反駁; stronger than 반론 — attacks the other side's point directly | 그의 발언에 대해 야당의 반박이 이어졌습니다. | The opposition followed his remarks with a rebuttal.
-- 반박하다 | to refute, to rebut | banbakada | Pronounced 반바카다 — ㄱ and ㅎ merge into ㅋ | 장관은 야당의 주장을 조목조목 반박하였습니다. | The minister refuted the opposition's claims point by point.
+- 따지다 | to question closely, to call to account | ttajida | Takes 을/를 or -냐고: 책임을 따지다; 잘잘못을 따지다 = weigh who's at fault | 소비자들은 회사에 불량품에 대한 책임을 따졌습니다. | Consumers demanded that the company answer for the defective products.
 - 반론 | counterargument, objection | ballon | Pronounced 발론; 반론을 제기하다 = to raise an objection | 그 주장에 대해 여러 학자들이 반론을 제기했습니다. | Several scholars raised counterarguments to that claim.
 - 찬성 | approval, being in favor | chanseong | 贊成 ↔ 반대 (opposition) | 주민 투표에서 찬성이 60퍼센트를 넘었습니다. | More than 60 percent voted in favor in the local referendum.
-- 찬성하다 | to be in favor of, to support | chanseonghada | Takes 에: 의견에 찬성하다 ↔ 반대하다 | 대부분의 직원들이 주 4일 근무제에 찬성하고 있습니다. | Most employees are in favor of a four-day workweek.
+- 반대하다 | to oppose, to be against | bandaehada | 反對; takes 에 or 을/를: 계획에 반대하다 ↔ 찬성 | 주민들은 마을에 공장을 짓는 계획에 강하게 반대하였습니다. | Residents strongly opposed the plan to build a factory in the village.
 - 찬반 | pros and cons | chanban | 찬성 + 반대; 찬반 논란 = heated debate on both sides | 사형 제도를 둘러싸고 찬반 의견이 팽팽합니다. | Opinions for and against the death penalty are evenly split.
 - 반대편 | the opposing side | bandaepyeon | 반대 + 편 (side); also means "the other side" of a place | 반대편의 의견도 끝까지 들어 보는 자세가 필요합니다. | We need to hear out the opposing side's views as well.
 - 상대방 | the other party, opponent | sangdaebang | 相對方; in debate the person you argue with, not an enemy | 토론할 때는 상대방의 말을 끊지 않아야 합니다. | In a debate, you shouldn't interrupt the other person.
@@ -40,14 +40,14 @@ score_max: 300
 - 쟁점 | key issue, point of contention | jaengjeom | 爭點 = fight + point; the thing both sides disagree on | 이번 선거의 가장 큰 쟁점은 부동산 정책입니다. | The biggest issue in this election is housing policy.
 - 설득 | persuasion | seoldeuk | 說得; 설득 끝에 = after much persuading | 오랜 설득 끝에 그는 계획을 포기하기로 했습니다. | After long persuasion, he decided to give up the plan.
 - 설득력 | persuasiveness | seoldeungnyeok | Pronounced 설뜽녁; 설득력이 있다/없다 | 통계 자료를 제시하면 주장의 설득력이 높아집니다. | Presenting statistics makes an argument more persuasive.
-- 설득하다 | to persuade, to convince | seoldeukada | Pronounced 설뜨카다; -도록 설득하다 = persuade someone to do | 의사는 환자가 담배를 끊도록 끈질기게 설득하였습니다. | The doctor kept trying to persuade the patient to quit smoking.
+- 납득하다 | to be convinced, to accept as reasonable | napdeukada | 納得; 납득이 가다 = to make sense to you; 설득 is the other side's effort | 회사의 설명만으로는 직원들이 결정을 납득하기 어려웠습니다. | The company's explanation alone wasn't enough for employees to accept the decision.
 - 동의하다 | to agree | donguihada | Takes 에: 제안에 동의하다; 동의 (同意) = same + mind | 저는 교복을 없애자는 의견에 동의하지 않습니다. | I don't agree with the idea of abolishing school uniforms.
 - 동조하다 | to side with, to go along with | dongjohada | Often negative: blindly joining others' views or acts | 그는 친구들의 괴롭힘에 동조하지 않았다고 말했습니다. | He said he did not go along with his friends' bullying.
 - 비판 | criticism | bipan | 批判 = reasoned critique; 비난 is blame or attack | 새 법안은 시민 단체로부터 거센 비판을 받았습니다. | The new bill drew harsh criticism from civic groups.
-- 비판하다 | to criticize | bipanhada | Takes 을/를: 정책을 비판하다; 비판적 = critical | 언론은 정부의 늦은 대응을 강하게 비판하고 있습니다. | The press is sharply criticizing the government's slow response.
+- 편파적 | biased, one-sided | pyeonpajeok | 偏頗 = lean + tilt; 편파적인 보도 = slanted reporting | 일부 시청자들은 그 방송의 보도가 편파적이라고 항의했습니다. | Some viewers complained that the broadcaster's coverage was biased.
 - 비난 | blame, condemnation | binan | 非難; 비난을 받다/퍼붓다 — emotional, unlike 비판 | 거짓 해명을 한 회사는 소비자들의 비난을 피할 수 없었습니다. | The company that gave a false explanation couldn't escape condemnation from consumers.
 - 지적 | pointing out, remark | jijeok | 指摘 = finger + pick; 지적을 받다 = to be called out | 전문가의 지적대로 안전 점검이 부족했던 것으로 드러났습니다. | As the expert pointed out, safety checks turned out to be lacking.
-- 지적하다 | to point out | jijeokada | Pronounced 지저카다; 知的 (intellectual) is a different 지적 | 보고서는 청년 실업의 원인으로 일자리 부족을 지적하였습니다. | The report pointed to a lack of jobs as the cause of youth unemployment.
+- 일방적 | one-sided, unilateral | ilbangjeok | 一方 = one side; 일방적으로 통보하다 = to notify without consent | 회의에서 한 사람이 일방적으로 의견을 밀어붙여 불만이 컸습니다. | People were upset because one person pushed his opinion through unilaterally at the meeting.
 - 강조하다 | to emphasize, to stress | gangjohada | 强調 = strong + tone; quote with -다고 강조하다 | 대통령은 경제 회복이 가장 시급하다고 강조하였습니다. | The president stressed that economic recovery is the most urgent task.
 - 제기하다 | to raise (an issue) | jegihada | Collocates: 문제를/의혹을/소송을 제기하다 | 한 의원이 예산 낭비 문제를 국회에서 제기하였습니다. | A lawmaker raised the issue of wasted budget in the National Assembly.
 - 제안하다 | to propose, to suggest | jeanhada | 提案; -자고 제안하다 = to suggest doing something | 회사는 노조에 임금을 3퍼센트 올리자고 제안하였습니다. | The company proposed a 3 percent wage increase to the union.
@@ -81,7 +81,7 @@ score_max: 300
 - 반발 | backlash, opposition | banbal | 反發 = push back; 반발을 사다 = to provoke a backlash | 요금 인상 발표에 시민들의 반발이 거셌습니다. | The fare hike announcement met with strong public backlash.
 - 항의 | protest, complaint | hangui | 抗議; 항의하다 takes 에게 (person) or 에 (decision) | 주민들은 공장 건설에 반대하며 시청에 항의를 했습니다. | Residents protested to city hall against building the factory.
 - 지지 | support, backing | jiji | 支持; 지지율 = approval rating | 그 후보는 청년층에서 높은 지지를 얻고 있습니다. | That candidate has strong support among young people.
-- 지지하다 | to support, to back | jijihada | Political or public support; for helping a person, 돕다 | 국민의 절반 이상이 이 개혁안을 지지하고 있습니다. | More than half the public supports this reform plan.
+- 공감대 | shared understanding, common ground | gonggamdae | 공감 + 대 (帶, band); 공감대를 형성하다 = to build consensus | 환경 보호가 필요하다는 데에는 사회적 공감대가 형성되어 있습니다. | There is broad social consensus that environmental protection is needed.
 - 옹호하다 | to defend, to advocate | onghohada | 擁護; defending a person or idea under attack | 그 교수는 표현의 자유를 적극적으로 옹호하였습니다. | The professor actively defended freedom of expression.
 - 대립 | confrontation, conflict | daerip | 對立 = face + stand; 의견 대립, 대립이 심하다 | 환경 보호와 개발을 둘러싼 대립이 계속되고 있습니다. | The conflict over conservation versus development continues.
 - 충돌 | clash, collision | chungdol | Literal (car crash) or figurative: 의견 충돌 = clash of opinions | 회의에서 두 부서 간에 의견 충돌이 있었습니다. | There was a clash of opinions between the two departments at the meeting.
@@ -89,10 +89,10 @@ score_max: 300
 - 절충 | compromise, middle ground | jeolchung | 折衷 = cut to the middle; 절충안 = compromise proposal | 양측은 서로의 요구를 반영한 절충안을 마련했습니다. | Both sides drew up a compromise reflecting each other's demands.
 - 양보 | concession, yielding | yangbo | 讓步 = yield a step; also giving up a seat: 자리를 양보하다 | 협상이 성공하려면 서로 조금씩 양보가 필요합니다. | For negotiations to succeed, both sides need to give a little.
 - 해석 | interpretation | haeseok | 解釋; 해석의 차이 = difference in interpretation | 같은 법 조항이라도 해석에 따라 결과가 달라집니다. | Even the same legal clause can lead to different outcomes depending on interpretation.
-- 해석하다 | to interpret | haeseokada | Pronounced 해서카다; also "to translate" a text | 전문가들은 이번 결과를 긍정적인 신호로 해석하고 있습니다. | Experts are interpreting this result as a positive sign.
+- 토의 | discussion, deliberation | toui | 討議: talking together to find a solution; 토론 pits two sides | 학생들은 조별 토의를 거쳐 발표 주제를 정했습니다. | The students chose their presentation topic after group discussions.
 - 판단하다 | to judge, to decide | pandanhada | Quote with -다고 판단하다 = to conclude that | 법원은 회사의 해고가 부당하다고 판단하였습니다. | The court ruled that the company's dismissal was unfair.
 - 평가하다 | to evaluate, to assess | pyeonggahada | Pattern: A를 B로 평가하다 = rate A as B | 전문가들은 이번 정상 회담을 성공적이라고 평가하였습니다. | Experts assessed the summit as a success.
-- 검토하다 | to review, to examine | geomtohada | Formal; officials 검토하겠다 = "we'll look into it" | 정부는 대중교통 요금 인하를 검토하고 있습니다. | The government is reviewing a cut in public transit fares.
+- 언쟁 | verbal dispute, quarrel | eonjaeng | 言爭 = words + fight; 언쟁을 벌이다 = to get into an argument | 두 의원은 예산 문제를 두고 회의 중에 언쟁을 벌였습니다. | The two lawmakers got into a heated argument over the budget during the session.
 - 고려하다 | to consider, to take into account | goryeohada | 考慮; formal -을 고려하여; 고려 사항 = factor to weigh | 정책을 만들 때는 노인들의 입장도 고려해야 합니다. | When making policy, the elderly's situation must be considered too.
 - 언급하다 | to mention, to refer to | eongeupada | Pronounced 언그파다; 언급을 피하다 = to avoid comment | 대변인은 구체적인 내용에 대해서는 언급하지 않았습니다. | The spokesperson did not comment on the specifics.
 - 발언 | remark, statement | bareon | 發言; 발언권 = the floor, right to speak | 회의 중 그의 부적절한 발언이 문제가 되었습니다. | His inappropriate remark during the meeting became an issue.

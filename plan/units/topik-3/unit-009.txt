@@ -15,7 +15,7 @@
 배경 | baegyeong
 요인 | yoin
 발생 | balsaeng
-발생하다 | balsaenghada
+까닭 | kkadak
 일으키다 | ireukida
 초래하다 | choraehada
 유발하다 | yubalhada
@@ -26,9 +26,9 @@
 달라지다 | dallajida
 변동 | byeondong
 증가 | jeungga
-증가하다 | jeunggahada
+직접적 | jikjeopjeok
 감소 | gamso
-감소하다 | gamsohada
+간접적 | ganjeopjeok
 급증 | geupjeung
 급감 | geupgam
 늘어나다 | neureonada
@@ -41,7 +41,7 @@
 향상 | hyangsang
 향상되다 | hyangsangdoeda
 발전 | baljeon
-발전하다 | baljeonhada
+성공 | seonggong
 실패 | silpae
 결실 | gyeolsil
 효과적 | hyogwajeok
@@ -49,7 +49,7 @@
 덕분 | deokbun
 문제점 | munjejeom
 해결 | haegyeol
-해결하다 | haegyeolhada
+단서 | danseo
 해결책 | haegyeolchaek
 대책 | daechaek
 방안 | bangan
@@ -73,9 +73,9 @@
 결정되다 | gyeoljeongdoeda
 판단 | pandan
 분석 | bunseok
-분석하다 | bunseokada
+소용없다 | soyongeopda
 조사 | josa
-조사하다 | josahada
+불가피하다 | bulgapihada
 예측 | yecheuk
 예상 | yesang
 예상되다 | yesangdoeda

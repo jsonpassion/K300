@@ -22,35 +22,35 @@ score_max: 300
 - 할인하다 | to discount, to give a discount | harinhada | On signs, 30% 할인 = 30% off; 할인을 받다 = get a discount | 이 가게는 학생에게 10% 할인해 줘요. | This store gives students 10% off.
 - 소비 | consumption, spending | sobi | 消費: 소비 ↔ 생산 (production); 에너지 소비, 소비 습관 | 명절에는 사람들의 소비가 크게 늘어요. | People's spending jumps during the holidays.
 - 소비자 | consumer | sobija | -자 (者) = person: 소비자, 생산자, 판매자 | 소비자들은 가격보다 품질을 더 중요하게 생각해요. | Consumers care more about quality than price.
-- 소비하다 | to consume, to spend | sobihada | Takes 을/를: 전기를 소비하다, 시간을 소비하다 | 한국 사람들은 커피를 많이 소비해요. | Koreans consume a lot of coffee.
+- 단골 | regular (customer or shop) | dangol | 단골 가게 = your go-to shop, 단골손님 = regular customer | 사장님이 단골이라고 음료수를 서비스로 주셨어요. | The owner gave me a free drink because I'm a regular.
 - 생산 | production | saengsan | 生産: 생산 ↔ 소비; 대량 생산 = mass production | 이 공장은 자동차 생산을 담당하고 있어요. | This factory is in charge of making cars.
-- 생산하다 | to produce, to manufacture | saengsanhada | For goods and crops; for art or ideas use 만들다 or 창작하다 | 이 지역에서는 사과를 많이 생산해요. | This region grows a lot of apples.
+- 장사 | business, selling | jangsa | Everyday word for running a shop; 장사가 잘되다 = business is good | 이 동네는 사람이 많아서 장사가 잘돼요. | This neighborhood is busy, so business is good.
 - 생산자 | producer, manufacturer | saengsanja | 생산자 ↔ 소비자; 농산물 생산자 = farmers | 생산자와 소비자가 직접 만나는 시장이에요. | It's a market where producers and consumers meet directly.
 - 공급 | supply | gonggeup | 供給: 수요와 공급 = supply and demand; 전기를 공급하다 | 채소 공급이 줄어서 가격이 올랐어요. | Vegetable prices rose because the supply shrank.
 - 수요 | demand | suyo | 需要: not 수요일 (Wednesday)! 수요가 많다 = in high demand | 여름에는 에어컨 수요가 많아요. | Air conditioners are in high demand in summer.
 - 상품 | goods, merchandise | sangpum | 商品 = item for sale; also a prize: 상품을 받다 (win a prize) | 이 상품은 인터넷에서만 살 수 있어요. | This item is only available online.
 - 제품 | product | jepum | 製品 = manufactured item; 상품 stresses selling, 제품 stresses making | 이 회사 제품은 오래 써도 고장이 안 나요. | This company's products don't break even after long use.
 - 구매 | purchase, buying | gumae | 購買: formal; everyday word is 사다. 온라인 구매 = online shopping | 온라인 구매가 매년 늘고 있어요. | Online purchases keep growing every year.
-- 구매하다 | to purchase, to buy | gumaehada | Formal twin of 사다; common on websites and receipts | 표는 홈페이지에서 구매하실 수 있어요. | You can buy tickets on the website.
+- 가격표 | price tag | gagyeokpyo | 가격 (price) + 표 (票, tag); 가격표를 떼다 = take the tag off | 선물하기 전에 가격표를 떼는 것을 잊지 마세요. | Don't forget to take the price tag off before you give the gift.
 - 구입하다 | to buy, to acquire | guipada | Pronounced 구이파다 — ㅂ and ㅎ merge into ㅍ | 새 노트북을 구입하려고 돈을 모으고 있어요. | I'm saving up to buy a new laptop.
 - 판매 | sale, selling | panmae | 販賣: 판매 ↔ 구매; 판매 중 = now selling, 판매 중지 = sales halted | 이 제품은 다음 주부터 판매가 시작돼요. | This product goes on sale next week.
-- 판매하다 | to sell | panmaehada | Formal twin of 팔다; used by stores and companies | 저희 매장에서는 중고 책도 판매해요. | Our store sells used books, too.
+- 상인 | merchant, vendor | sangin | 商人: -인 (人) = person; 시장 상인 = market vendors | 시장 상인들이 아침 일찍 가게 문을 열어요. | Market vendors open their shops early in the morning.
 - 판매량 | sales volume | panmaeryang | -량 (量) = amount: 판매량, 소비량, 생산량 | 겨울이 되자 난로 판매량이 두 배로 늘었어요. | Once winter came, heater sales doubled.
 - 매장 | store, shop | maejang | 賣場 = selling place; 오프라인 매장 = brick-and-mortar store | 이 브랜드는 서울에 매장이 다섯 개 있어요. | This brand has five stores in Seoul.
 - 영업 | business operation | yeongeop | 營業: 영업 중 = open; 영업부 = sales department | 그 식당은 오늘 영업을 하지 않아요. | That restaurant isn't open today.
 - 영업시간 | business hours | yeongeopsigan | 영업 (business) + 시간 (hours); look for it on shop doors | 은행 영업시간은 오후 네 시까지예요. | The bank is open until 4 p.m.
 - 수입 | income, import | suip | Two senses: 收入 income vs 輸入 import; context decides | 이번 달은 수입보다 지출이 더 많았어요. | I spent more than I earned this month.
 - 수출 | export | suchul | 輸出 = send out; 수출 ↔ 수입 (import) | 반도체 수출이 작년보다 증가했어요. | Chip exports rose from last year.
-- 수출하다 | to export | suchulhada | Pattern: A를 B(으)로 수출하다 = export A to B | 한국은 자동차를 여러 나라로 수출해요. | Korea exports cars to many countries.
+- 매매 | buying and selling, sale | maemae | 賣 (sell) + 買 (buy); 부동산 매매 = buying a property, vs 임대 (renting) | 이 아파트는 매매 가격이 작년보다 올랐어요. | This apartment sells for more than it did last year.
 - 무역 | trade | muyeok | 貿易: between countries; 무역 회사 = trading company | 두 나라는 무역을 통해 가까워졌어요. | The two countries grew closer through trade.
 - 지출 | expenditure, spending | jichul | 支出: 지출 ↔ 수입 (income); 지출을 줄이다 | 이번 달에는 식비 지출이 너무 많았어요. | I spent way too much on food this month.
-- 지출하다 | to spend, to pay out | jichulhada | Formal, for budgets and accounts; say 돈을 쓰다 in conversation | 여행에 생각보다 많은 돈을 지출했어요. | I spent more on the trip than I expected.
+- 벌다 | to earn (money) | beolda | ㄹ drops before ㄴ/ㅂ/ㅅ: 버니까, 법니다. Opposite: 돈을 쓰다 | 아르바이트로 한 달에 백만 원을 벌어요. | I earn a million won a month from my part-time job.
 - 소득 | income, earnings | sodeuk | 所得: used in stats and tax; 소득세 = income tax, 저소득층 = low-income | 소득이 늘면 소비도 늘어나요. | When income goes up, spending goes up too.
 - 금리 | interest rate | geumni | Pronounced 금니 — ㄹ becomes ㄴ after ㅁ | 금리가 오르면 대출 이자도 올라요. | When interest rates rise, loan interest rises too.
 - 빚 | debt | bit | Native word; 빚을 지다 = go into debt, 빚을 갚다 = pay it off | 삼 년 만에 빚을 다 갚았어요. | I paid off all my debt in three years.
 - 화폐 | currency, money | hwapye | 貨幣: formal and academic; 돈 in daily talk | 여행 전에 그 나라 화폐로 돈을 바꿨어요. | I exchanged money into that country's currency before the trip.
 - 결제 | payment | gyeolje | 決濟: paying a bill; don't confuse with 결재 (a boss's approval) | 카드 결제가 안 돼서 현금으로 냈어요. | The card payment didn't go through, so I paid in cash.
-- 결제하다 | to pay | gyeoljehada | Pattern: 카드로 결제하다, 휴대폰으로 결제하다 | 휴대폰으로 간편하게 결제할 수 있어요. | You can pay easily with your phone.
+- 공짜 | something free, freebie | gongjja | Casual; 무료 is the word on signs. 공짜로 = for free | 하나를 사면 하나를 공짜로 줘요. | Buy one and they give you another one free.
 - 납부하다 | to pay (a bill, tax) | napbuhada | For official dues: 세금, 등록금, 요금을 납부하다 | 이번 주까지 등록금을 납부해야 해요. | I have to pay my tuition by this week.
 - 경비 | expenses, costs | gyeongbi | 經費 = costs of an event or trip; 警備 (guard) is a homonym | 이번 여행 경비는 회사에서 내 줘요. | The company is covering the expenses for this trip.
 - 예산 | budget | yesan | 豫算 = calculated ahead; 예산을 세우다 = draw up a budget | 예산이 부족해서 행사를 작게 했어요. | We kept the event small because the budget was tight.
@@ -59,7 +59,7 @@ score_max: 300
 - 가난하다 | to be poor | gananhada | 가난하다 ↔ 부유하다; noun 가난 = poverty | 어릴 때는 가난해서 장난감이 없었어요. | We were poor when I was little, so I had no toys.
 - 부유하다 | to be wealthy, rich | buyuhada | Written style; in conversation say 잘살다 or 부자다 | 그는 부유한 집에서 태어났어요. | He was born into a wealthy family.
 - 투자 | investment | tuja | 投資 = throw in capital; 투자 vs 투기 (speculation) | 요즘 젊은 사람들도 투자에 관심이 많아요. | Young people are into investing these days, too.
-- 투자하다 | to invest | tujahada | Takes 에: 주식에 투자하다; also for time: 시간을 투자하다 | 그는 월급의 일부를 주식에 투자해요. | He invests part of his salary in stocks.
+- 개업 | opening a business | gaeeop | 開業: a shop opening its doors; 개업 ↔ 폐업. 창업 = founding a company | 새로 개업한 빵집에 손님이 정말 많아요. | The newly opened bakery is packed with customers.
 - 주식 | stock, shares | jusik | 株式; homonym 主食 = staple food (쌀은 한국의 주식) | 주식 가격이 갑자기 떨어져서 걱정이에요. | I'm worried because stock prices suddenly dropped.
 - 부동산 | real estate | budongsan | 不動産 = property that doesn't move; also the realtor's office | 부동산에 가서 집을 알아봤어요. | I went to a realtor to look at places.
 - 집값 | housing prices | jipgap | Pronounced 집깝 — tensing after ㅂ; 집값이 오르다 / 떨어지다 | 서울은 집값이 너무 비싸요. | Housing in Seoul is way too expensive.
@@ -67,7 +67,7 @@ score_max: 300
 - 임대 | lease, rental | imdae | 賃貸 = renting out; 임대 ↔ 임차 (renting from someone) | 이 건물은 사무실 임대를 하고 있어요. | This building rents out office space.
 - 계약 | contract, agreement | gyeyak | 契約: 계약을 맺다 = sign a deal; 계약 기간 = contract term | 집 계약 기간이 두 달 남았어요. | There are two months left on my lease.
 - 계약서 | contract (document) | gyeyakseo | -서 (書) = document: 계약서, 신청서, 보고서 | 계약서를 꼼꼼히 읽고 사인하세요. | Read the contract carefully before you sign.
-- 계약하다 | to sign a contract | gyeyakada | Pronounced 계야카다 — ㄱ and ㅎ merge into ㅋ | 어제 새 집을 계약했어요. | I signed the lease on a new place yesterday.
+- 세입자 | tenant, renter | seipja | 貰入者 = person renting a home; 세입자 ↔ 집주인 (landlord) | 집주인이 세입자에게 월세를 올려 달라고 했어요. | The landlord asked the tenant to pay more rent.
 - 손해 | loss, damage | sonhae | 損害: 손해를 보다 = lose out; 손해 ↔ 이익 | 싸게 팔아서 손해를 많이 봤어요. | I lost a lot by selling it cheap.
 - 이익 | profit, benefit | iik | 利益: 이익을 내다 = make a profit; 이익 ↔ 손해 | 이번 분기에 회사가 큰 이익을 냈어요. | The company made a big profit this quarter.
 - 이득 | gain, advantage | ideuk | 利得: personal gain; 이득을 보다. Softer, more casual than 이익 | 미리 사 두면 이득이에요. | You come out ahead if you buy it in advance.
@@ -88,7 +88,7 @@ score_max: 300
 - 창업 | starting a business | changeop | 創業 = found a business; 창업 ↔ 폐업 (closing down) | 대학생 때부터 창업을 준비했어요. | I've been preparing to start a company since college.
 - 유통 | distribution | yutong | 流通 = flow through; 유통 기한 = sell-by date | 유통 과정이 줄면 가격도 싸져요. | A shorter distribution chain makes prices cheaper, too.
 - 환불 | refund | hwanbul | 還拂 = pay back; 환불을 받다. 교환 = exchange for another item | 영수증이 없으면 환불이 어려워요. | It's hard to get a refund without a receipt.
-- 환불하다 | to refund | hwanbulhada | Customer asks: 환불해 주세요; 환불받다 = get refunded | 사이즈가 안 맞아서 환불했어요. | It didn't fit, so I got a refund.
+- 폐업 | closing a business | pyeeop | 閉業 = shutting down for good; 휴업 = closing only for a while | 손님이 줄어서 결국 폐업을 결정했어요. | Customers kept dropping off, so they finally decided to close down.
 - 교환하다 | to exchange | gyohwanhada | Pattern: A를 B(으)로 교환하다 | 작은 옷을 큰 사이즈로 교환했어요. | I exchanged the clothes that were too small for a bigger size.
 - 반품 | return (of goods) | banpum | 返品 = send goods back; 반품 신청 = return request | 받은 물건에 문제가 있어서 반품을 신청했어요. | The item I got was faulty, so I requested a return.
 - 품질 | quality | pumjil | 品質: 품질이 좋다 / 떨어지다; 품질 보증 = quality guarantee | 가격은 좀 비싸도 품질이 좋아요. | It's a bit pricey, but the quality is good.
@@ -104,7 +104,7 @@ score_max: 300
 - 연금 | pension | yeongeum | 年金 = yearly money; 국민연금 = national pension | 할머니는 연금으로 생활하세요. | My grandmother lives on her pension.
 - 재테크 | personal investing, money management | jaetekeu | 財 (money) + 테크 (technology): Konglish for growing your money | 월급을 받으면서 재테크 공부를 시작했어요. | Once I started earning a salary, I began studying how to grow my money.
 - 거래 | deal, transaction | georae | 去來: 거래가 이루어지다 = a deal goes through; 중고 거래 | 두 회사는 오랫동안 거래를 해 왔어요. | The two companies have done business for a long time.
-- 거래하다 | to trade, to do business | georaehada | Pattern: N와/과 거래하다 = do business with N | 우리 회사는 해외 업체와 거래해요. | Our company does business with overseas firms.
+- 집주인 | landlord, homeowner | jipjuin | 집 + 주인 (owner); pronounced 집쭈인. Opposite: 세입자 (tenant) | 집주인에게 보일러가 고장 났다고 말했어요. | I told the landlord the boiler was broken.
 - 시세 | market price, going rate | sise | 時勢 = price at the moment; 시세보다 싸다 | 이 집은 시세보다 조금 싸게 나왔어요. | This house is listed a bit below market price.
 - 고객 | customer, client | gogaek | 顧客: formal; 손님 in shops. 고객 센터 = customer service | 고객의 의견을 듣고 서비스를 바꿨어요. | We changed the service after hearing customer feedback.
 - 경제력 | financial means, economic power | gyeongjeryeok | -력 (力) = power; for a person or a nation | 결혼하기 전에 경제력을 갖추고 싶어요. | I want to be financially stable before I get married.

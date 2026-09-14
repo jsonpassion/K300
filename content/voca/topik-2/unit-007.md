@@ -19,29 +19,29 @@ score_max: 200
 - 성적 | grades, school record | seongjeok | 成績: 성적이 오르다 (go up) ↔ 떨어지다 (drop) | 이번 학기 성적이 많이 올랐어요. | My grades went up a lot this semester.
 - 문제 | question, problem | munje | 問題: test item or trouble; 문제를 풀다 = solve a problem | 이 문제는 너무 어려워서 못 풀었어요. | This question was so hard that I couldn't solve it.
 - 질문 | question | jilmun | 質問: a question you ask; 문제 is a question you solve | 선생님, 질문이 하나 있어요. | Excuse me, I have a question.
-- 질문하다 | to ask a question | jilmunhada | Takes 에게/께: 선생님께 질문하다 | 모르는 것이 있으면 언제든지 질문하세요. | If there's anything you don't know, ask any time.
+- 문법 | grammar | munbeop | 文法: pronounced 문뻡 — the ㅂ tenses | 한국어 문법은 조사가 조금 어려워요. | Particles are the tricky part of Korean grammar.
 - 대답 | answer, reply | daedap | 對答: 질문 ↔ 대답; 대답하다 = to answer, 답 for short | 선생님의 질문에 대답을 못 했어요. | I couldn't answer the teacher's question.
 - 설명 | explanation | seolmyeong | 說明: 설명을 듣다 = listen to an explanation | 선생님의 설명이 아주 쉬웠어요. | The teacher's explanation was very easy to follow.
-- 설명하다 | to explain | seolmyeonghada | 說明: 설명해 주세요 = please explain — a classroom staple | 이 단어의 뜻을 설명해 주세요. | Please explain the meaning of this word.
+- 발음 | pronunciation | bareum | 發音: pronounced 바름 — ㄹ slides into the vowel; 발음이 좋다 | 선생님, 제 발음이 맞아요? | Teacher, is my pronunciation right?
 - 연습 | practice | yeonseup | 練習: 연습이 필요하다 = need practice | 발음은 매일 연습이 필요해요. | Pronunciation needs practice every day.
-- 연습하다 | to practice | yeonseupada | Pronounced 연스파다 — ㅂ and ㅎ merge into ㅍ | 친구와 같이 말하기를 연습했어요. | I practiced speaking with a friend.
+- 받아쓰기 | dictation (quiz) | badasseugi | 받다 (take) + 쓰기 (writing): writing down what you hear | 오늘 받아쓰기에서 백 점을 받았어요. | I got a perfect score on today's dictation quiz.
 - 복습하다 | to review (a lesson) | bokseupada | 復習: 復 = again; after class ↔ 예습하다 before class | 집에 가서 오늘 배운 것을 복습해요. | I go home and review what I learned today.
 - 예습하다 | to preview a lesson, to study ahead | yeseupada | 豫習: 豫 = beforehand ↔ 복습하다 (review after) | 내일 배울 내용을 예습했어요. | I previewed what we're learning tomorrow.
 - 발표 | presentation, announcement | balpyo | 發表: 발표를 준비하다 = prepare a presentation | 오늘 수업에서 제 발표가 있어요. | I have a presentation in class today.
-- 발표하다 | to present, to announce | balpyohada | Also for results: 합격자를 발표하다 = announce who passed | 다음 주에 조별로 발표해야 해요. | Each group has to present next week.
+- 사물함 | locker | samulham | 私物函: 私物 (personal belongings) + 函 (box) | 체육복은 사물함에 넣어 두세요. | Keep your gym clothes in your locker.
 - 준비물 | things to bring, supplies | junbimul | 준비 (prepare) + 물 (物, thing) | 내일 미술 시간 준비물이 뭐예요? | What do we need to bring for art class tomorrow?
 - 교과서 | textbook | gyogwaseo | 敎科書: 교과 (school subject) + 서 (book) | 교과서를 집에 두고 왔어요. | I left my textbook at home.
 - 사전 | dictionary | sajeon | 辭典: 사전에서 찾다 / 사전을 찾아보다 = look it up | 모르는 단어는 사전에서 찾아요. | I look up words I don't know in the dictionary.
 - 필통 | pencil case | piltong | 筆筒: 筆 (brush, pen) + 筒 (container) | 필통에 연필과 지우개가 있어요. | There's a pencil and an eraser in my pencil case.
 - 칠판 | blackboard, chalkboard | chilpan | 漆板: lacquered board; 칠판에 쓰다 = write on the board | 선생님이 칠판에 이름을 썼어요. | The teacher wrote her name on the board.
 - 입학 | entering a school, admission | ipak | 入學: 入 = enter ↔ 졸업 (graduation) | 입학 축하 선물을 받았어요. | I got a gift congratulating me on starting school.
-- 입학하다 | to enter a school | ipakada | Takes 에: 대학교에 입학하다 | 동생이 올해 초등학교에 입학했어요. | My younger sibling started elementary school this year.
+- 교환학생 | exchange student | gyohwanhaksaeng | 交換 = exchange: usually a term or two; 유학생 is any foreign student | 저는 한 학기 동안 교환학생으로 한국에 왔어요. | I came to Korea as an exchange student for one semester.
 - 졸업 | graduation | joreop | 卒業: 졸업식 = graduation ceremony | 졸업 후에 무엇을 할 거예요? | What are you going to do after graduation?
-- 졸업하다 | to graduate | joreopada | Takes 을/를: 대학교를 졸업하다 (not 에서) | 형은 작년에 대학교를 졸업했어요. | My older brother graduated from college last year.
+- 교무실 | teachers' office, staff room | gyomusil | 敎務室: where teachers work; 교실 is the classroom | 숙제를 내러 교무실에 갔어요. | I went to the teachers' office to hand in my homework.
 - 학기 | semester, term | hakgi | 學期: 이번 학기 (this term) · 다음 학기 (next term) | 이번 학기에 다섯 과목을 들어요. | I'm taking five courses this semester.
 - 학년 | grade, school year | hangnyeon | Pronounced 항년 — ㄱ becomes ㅇ before ㄴ; 몇 학년이에요? | 저는 대학교 2학년이에요. | I'm a sophomore in college.
 - 전공 | major | jeongong | 專攻: 전공이 뭐예요? = What's your major? | 제 전공은 경영학이에요. | My major is business administration.
-- 전공하다 | to major in | jeongonghada | Takes 을/를: 한국어를 전공하다 | 대학교에서 컴퓨터를 전공했어요. | I majored in computer science in college.
+- 복도 | hallway, corridor | bokdo | 複道: school sign 복도에서 뛰지 마세요 = no running in the hall | 복도에서 선배를 만나서 인사했어요. | I ran into my senior in the hallway and said hello.
 - 과목 | subject, course | gwamok | 科目: 무슨 과목을 좋아해요? = What subject do you like? | 제가 제일 좋아하는 과목은 음악이에요. | My favorite subject is music.
 - 유학 | studying abroad | yuhak | 留學: 留 = stay; 유학을 가다 = go abroad to study | 내년에 한국으로 유학을 가요. | I'm going to study in Korea next year.
 - 유학생 | international student | yuhaksaeng | 유학 (study abroad) + 생 (生, student) | 우리 반에는 유학생이 많아요. | There are many international students in our class.
@@ -64,7 +64,7 @@ score_max: 200
 - 말하기 | speaking | malhagi | 말하다 + 기; 말하기 대회 = speech contest | 말하기 대회에 나가기로 했어요. | I decided to enter a speaking contest.
 - 늘다 | to improve, to increase | neulda | Skill as subject: 한국어 실력이 늘다 ↔ 줄다 | 한국 친구 덕분에 한국어가 많이 늘었어요. | Thanks to my Korean friend, my Korean improved a lot.
 - 노력 | effort | noryeok | 努力: 노력이 필요하다 = effort is needed | 좋은 결과는 노력에서 나와요. | Good results come from effort.
-- 노력하다 | to make an effort, to try hard | noryeokada | Pattern: -(으)려고 노력하다 = try hard to | 매일 한국어로 말하려고 노력해요. | I try hard to speak Korean every day.
+- 휴게실 | break room, lounge | hyugesil | 休憩室: 休憩 (rest) + 室 (room) — cf. 회의실, 강의실 | 쉬는 시간에 휴게실에서 커피를 마셔요. | I drink coffee in the break room during breaks.
 - 합격하다 | to pass (an exam), to be accepted | hapgyeokada | Takes 에: 시험에 합격하다 ↔ 떨어지다 (fail) | 드디어 대학교에 합격했어요! | I finally got into college!
 - 직장 | workplace, job | jikjang | 職場: 職 = job + 場 = place; 직장인 = office worker | 직장이 집에서 멀어요. | My workplace is far from home.
 - 사장 | company president, boss | sajang | Address as 사장님; also used for shop owners | 사장님이 직원들에게 선물을 주셨어요. | The boss gave gifts to the employees.
@@ -77,7 +77,7 @@ score_max: 200
 - 야근 | working late, overtime | yageun | 夜勤: 夜 = night + 勤 = work; 야근하다 | 요즘 일이 많아서 매일 야근해요. | I've had a lot of work lately, so I work late every day.
 - 월급 | monthly salary | wolgeup | 月給: 月 = month; 월급을 받다 = get paid | 월급이 조금 올랐어요. | My salary went up a little.
 - 취직 | getting a job | chwijik | 就職: 취직 준비 = job hunting | 졸업 전에 취직이 돼서 기뻐요. | I'm happy I got a job before graduating.
-- 취직하다 | to get a job | chwijikada | Takes 에: 회사에 취직하다 | 언니가 은행에 취직했어요. | My older sister got a job at a bank.
+- 퇴사하다 | to leave a company, to resign | toesahada | 退社 ↔ 입사하다 (join); 그만두다 is the everyday word | 선배가 다음 달에 퇴사할 거예요. | My senior is leaving the company next month.
 - 그만두다 | to quit | geumanduda | Job or school: 회사를 그만두다; 그만 = stop | 다음 달에 회사를 그만둘 거예요. | I'm going to quit my job next month.
 - 면접 | job interview | myeonjeop | 面接: 面 = face; 면접을 보다 = have an interview | 내일 아침에 면접이 있어서 떨려요. | I'm nervous because I have an interview tomorrow morning.
 - 경력 | work experience, career | gyeongnyeok | Pronounced 경녁; 경력이 있다 = be experienced | 이 일은 경력이 없어도 할 수 있어요. | You can do this job even without experience.
@@ -113,4 +113,4 @@ score_max: 200
 - 학비 | school fees | hakbi | 學費: 費 = cost; broader than 등록금 (tuition) | 아르바이트를 해서 학비를 벌어요. | I earn my school fees by working part-time.
 - 반장 | class president | banjang | 반 (class) + 장 (長, head) | 제 친구가 우리 반 반장이 됐어요. | My friend became our class president.
 - 근무하다 | to work (at a place) | geunmuhada | Formal; takes 에서: 은행에서 근무하다 | 아버지는 병원에서 근무하세요. | My father works at a hospital.
-- 출석하다 | to attend | chulseokada | Takes 에: 수업에 출석하다 ↔ 결석하다 | 한 번도 빠지지 않고 수업에 출석했어요. | I attended class without missing once.
+- 사원증 | employee ID card | sawonjeung | 사원 (employee) + 증 (證, certificate) — cf. 학생증 | 사원증을 잃어버려서 새로 만들었어요. | I lost my employee ID, so I had a new one made.

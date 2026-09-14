@@ -101,7 +101,7 @@ score_max: 300
 - 논박하다 | to refute | nonbakada | Pronounced 논바카다; 駁 = refute, same root as 반박하다 | 그는 상대의 주장을 조목조목 논박했습니다. | He refuted his opponent's claims point by point.
 - 반박문 | rebuttal statement | banbangmun | Pronounced 반방문 — ㄱ nasalizes before ㅁ; 반박문을 내다 | 회사는 보도 내용이 사실과 다르다며 반박문을 발표했습니다. | The company issued a rebuttal, saying the report was untrue.
 - 쟁점화 | turning into a key issue | jaengjeomhwa | 쟁점 (point of contention) + 화 (化); 쟁점화되다 | 부동산 문제의 쟁점화는 선거 판도에 큰 영향을 주었습니다. | Making housing a key issue greatly shaped the election race.
-- 쟁점화하다 | to make something a contested issue | jaengjeomhwahada | Active form; the subject is usually a party or the media | 야당은 이번 인사 문제를 적극적으로 쟁점화하고 있습니다. | The opposition is actively turning this appointment into a political issue.
+- 논쟁적 | controversial, contentious | nonjaengjeok | 論爭 (dispute) + 적 (的); used before 인: 논쟁적인 주제, 논쟁적인 발언 | 안락사는 여전히 매우 논쟁적인 주제로 남아 있습니다. | Euthanasia still remains a highly contentious subject.
 - 논란거리 | subject of controversy | nollangeori | Pronounced 놀란꺼리; 거리 = material for: 이야깃거리, 볼거리 | 새 교복 디자인이 학부모들 사이에서 논란거리가 되었습니다. | The new school uniform design became a source of controversy among parents.
 - 찬성론 | argument in favor | chanseongnon | 론 (論) = position: 찬성론 ↔ 반대론; 찬성론이 우세하다 | 조사 결과 원전 확대에 대한 찬성론이 조금 더 우세했습니다. | The survey showed the case for expanding nuclear power slightly ahead.
 - 반대론 | argument against | bandaeron | Pair with 찬성론; 반대론자 = opponent | 반대론자들은 이 정책이 불평등을 키울 것이라고 주장합니다. | Opponents argue that this policy will widen inequality.

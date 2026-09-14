@@ -1,13 +1,13 @@
 # theme: Welfare and inequality
 # unit: voca-5-u006
-빈부 격차 | binbu gyeokcha
-소외 계층 | soe gyecheung
-취약 계층 | chwiyak gyecheung
-사회 안전망 | sahoe anjeonmang
-기초 생활 수급자 | gicho saenghwal sugeupja
+극빈층 | geukbincheung
+공공 부조 | gonggong bujo
+생활고 | saenghwalgo
+사회 보험 | sahoe boheom
+빈곤선 | bingonseon
 수급 | sugeup
 기초 연금 | gicho yeongeum
-최저 임금 | choejeo imgeum
+편중 | pyeonjung
 최저 생계비 | choejeo saenggyebi
 생계 | saenggye
 빈민 | binmin

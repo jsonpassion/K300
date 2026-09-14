@@ -62,7 +62,7 @@ score_max: 200
 - 귤 | mandarin orange, tangerine | gyul | Jeju Island is famous for 귤 | 겨울에 귤을 많이 먹어요. | I eat lots of tangerines in winter.
 - 물 | water | mul | 물 주세요 = Water, please. It's free at restaurants | 물을 한 잔 주세요. | A glass of water, please.
 - 우유 | milk | uyu | 우 (牛) = cow + 유 (乳) = milk | 저는 매일 우유를 마셔요. | I drink milk every day.
-- 커피 | coffee | keopi | 아이스 아메리카노 is the most-ordered 커피 in Korea | 커피 한 잔 마실까요? | Shall we grab a cup of coffee?
+- 커피 | coffee | keopi | 아이스 아메리카노 is the most-ordered 커피 in Korea | 저는 아침마다 따뜻한 커피를 마셔요. | I drink hot coffee every morning.
 - 차 | tea | cha | Also 차 = car; 차를 마시다 vs 차를 타다 | 따뜻한 차를 마시고 싶어요. | I want to drink some hot tea.
 - 녹차 | green tea | nokcha | 녹 (綠) = green + 차 (茶) = tea | 녹차 아이스크림을 먹어 봤어요? | Have you tried green tea ice cream?
 - 주스 | juice | juseu | Loanword; 오렌지 주스, 사과 주스 | 오렌지 주스 하나 주세요. | One orange juice, please.
@@ -103,7 +103,7 @@ score_max: 200
 - 저녁밥 | dinner | jeonyeokbap | 저녁 alone often means dinner: 저녁 먹자 | 저녁밥은 집에서 먹어요. | I eat dinner at home.
 - 간식 | snack | gansik | 간식 (between-meal food) vs 과자 (packaged snacks) | 오후에 간식으로 과일을 먹어요. | I have fruit as an afternoon snack.
 - 요리 | cooking, dish | yori | 요리 (料理); 한국 요리 = Korean cuisine, 중국 요리 = Chinese food | 제 취미는 요리예요. | My hobby is cooking.
-- 요리하다 | to cook | yorihada | 요리사 = chef; 요리를 잘하다 = to be a good cook | 주말마다 제가 요리해요. | I cook every weekend.
+- 만두 | dumpling | mandu | 군만두 = fried dumplings, 물만두 = boiled dumplings | 설날에 가족과 같이 만두를 빚어요. | My family makes dumplings together on Lunar New Year.
 - 굽다 | to grill, bake, roast | gupda | ㅂ irregular: 굽다 → 구워요; 고기를 굽다 | 고기를 굽는 냄새가 좋아요. | The smell of grilling meat is great.
 - 끓이다 | to boil (something) | kkeurida | 끓다 (water boils) → 끓이다 (to boil it); pronounced 끄리다 | 물을 끓여서 차를 마셔요. | I boil water and drink tea.
 - 식당 | restaurant | sikdang | 식 (食) = eat + 당 (堂) = hall | 학교 식당에서 점심을 먹어요. | I eat lunch at the school cafeteria.

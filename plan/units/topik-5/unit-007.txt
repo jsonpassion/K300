@@ -10,7 +10,7 @@
 심미적 | simmijeok
 감상하다 | gamsanghada
 창작 | changjak
-창작하다 | changjakada
+위작 | wijak
 독창적 | dokchangjeok
 모방 | mobang
 영감 | yeonggam
@@ -37,11 +37,11 @@
 기법 | gibeop
 양식 | yangsik
 형상화 | hyeongsanghwa
-형상화하다 | hyeongsanghwahada
+채색 | chaesaek
 묘사 | myosa
-묘사하다 | myosahada
+소묘 | somyo
 재현 | jaehyeon
-재현하다 | jaehyeonhada
+탐미적 | tammijeok
 상징성 | sangjingseong
 은유 | eunyu
 비유 | biyu

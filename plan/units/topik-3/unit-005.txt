@@ -5,10 +5,10 @@
 신문사 | sinmunsa
 기자 | gija
 보도 | bodo
-보도하다 | bodohada
+오보 | obo
 특종 | teukjong
 취재 | chwijae
-취재하다 | chwijaehada
+제보하다 | jebohada
 인터뷰 | inteobyu
 시청자 | sicheongja
 시청하다 | sicheonghada
@@ -16,12 +16,12 @@
 청취자 | cheongchwija
 독자 | dokja
 구독 | gudok
-구독하다 | gudokada
+조회수 | johoesu
 구독자 | gudokja
 예능 | yeneung
 다큐멘터리 | dakyumenteori
 홍보 | hongbo
-홍보하다 | hongbohada
+방영하다 | bangyeonghada
 매체 | maeche
 대중 | daejung
 대중문화 | daejungmunhwa
@@ -33,10 +33,10 @@
 게시하다 | gesihada
 게시물 | gesimul
 검색 | geomsaek
-검색하다 | geomsaekada
+자막 | jamak
 검색어 | geomsaegeo
 접속 | jeopsok
-접속하다 | jeopsokada
+회원 가입 | hoewon gaip
 홈페이지 | hompeiji
 탈퇴하다 | taltoehada
 로그인 | rogeuin
@@ -54,7 +54,7 @@
 첨부하다 | cheombuhada
 전송하다 | jeonsonghada
 공유 | gongyu
-공유하다 | gongyuhada
+퍼뜨리다 | peotteurida
 클릭하다 | keullikada
 동영상 | dongyeongsang
 영상 | yeongsang

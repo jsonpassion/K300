@@ -53,7 +53,7 @@ score_max: 300
 - 귀납적 | inductive | gwinapjeok | Pronounced 귀납쩍 — tensing after ㅂ | 이 연구는 귀납적 방법으로 결론에 도달했다. | This study reached its conclusion by an inductive method.
 - 연역적 | deductive | yeonyeokjeok | 귀납적 (bottom-up) ↔ 연역적 (top-down) | 수학은 대표적인 연역적 학문이다. | Mathematics is a representative deductive discipline.
 - 추론 | inference, reasoning | churon | 推論 = push + argue; 논리적 추론 | 그의 추론에는 논리적 비약이 있었다. | There was a logical leap in his reasoning.
-- 추론하다 | to infer, to deduce | churonhada | Takes 을/를 or a quoted clause: ~다고 추론하다 | 자료를 보고 사건의 원인을 추론해 보십시오. | Look at the data and infer the cause of the incident.
+- 선행연구 | previous research, prior studies | seonhaengyeongu | 先行 = going before; 선행연구를 검토하다 opens most thesis literature reviews | 본 연구는 선행연구에서 다루지 않은 청소년층을 대상으로 하였다. | This study focused on adolescents, a group not covered in previous research.
 - 도출하다 | to derive, to draw | dochulhada | Common objects: 결론, 결과, 합의를 도출하다 | 연구진은 실험을 통해 의미 있는 결론을 도출했다. | The researchers drew meaningful conclusions from the experiment.
 - 결론짓다 | to conclude | gyeollonjitda | ㅅ irregular: 결론지어, 결론지은 | 연구자들은 그 약이 효과가 없다고 결론지었다. | The researchers concluded that the drug had no effect.
 - 고찰하다 | to examine, to consider | gochalhada | Essay register: 역사적으로 고찰하다 = examine historically | 본 논문은 세대 갈등의 원인을 사회학적 관점에서 고찰한다. | This paper examines the causes of generational conflict from a sociological perspective.

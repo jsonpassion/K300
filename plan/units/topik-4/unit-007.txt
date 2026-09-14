@@ -1,7 +1,7 @@
 # theme: Opinions and argument
 # unit: voca-4-u007
 주장 | jujang
-주장하다 | jujanghada
+우기다 | ugida
 견해 | gyeonhae
 견해차 | gyeonhaecha
 입장 | ipjang
@@ -11,10 +11,10 @@
 논리적 | nollijeok
 근거하다 | geungeohada
 반박 | banbak
-반박하다 | banbakada
+따지다 | ttajida
 반론 | ballon
 찬성 | chanseong
-찬성하다 | chanseonghada
+반대하다 | bandaehada
 찬반 | chanban
 반대편 | bandaepyeon
 상대방 | sangdaebang
@@ -26,14 +26,14 @@
 쟁점 | jaengjeom
 설득 | seoldeuk
 설득력 | seoldeungnyeok
-설득하다 | seoldeukada
+납득하다 | napdeukada
 동의하다 | donguihada
 동조하다 | dongjohada
 비판 | bipan
-비판하다 | bipanhada
+편파적 | pyeonpajeok
 비난 | binan
 지적 | jijeok
-지적하다 | jijeokada
+일방적 | ilbangjeok
 강조하다 | gangjohada
 제기하다 | jegihada
 제안하다 | jeanhada
@@ -67,7 +67,7 @@
 반발 | banbal
 항의 | hangui
 지지 | jiji
-지지하다 | jijihada
+공감대 | gonggamdae
 옹호하다 | onghohada
 대립 | daerip
 충돌 | chungdol
@@ -75,10 +75,10 @@
 절충 | jeolchung
 양보 | yangbo
 해석 | haeseok
-해석하다 | haeseokada
+토의 | toui
 판단하다 | pandanhada
 평가하다 | pyeonggahada
-검토하다 | geomtohada
+언쟁 | eonjaeng
 고려하다 | goryeohada
 언급하다 | eongeupada
 발언 | bareon

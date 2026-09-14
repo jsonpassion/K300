@@ -15,7 +15,7 @@
 플라스틱 | peullaseutik
 종이컵 | jongikeop
 음식물 | eumsingmul
-배출하다 | baechulhada
+대기 | daegi
 배출 | baechul
 배기가스 | baegigaseu
 매연 | maeyeon
@@ -24,7 +24,7 @@
 온실가스 | onsilgaseu
 온난화 | onnanhwa
 기후 | gihu
-상승하다 | sangseunghada
+지진 | jijin
 해수면 | haesumyeon
 빙하 | bingha
 가뭄 | gamum
@@ -42,13 +42,13 @@
 멸종 | myeoljong
 멸종되다 | myeoljongdoeda
 보호 | boho
-보호하다 | bohohada
+파괴 | pagoe
 산림 | sallim
 심다 | simda
 에너지 | eneoji
 절약하다 | jeoryakada
 낭비 | nangbi
-낭비하다 | nangbihada
+녹지 | nokji
 전력 | jeollyeok
 석유 | seogyu
 석탄 | seoktan

@@ -64,7 +64,7 @@
 쓰다 | sseuda
 출근하다 | chulgeunhada
 퇴근하다 | toegeunhada
-일하다 | ilhada
+감다 | gamda
 공부하다 | gongbuhada
 숙제 | sukje
 쉬다 | swida
@@ -80,7 +80,7 @@
 잡지 | japji
 편지 | pyeonji
 읽다 | ikda
-전화하다 | jeonhwahada
+라디오 | radio
 게임 | geim
 산책하다 | sanchaekada
 준비하다 | junbihada

@@ -15,7 +15,7 @@ score_max: 200
 # Level 1 · Beginner · Book 004 — Home and daily routine
 
 - 집 | house, home | jip | 집에 가다 = go home; Koreans say 우리 집 (our house) for "my home" | 오늘은 일찍 집에 가요. | I'm going home early today.
-- 방 | room | bang | Also a suffix for rooms or shops: 노래방 (karaoke), PC방 (internet café) | 제 방은 2층에 있어요. | My room is on the second floor.
+- 방 | room | bang | Also a suffix for rooms or shops: 노래방 (karaoke), PC방 (internet café) | 방이 작지만 햇빛이 잘 들어와요. | The room is small, but it gets plenty of sunlight.
 - 거실 | living room | geosil | 居室: dwell + room; where the family watches TV | 가족들이 거실에서 텔레비전을 봐요. | My family watches TV in the living room.
 - 부엌 | kitchen | bueok | Alone it sounds like 부억; before a vowel: 부엌에서 = 부어케서 | 어머니가 부엌에서 요리를 하세요. | My mom is cooking in the kitchen.
 - 화장실 | bathroom, restroom | hwajangsil | 化粧室: literally "makeup room"; used for home and public toilets | 화장실이 어디에 있어요? | Where is the restroom?
@@ -78,7 +78,7 @@ score_max: 200
 - 쓰다 | to write, to wear (a hat, glasses) | sseuda | Many senses: 모자를 쓰다, 편지를 쓰다, 돈을 쓰다 | 햇빛이 강해서 모자를 쓰고 나가요. | The sun is strong, so I'm wearing a hat out.
 - 출근하다 | to go to work | chulgeunhada | 出勤: go out + duty; 회사에 출근하다 | 아버지는 여덟 시에 출근하세요. | My dad goes to work at eight.
 - 퇴근하다 | to get off work | toegeunhada | 출근하다 (go to work) ↔ 퇴근하다 (leave work) | 오늘은 여섯 시에 퇴근해요. | I get off work at six today.
-- 일하다 | to work | ilhada | Place takes 에서: 회사에서 일하다 | 언니는 은행에서 일해요. | My older sister works at a bank.
+- 감다 | to wash (hair) | gamda | For hair only: 머리를 감다; face is 세수하다, body is 씻다 | 저는 아침마다 머리를 감아요. | I wash my hair every morning.
 - 공부하다 | to study | gongbuhada | What you study takes 을/를: 한국어를 공부하다 | 도서관에서 한국어를 공부해요. | I study Korean at the library.
 - 숙제 | homework | sukje | 宿題; 숙제를 하다 = do homework; 숙제가 많다 = have lots of it | 숙제를 다 했어요? | Did you finish your homework?
 - 쉬다 | to rest | swida | 쉬는 날 = day off; 푹 쉬세요 = get some good rest | 피곤해서 집에서 쉬었어요. | I was tired, so I rested at home.
@@ -94,7 +94,7 @@ score_max: 200
 - 잡지 | magazine | japji | Pronounced 잡찌; 패션 잡지 = fashion magazine | 병원에서 잡지를 봤어요. | I read a magazine at the doctor's office.
 - 편지 | letter | pyeonji | 편지를 쓰다 (write) ↔ 편지를 받다 (receive) | 친구에게 편지를 썼어요. | I wrote a letter to a friend.
 - 읽다 | to read | ikda | Pronounced 익따; 읽어요 = 일거요 | 매일 한국어 책을 읽어요. | I read a Korean book every day.
-- 전화하다 | to call, to phone | jeonhwahada | Person takes 에게/한테: 엄마한테 전화하다 | 이따가 전화할게요. | I'll call you later.
+- 라디오 | radio | radio | 라디오를 듣다 = listen to the radio; 라디오를 켜다 = turn it on | 운전할 때 라디오를 들어요. | I listen to the radio when I drive.
 - 게임 | game | geim | 게임을 하다 = play a game; 게임기 = game console | 주말에 친구하고 게임을 해요. | I play games with friends on weekends.
 - 산책하다 | to take a walk | sanchaekada | Pronounced 산채카다; place takes 에서: 공원에서 | 저녁을 먹고 공원에서 산책해요. | After dinner, I take a walk in the park.
 - 준비하다 | to prepare, to get ready | junbihada | 준비가 되다 = be ready; 저녁을 준비하다 | 엄마가 아침을 준비하세요. | Mom is getting breakfast ready.

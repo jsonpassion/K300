@@ -83,8 +83,8 @@ score_max: 300
 - 원천 | source, wellspring | woncheon | 源泉: 수입의 원천; 원천 기술 = core technology | 관광 산업은 이 지역의 주요 수입 원천입니다. | Tourism is a major source of income for this region.
 - 동인 | driver, motive force | dongin | 動因: essay word for a cause that pushes change | 기술 혁신은 산업 구조 변화의 주요 동인입니다. | Technological innovation is a key driver of industrial change.
 - 화근 | root of trouble | hwageun | 禍根 (disaster + root); 화근이 되다 | 사소한 거짓말이 결국 큰 화근이 되었습니다. | A small lie eventually led to big trouble.
-- 파급 효과 | ripple effect, spillover | pageup hyogwa | 波及 (waves reach) + 효과; 파급력 = reach, impact | 이 정책은 다른 산업에도 큰 파급 효과를 가져올 것입니다. | This policy will have major ripple effects on other industries.
-- 인과 관계 | causal relationship | ingwa gwangye | 因果 (cause + result) vs 상관관계 (correlation) | 두 현상 사이의 인과 관계는 아직 밝혀지지 않았습니다. | No causal link between the two phenomena has been established yet.
+- 산물 | product, outcome (of) | sanmul | 産物: 시대의, 노력의 산물 = what it produced; 농산물 = farm produce | 이 작품은 작가의 오랜 고뇌와 노력의 산물입니다. | This work is the fruit of the author's long struggle and effort.
+- 반작용 | backlash, reaction | banjagyong | 反作用: 작용과 반작용 (action/reaction); ~에 대한 반작용으로 | 지나친 규제에 대한 반작용으로 오히려 불법 거래가 늘어났습니다. | As a backlash against excessive regulation, illegal trading actually rose.
 - 연쇄 반응 | chain reaction | yeonswae baneung | 連鎖 (linked chain); 연쇄 반응을 일으키다 | 한 은행의 파산이 금융권 전체에 연쇄 반응을 일으켰습니다. | One bank's collapse set off a chain reaction across the financial sector.
 - 악순환 | vicious circle | aksunhwan | 惡 (bad) + 循環 (cycle) ↔ 선순환; 악순환에 빠지다 | 저출산과 경기 침체의 악순환을 끊어야 합니다. | We must break the vicious cycle of low birth rates and recession.
 - 선순환 | virtuous circle | seonsunhwan | 善 (good) + 循環 ↔ 악순환; 선순환 구조를 만들다 | 투자와 고용이 함께 늘어나는 선순환 구조를 만들어야 합니다. | We need a virtuous cycle in which investment and jobs grow together.

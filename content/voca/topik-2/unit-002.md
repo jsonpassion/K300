@@ -26,23 +26,23 @@ score_max: 200
 - 붕대 | bandage, gauze wrap | bungdae | Use with 감다 (wrap): 붕대를 감다 | 의사가 발목에 붕대를 감아 줬어요. | The doctor wrapped a bandage around my ankle.
 - 주사 | injection, shot | jusa | Use with 맞다 (receive) or 놓다 (give): 주사를 맞다 | 병원에서 주사를 맞으니까 열이 내렸어요. | After I got a shot at the hospital, my fever went down.
 - 수술 | surgery, operation | susul | 手術: 수 (hand) + 술 (skill); 수술을 받다 = to have surgery | 할아버지가 다음 주에 수술을 받으세요. | My grandfather is having surgery next week.
-- 수술하다 | to operate, to have surgery | susulhada | Doctor or patient can be the subject; 수술을 받다 = to undergo surgery | 다리를 다쳐서 어제 수술했어요. | I hurt my leg and had surgery yesterday.
+- 병문안 | hospital visit, visiting a patient | byeongmunan | 병 (illness) + 문안 (checking on someone); 병문안을 가다 | 입원한 친구에게 병문안을 가려고 과일을 샀어요. | I bought some fruit to go see my friend in the hospital.
 - 입원 | hospitalization | ibwon | 入院: 입 (enter) + 원 (hospital) ↔ 퇴원 (discharge) | 입원 기간은 일주일쯤 될 거예요. | You'll be in the hospital for about a week.
-- 입원하다 | to be hospitalized | ibwonhada | Takes 에: 병원에 입원하다 | 친구가 교통사고로 병원에 입원했어요. | My friend was hospitalized after a car accident.
+- 병원비 | medical bill, hospital fees | byeongwonbi | 병원 + 비 (費, cost); compare 교통비 (fare), 식비 (food costs) | 수술을 받아서 병원비가 생각보다 많이 나왔어요. | I had surgery, and the hospital bill was higher than I expected.
 - 퇴원 | discharge from hospital | toewon | 退院: 퇴 (leave) + 원 (hospital) ↔ 입원 (admission) | 퇴원 날짜가 정해지면 연락할게요. | I'll let you know once my discharge date is set.
-- 퇴원하다 | to leave the hospital | toewonhada | Takes 에서: 병원에서 퇴원하다 | 어머니가 건강해져서 오늘 퇴원하셨어요. | My mother got better and left the hospital today.
+- 소아과 | pediatrics, children's clinic | soagwa | 小兒科: 소아 (young child) + 과; newer signs say 소아청소년과 | 아기가 밤새 열이 나서 소아과에 데려갔어요. | The baby had a fever all night, so I took her to the pediatrician.
 - 진찰 | medical examination, checkup | jinchal | 診察: 진 (examine) + 찰 (observe); 진찰을 받다 = to see a doctor | 진찰을 받으려면 먼저 이름을 쓰세요. | Please write your name first if you want to see the doctor.
-- 진찰하다 | to examine (a patient) | jinchalhada | The doctor is the subject: 의사가 환자를 진찰하다 | 의사 선생님이 제 목을 진찰하셨어요. | The doctor examined my throat.
+- 이비인후과 | ear, nose and throat clinic (ENT) | ibiinhugwa | 耳鼻咽喉科: 이 (ear) + 비 (nose) + 인후 (throat) + 과 | 목이 계속 아파서 집 근처 이비인후과에 갔어요. | My throat kept hurting, so I went to an ENT clinic near my home.
 - 진료 | medical care, consultation | jillyo | Pronounced 질료 — ㄴ before ㄹ becomes ㄹ; 진료 시간 = office hours | 이 병원은 토요일에도 진료를 해요. | This clinic sees patients on Saturdays too.
 - 치료 | treatment | chiryo | 治療: both halves mean "heal"; 치료를 받다 = to get treatment | 허리가 아파서 물리 치료를 받고 있어요. | My back hurts, so I'm getting physical therapy.
-- 치료하다 | to treat, to cure | chiryohada | Object is the illness or person: 병을 치료하다 | 이 병은 약으로 치료할 수 있어요. | This illness can be treated with medicine.
+- 물약 | liquid medicine, syrup | mullyak | Pronounced 물략; ↔ 알약 (pill), the usual form for kids | 아이에게 감기 물약을 숟가락으로 먹였어요. | I gave my child the cold syrup with a spoon.
 - 검사 | test, exam | geomsa | 檢査: 검 (inspect) + 사 (check); 피 검사 = blood test | 내일 아침에 피 검사가 있어서 굶어야 해요. | I have a blood test tomorrow morning, so I have to fast.
-- 검사하다 | to test, to check | geomsahada | 검사를 받다 = to get tested (as the patient) | 의사 선생님이 제 눈을 검사하셨어요. | The doctor checked my eyes.
+- 식전 | before a meal | sikjeon | 食前 ↔ 식후 (after a meal); pronounced 식쩐 | 이 약은 식전에 드셔야 효과가 좋아요. | This medicine works best if you take it before meals.
 - 건강검진 | medical checkup, health screening | geonganggeomjin | 건강 (health) + 검진 (screening); usually done yearly at work | 회사에서 매년 건강검진을 받아요. | I get a health checkup through my company every year.
 - 처방전 | prescription | cheobangjeon | 처방 (prescribe) + 전 (箋, slip); take it to the 약국 | 처방전을 가지고 약국에 가세요. | Take your prescription to the pharmacy.
 - 증상 | symptom | jeungsang | 症狀: 증 (illness) + 상 (condition); 증상이 있다 | 어떤 증상이 있는지 말씀해 주세요. | Please tell me what symptoms you have.
 - 기침 | cough | gichim | Use with 나다 or 하다: 기침이 나다 | 밤마다 기침이 나서 잠을 못 자요. | I keep coughing every night and can't sleep.
-- 기침하다 | to cough | gichimhada | Cover your mouth: 입을 가리고 기침하다 | 아이가 계속 기침해서 걱정이에요. | I'm worried because my child keeps coughing.
+- 코감기 | head cold, cold with a stuffy nose | kogamgi | 코 (nose) + 감기; compare 목감기 (cold with a sore throat) | 코감기에 걸려서 코가 막히고 머리도 아파요. | I have a head cold, so my nose is stuffed up and my head hurts too.
 - 콧물 | runny nose, snot | konmul | 코 (nose) + 물 (water); pronounced 콘물 | 감기에 걸려서 콧물이 계속 나요. | I caught a cold, and my nose won't stop running.
 - 재채기 | sneeze | jaechaegi | Use with 나다 or 하다: 재채기가 나다 | 꽃가루 때문에 재채기가 자꾸 나요. | I keep sneezing because of the pollen.
 - 목감기 | cold with a sore throat | mokgamgi | 목 (throat) + 감기; compare 코감기 (cold with a runny nose) | 목감기에 걸려서 말하기가 힘들어요. | I have a throat cold, so it's hard to talk.
@@ -76,7 +76,7 @@ score_max: 200
 - 병실 | hospital room, ward | byeongsil | 病室: 병 (illness) + 실 (room); 1인실 = private room | 친구 병실에 꽃을 가지고 갔어요. | I brought flowers to my friend's hospital room.
 - 대기실 | waiting room | daegisil | 대기 (待機, wait) + 실 (room) | 이름을 부를 때까지 대기실에서 기다리세요. | Please wait in the waiting room until we call your name.
 - 접수 | registration, check-in | jeopsu | 접수처 = reception desk; first stop at any clinic | 병원에 도착하면 먼저 접수를 하세요. | When you get to the hospital, check in first.
-- 접수하다 | to register, to check in | jeopsuhada | Also for forms and applications: 서류를 접수하다 | 창구에서 이름과 생년월일로 접수했어요. | I checked in at the desk with my name and birth date.
+- 삼키다 | to swallow | samkida | For food, pills, even words; ↔ 뱉다 (to spit out) | 목이 부어서 음식을 삼키기가 힘들어요. | My throat is swollen, so it's hard to swallow food.
 - 보험 | insurance | boheom | 保險: 보험에 들다 = to sign up; 건강 보험 = health insurance | 보험이 있으면 병원비가 싸요. | Medical bills are cheaper if you have insurance.
 - 진단서 | medical certificate, doctor's note | jindanseo | 진단 (diagnosis) + 서 (document); needed for sick leave | 회사에 낼 진단서를 받아 왔어요. | I got a doctor's note to hand in at work.
 - 어깨 | shoulder | eokkae | 어깨가 무겁다 can also mean feeling burdened | 가방이 무거워서 어깨가 아파요. | My bag is heavy, so my shoulder hurts.

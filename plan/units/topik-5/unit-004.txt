@@ -39,7 +39,7 @@
 귀납적 | gwinapjeok
 연역적 | yeonyeokjeok
 추론 | churon
-추론하다 | churonhada
+선행연구 | seonhaengyeongu
 도출하다 | dochulhada
 결론짓다 | gyeollonjitda
 고찰하다 | gochalhada

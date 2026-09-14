@@ -40,7 +40,7 @@ score_max: 300
 - 자구책 | self-rescue measure | jaguchaek | 自救策: 자 (self) + 구 (save) + 책 (plan); 자구책을 마련하다 | 소상공인들은 스스로 살아남기 위한 자구책을 마련했다. | Small business owners came up with their own measures to survive.
 - 대증요법 | symptomatic treatment, stopgap | daejeungnyobeop | 對症療法: treats 증 (symptoms), not causes; contrast 근본 대책 | 보조금 지급은 저출산 문제의 대증요법에 불과하다. | Subsidies are merely a stopgap that treats the symptoms of low birth rates.
 - 전시행정 | window-dressing policy | jeonsihaengjeong | 展示 (display) + 行政: done for show, not results | 시민들은 실효성 없는 전시행정을 중단하라고 요구했다. | Citizens demanded an end to window-dressing policies with no real effect.
-- 선심성 | populist, crowd-pleasing | seonsimseong | 善心 + 性: 선심성 공약 / 선심성 예산 — handouts before elections | 선거를 앞두고 선심성 공약이 쏟아지고 있다. | With the election approaching, populist pledges are pouring out.
+- 선심성 | populist, crowd-pleasing | seonsimseong | 善心 + 性: 선심성 공약 / 선심성 예산 — handouts before elections | 전문가들은 선심성 예산 편성이 결국 재정 부담으로 돌아올 것이라고 경고했다. | Experts warned that crowd-pleasing budget spending would eventually come back as a fiscal burden.
 - 이중잣대 | double standard | ijungjatdae | 잣대 = measuring stick; 이중잣대를 들이대다 | 같은 잘못에 다른 처벌을 내리는 것은 명백한 이중잣대이다. | Punishing the same offense differently is a clear double standard.
 - 호도 | glossing over, misleading | hodo | 糊塗: paste over the truth; 여론을 호도하다 | 정부는 통계를 왜곡해 여론을 호도했다는 비판을 받았다. | The government was criticized for misleading the public by distorting statistics.
 - 물타기 | muddying the waters | multagi | Slangy editorial word: 물 (water) + 타다 (mix in); 물타기 수법 | 여당은 야당의 의혹 제기를 물타기라고 반박했다. | The ruling party dismissed the opposition's allegations as an attempt to muddy the waters.

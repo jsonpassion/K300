@@ -19,10 +19,10 @@ score_max: 300
 - 신문사 | newspaper company | sinmunsa | 신문 (newspaper) + 사 (社, company) — like 출판사, 여행사 | 삼촌은 신문사에서 오래 일하셨어요. | My uncle worked at a newspaper for a long time.
 - 기자 | reporter, journalist | gija | 記者: one who records. Don't confuse with 기사 (news article) | 기자들이 사고 현장에 모여 있었어요. | Reporters were gathered at the scene of the accident.
 - 보도 | news report, coverage | bodo | 報道: report + tell; 보도 자료 = press release | 그 사건에 대한 보도가 계속 나오고 있어요. | Coverage of that incident keeps coming out.
-- 보도하다 | to report (in the news) | bodohada | Passive 보도되다: 뉴스에 보도되다 = to be reported in the news | 방송사들이 선거 결과를 신속하게 보도했어요. | Broadcasters quickly reported the election results.
+- 오보 | false report, misreport | obo | 誤報: mistaken + report; 오보를 내다 = to run a false story | 방송국이 어제 뉴스가 오보였다고 사과했어요. | The TV station apologized, saying yesterday's news was a false report.
 - 특종 | scoop, exclusive | teukjong | 特: special; 특종을 잡다 = to land a scoop | 그 기자는 큰 특종을 잡아서 유명해졌어요. | That reporter became famous after landing a big scoop.
 - 취재 | news gathering, reporting | chwijae | 取材: gather material; 취재 기자 = field reporter | 이번 취재는 한 달 동안 진행됐어요. | The reporting for this story took a month.
-- 취재하다 | to cover, to report on | chwijaehada | Object takes 을/를: 현장을 취재하다 = to cover the scene | 기자가 시장 상인들을 직접 취재했어요. | The reporter covered the market vendors' story in person.
+- 제보하다 | to tip off, to report (to the media) | jebohada | 提報: offer + report; 제보자 = informant who contacts the press | 시민이 사고 영상을 방송국에 제보했어요. | A citizen sent footage of the accident to the TV station.
 - 인터뷰 | interview | inteobyu | 인터뷰하다 = to interview; 인터뷰에 응하다 = to agree to one | 그 배우는 인터뷰에서 새 영화 이야기를 했어요. | The actor talked about the new movie in the interview.
 - 시청자 | viewer, TV audience | sicheongja | 視聽: see + hear; 자 (者) = person. Listener only is 청취자 | 시청자들의 의견을 듣고 프로그램을 바꿨어요. | They changed the show after hearing viewers' opinions.
 - 시청하다 | to watch (TV) | sicheonghada | Formal for 보다 with TV; 시청해 주셔서 감사합니다 = thanks for watching | 요즘은 휴대폰으로 드라마를 시청하는 사람이 많아요. | These days many people watch dramas on their phones.
@@ -30,12 +30,12 @@ score_max: 300
 - 청취자 | listener | cheongchwija | 聽取: listen; for radio. Compare 시청자 (TV viewer) | 라디오 진행자가 청취자의 사연을 읽어 줬어요. | The radio host read a listener's story on air.
 - 독자 | reader | dokja | 讀者: read + person; 애독자 = devoted reader | 이 잡지는 젊은 독자들에게 인기가 많아요. | This magazine is very popular with young readers.
 - 구독 | subscription | gudok | 購讀: buy + read; now used for YouTube and streaming too | 신문 구독을 이번 달에 끊었어요. | I canceled my newspaper subscription this month.
-- 구독하다 | to subscribe to | gudokada | Pronounced 구도카다 — ㄱ and ㅎ merge into ㅋ | 좋아하는 유튜브 채널을 구독했어요. | I subscribed to my favorite YouTube channel.
+- 조회수 | view count, number of views | johoesu | Pronounced 조회쑤; 조회수가 오르다 = views go up | 제가 올린 영상의 조회수가 만 회를 넘었어요. | The video I uploaded passed ten thousand views.
 - 구독자 | subscriber | gudokja | 구독 + 자 (者, person); 구독자 수 = subscriber count | 그 채널은 구독자가 백만 명이 넘어요. | That channel has over a million subscribers.
 - 예능 | variety show, entertainment | yeneung | 藝能: arts + skill; short for 예능 프로그램 | 주말에는 가족과 예능을 보면서 웃어요. | On weekends I laugh watching variety shows with my family.
 - 다큐멘터리 | documentary | dakyumenteori | Often shortened to 다큐 in speech | 어젯밤에 바다에 관한 다큐멘터리를 봤어요. | Last night I watched a documentary about the ocean.
 - 홍보 | publicity, promotion | hongbo | 弘報: spread + news; 홍보 대사 = goodwill ambassador | 새 제품의 홍보를 위해 광고를 만들었어요. | They made an ad to promote the new product.
-- 홍보하다 | to promote, to publicize | hongbohada | Spreading word about something; 광고하다 = paid advertising | 학생들이 학교 축제를 SNS로 홍보했어요. | Students promoted the school festival on social media.
+- 방영하다 | to air, to broadcast (a show) | bangyeonghada | 放映: release + show; for TV programs. Passive 방영되다 | 그 드라마는 다음 달부터 주말마다 방영할 예정이에요. | That drama is set to air every weekend starting next month.
 - 매체 | medium, media outlet | maeche | 媒體: go-between + body; 대중 매체 = mass media | 요즘은 다양한 매체로 뉴스를 볼 수 있어요. | These days you can get news from many different outlets.
 - 대중 | the public, the masses | daejung | 大衆: great + crowd; 대중교통 = public transportation | 그 가수는 대중에게 사랑을 받고 있어요. | That singer is loved by the public.
 - 대중문화 | popular culture | daejungmunhwa | 대중 (public) + 문화 (culture); K-pop and dramas are examples | 한국 대중문화가 전 세계에서 인기를 끌고 있어요. | Korean pop culture is gaining popularity worldwide.
@@ -47,10 +47,10 @@ score_max: 300
 - 게시하다 | to post, to put up | gesihada | Takes 에: 게시판에 게시하다; formal — 올리다 in speech | 행사 일정을 홈페이지에 게시했어요. | We posted the event schedule on the website.
 - 게시물 | post (online) | gesimul | 게시 (posting) + 물 (物, thing); 게시물을 올리다 = to upload a post | 그 게시물은 하루 만에 삭제됐어요. | That post was deleted within a day.
 - 검색 | search | geomsaek | 檢索: examine + seek; 검색창 = search bar | 인터넷 검색으로 가까운 식당을 찾았어요. | I found a nearby restaurant with an internet search.
-- 검색하다 | to search (for) | geomsaekada | Pronounced 검새카다; object with 을/를: 정보를 검색하다 | 모르는 단어는 사전에서 검색해 보세요. | Look up words you don't know in the dictionary.
+- 자막 | subtitles, captions | jamak | 字幕: letter + screen; 한글 자막 = Korean subtitles | 자막 없이 한국 드라마를 보는 게 목표예요. | My goal is to watch Korean dramas without subtitles.
 - 검색어 | search term, keyword | geomsaegeo | 검색 + 어 (語, word); 실시간 검색어 = trending searches | 검색어를 정확하게 입력하면 결과가 더 좋아요. | Entering an exact search term gives better results.
 - 접속 | connection, access (online) | jeopsok | 接續: join + continue; 접속자 = user currently online | 사람이 많아서 사이트 접속이 안 돼요. | The site won't load because too many people are on it.
-- 접속하다 | to connect, to log on | jeopsokada | Takes 에: 인터넷에 접속하다; pronounced 접쏘카다 | 와이파이에 접속해야 영상을 볼 수 있어요. | You need to connect to Wi-Fi to watch the video.
+- 회원 가입 | membership sign-up, registration | hoewon gaip | 회원 (member) + 가입 (joining); 회원 가입하다 ↔ 탈퇴하다 | 회원 가입을 하면 할인 쿠폰을 받을 수 있어요. | If you sign up as a member, you can get a discount coupon.
 - 홈페이지 | website, homepage | hompeiji | Koreans say 홈페이지 for a whole website, not just the front page | 자세한 내용은 회사 홈페이지를 참고하세요. | See the company website for details.
 - 탈퇴하다 | to withdraw, to cancel membership | taltoehada | 脫退: leave + retreat; 회원 탈퇴 ↔ 회원 가입 (sign up) | 쓰지 않는 사이트에서 회원 탈퇴했어요. | I deleted my account on a site I don't use.
 - 로그인 | login | rogeuin | 로그인하다 ↔ 로그아웃하다; login fails = 로그인이 안 되다 | 로그인을 해야 댓글을 쓸 수 있어요. | You have to log in to write a comment.
@@ -68,7 +68,7 @@ score_max: 300
 - 첨부하다 | to attach (a file) | cheombuhada | 添附: add + attach; 첨부 파일 = attachment | 이메일에 이력서를 첨부해서 보냈어요. | I sent my résumé as an email attachment.
 - 전송하다 | to send, to transmit | jeonsonghada | 傳送: pass on + send; for data and messages, not packages | 사진을 친구 휴대폰으로 전송했어요. | I sent the photo to my friend's phone.
 - 공유 | sharing | gongyu | 共有: together + have; 공유 경제 = sharing economy | 이 파일은 팀원들과 공유가 가능해요. | This file can be shared with team members.
-- 공유하다 | to share | gongyuhada | Pattern: A와/과 B를 공유하다 = share B with A | 여행 사진을 가족과 공유했어요. | I shared my travel photos with my family.
+- 퍼뜨리다 | to spread (a rumor, news) | peotteurida | Often negative: 소문을 퍼뜨리다; passive-like 퍼지다 = to spread | 확인되지 않은 소문을 인터넷에 퍼뜨리면 안 돼요. | You shouldn't spread unconfirmed rumors online.
 - 클릭하다 | to click | keullikada | Pronounced 클리카다 — ㄱ and ㅎ merge into ㅋ | 아래 버튼을 클릭하면 신청할 수 있어요. | Click the button below to apply.
 - 동영상 | video (clip) | dongyeongsang | 動映像: moving image; short clips online. 영상 is broader | 강아지 동영상을 보면서 시간을 보냈어요. | I spent time watching puppy videos.
 - 영상 | video, footage | yeongsang | 映像: reflected image; 영상 통화 = video call | 결혼식 영상을 편집해서 선물했어요. | I edited the wedding footage and gave it as a gift.

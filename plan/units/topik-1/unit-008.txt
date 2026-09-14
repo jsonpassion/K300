@@ -8,7 +8,7 @@
 아니다 | anida
 보다 | boda
 듣다 | deutda
-말하다 | malhada
+고치다 | gochida
 알다 | alda
 모르다 | moreuda
 주다 | juda
@@ -55,7 +55,7 @@
 찾다 | chatda
 기다리다 | gidarida
 부르다 | bureuda
-노래하다 | noraehada
+어리다 | eorida
 춤추다 | chumchuda
 웃다 | utda
 울다 | ulda

@@ -21,7 +21,7 @@ score_max: 200
 - 고등학교 | high school | godeunghakgyo | 고등 (高等) = higher level; often shortened to 고교 in writing | 우리 고등학교는 집에서 가까워요. | My high school is close to my house.
 - 유치원 | kindergarten | yuchiwon | 幼稚園: 유치 (young child) + 원 (garden) | 아이가 아침마다 유치원 버스를 타요. | My child takes the kindergarten bus every morning.
 - 학원 | private academy, cram school | hagwon | Not 학교: after-school classes you pay for, e.g. 영어 학원 | 수업이 끝나고 영어 학원에 가요. | After class, I go to my English academy.
-- 교실 | classroom | gyosil | 교 (teach) + 실 (室, room); 실 also appears in 사무실, 미용실 | 교실에 학생이 스무 명 있어요. | There are twenty students in the classroom.
+- 교실 | classroom | gyosil | 교 (teach) + 실 (室, room); 실 also appears in 사무실, 미용실 | 수업이 끝나면 교실을 깨끗이 청소해요. | We clean the classroom after class is over.
 - 기숙사 | dormitory | gisuksa | 寄宿舍: 기숙 (boarding) + 사 (舍, house); 기숙사에서 살다 = live in a dorm | 저는 학교 기숙사에서 살아요. | I live in the school dormitory.
 - 도서관 | library | doseogwan | 도서 (books) + 관 (館, building); 관 marks public buildings | 시험이 있어서 도서관에서 공부해요. | I have an exam, so I'm studying at the library.
 - 회사 | company, office | hoesa | 회사에 다니다 = to work for a company; 회사원 = office worker | 아버지는 무역 회사에 다니세요. | My father works at a trading company.
@@ -102,7 +102,7 @@ score_max: 200
 - 여기 | here | yeogi | 여기 (near me) · 거기 (near you) · 저기 (over there) | 여기에 앉으세요. | Please sit here.
 - 거기 | there (near you) | geogi | Also points to a place already mentioned in talk | 거기에서 조금만 기다려 주세요. | Please wait there for a moment.
 - 저기 | over there | jeogi | Far from both people; 저기요 is also a way to call a server | 저기 보이는 건물이 병원이에요. | The building you see over there is the hospital.
-- 어디 | where | eodi | Question word: 어디에 가요? · 어디에 있어요? | 화장실이 어디에 있어요? | Where is the restroom?
+- 어디 | where | eodi | Question word: 어디에 가요? · 어디에 있어요? | 이번 주말에 어디에 가고 싶어요? | Where do you want to go this weekend?
 - 이쪽 | this way, this side | ijjok | Polite for "this person" too: 이쪽은 제 친구예요 = this is my friend | 이쪽으로 오세요. | Please come this way.
 - 그쪽 | that way (near you) | geujjok | Also "you" to a stranger (그쪽은요?) — can sound cold, so use with care | 제가 지금 그쪽으로 갈게요. | I'll head your way now.
 - 저쪽 | that way over there | jeojjok | Direction far from both: 저쪽으로 쭉 가세요 | 출구는 저쪽에 있어요. | The exit is over that way.

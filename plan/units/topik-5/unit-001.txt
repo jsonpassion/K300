@@ -11,8 +11,8 @@
 정체성 | jeongcheseong
 자긍심 | jageungsim
 주관 | jugwan
-인지하다 | injihada
-자각하다 | jagakada
+사고방식 | sagobangsik
+양심 | yangsim
 통찰 | tongchal
 통찰력 | tongchallyeok
 직관 | jikgwan
@@ -29,7 +29,7 @@
 편향되다 | pyeonhyangdoeda
 편협하다 | pyeonhyeopada
 포용 | poyong
-포용하다 | poyonghada
+자기중심적 | jagijungsimjeok
 관용 | gwanyong
 존엄성 | joneomseong
 보편적 | bopyeonjeok
@@ -60,7 +60,7 @@
 식견 | sikgyeon
 견문 | gyeonmun
 성찰 | seongchal
-성찰하다 | seongchalhada
+혜안 | hyean
 숙고하다 | sukgohada
 판단력 | pandannyeok
 분별력 | bunbyeollyeok

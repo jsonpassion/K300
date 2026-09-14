@@ -37,7 +37,7 @@ score_max: 300
 - 상반되다 | to be contrary, to conflict | sangbandoeda | 相反 = mutually opposite; 상반된 의견 (opposing views) | 이 문제에 대해 두 학자는 서로 상반된 견해를 보였다. | The two scholars showed conflicting views on this issue.
 - 일맥상통하다 | to have something in common | ilmaeksangtonghada | 一脈相通 = one vein runs through; takes 와/과 | 두 사상가의 주장은 여러 면에서 일맥상통한다. | The two thinkers' ideas are alike in many respects.
 - 일례로 | for example, as one case | illyero | 一例 (one example) + 로; a formal, written stand-in for 예를 들어 | 일례로 이 지역의 출생률은 10년 사이 절반으로 떨어졌다. | For example, the birth rate in this region fell by half in ten years.
-- 비유하다 | to compare figuratively | biyuhada | Pattern: A를 B에 비유하다 (compare A to B) | 시인은 인생을 끝없이 흐르는 강물에 비유하였다. | The poet compared life to an endlessly flowing river.
+- 첨삭하다 | to correct and edit (writing) | cheomsakada | 添削 = add + cut; 첨삭 지도 is teacher feedback on an essay | 선생님께서 제 논술 답안을 꼼꼼하게 첨삭해 주셨습니다. | My teacher carefully marked up and corrected my essay answer.
 - 주제문 | topic sentence | jujemun | Usually first or last in a 단락; 뒷받침 문장 supports it | 이 문단의 주제문은 마지막 문장에 제시되어 있다. | The topic sentence of this paragraph is given in the last sentence.
 - 글쓴이 | the writer, author | geulsseuni | Native word; 필자 is its formal Sino-Korean twin | 이 글에서 글쓴이가 말하고자 하는 바를 고르십시오. | Choose what the writer of this passage is trying to say.
 - 필자 | the writer, the author | pilja | 筆者 = brush + person; used about oneself in essays too | 필자는 이 정책이 장기적으로 효과가 없다고 본다. | The author believes this policy will be ineffective in the long run.

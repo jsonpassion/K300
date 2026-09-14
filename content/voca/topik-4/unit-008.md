@@ -34,19 +34,19 @@ score_max: 300
 - 내림세 | downward trend, fall | naerimse | Native 내리다 (go down) + 세; opposite of 오름세 | 금리 인하 이후 대출 이자가 내림세로 돌아섰습니다. | Loan interest rates started falling after the rate cut.
 - 반등 | rebound | bandeung | 反騰 = reverse + rise; 반등하다, 반등에 성공하다 | 하락하던 주가는 오후에 들어 반등에 성공했습니다. | The falling stock price managed to rebound in the afternoon.
 - 전환 | shift, conversion | jeonhwan | 轉換 = turn + exchange; 분위기 전환 = a change of mood | 정부는 친환경 에너지로의 전환을 서두르고 있습니다. | The government is speeding up the shift to clean energy.
-- 전환하다 | to switch, to convert | jeonhwanhada | Takes (으)로: 재택근무로 전환하다 = switch to remote work | 그 회사는 계약직 직원들을 정규직으로 전환했습니다. | The company converted its contract workers to permanent staff.
+- 뒤바뀌다 | to be reversed, to be switched around | dwibakkwida | 뒤 (back) + 바뀌다 (be changed); 순위가 뒤바뀌다 = the rankings flip | 불과 10년 만에 두 회사의 시장 순위가 완전히 뒤바뀌었습니다. | In just ten years, the two companies completely swapped places in the market.
 - 전환점 | turning point | jeonhwanjeom | 전환 + 점 (點, point); 전환점을 맞다 = to reach a turning point | 그 사건은 한국 민주주의 역사의 중요한 전환점이 되었습니다. | That event became a key turning point in Korea's democratic history.
 - 발달하다 | to develop, to advance | baldalhada | 發達: tech, body, transport; 발전하다 is broader (country, economy) | 교통이 발달하면서 지역 간 이동 시간이 크게 줄었습니다. | As transportation developed, travel time between regions fell greatly.
 - 퇴보 | regression, backsliding | toebo | 退步 = step back ↔ 진보 (progress) | 전문가들은 이번 결정이 인권의 퇴보라고 비판했습니다. | Experts criticized the decision as a step backward for human rights.
 - 성장 | growth | seongjang | 成長; 경제 성장, 성장률 (growth rate) | 올해 우리나라의 경제 성장률은 2%대로 예상됩니다. | This year Korea's economic growth rate is expected to be around 2%.
-- 성장하다 | to grow | seongjanghada | For people, companies, economies; for plants say 자라다 | 작은 가게로 시작한 회사가 세계적인 기업으로 성장했습니다. | A company that started as a small shop grew into a global firm.
+- 활성화 | revitalization, boost | hwalseonghwa | 活性化 = active + nature + become; 경기 활성화 = economic stimulus | 정부는 지역 경제 활성화를 위해 전통시장 지원을 늘렸습니다. | The government increased support for traditional markets to revive local economies.
 - 확대 | expansion, increase | hwakdae | 擴大 = widen + big ↔ 축소; 확대하다 (to expand) | 정부는 청년 일자리 지원 확대 방안을 발표했습니다. | The government announced plans to expand job support for young people.
 - 확대되다 | to be expanded, to widen | hwakdaedoeda | Passive of 확대하다; 격차가 확대되다 = the gap widens | 소득 격차가 확대되면서 사회적 갈등도 커지고 있습니다. | As the income gap widens, social conflict is growing too.
 - 축소 | reduction, downsizing | chukso | 縮小 = shrink + small ↔ 확대 | 예산 축소로 여러 문화 행사가 취소되었습니다. | Several cultural events were canceled because of budget cuts.
 - 축소되다 | to be reduced, to shrink | chuksodoeda | Passive -되다; 규모가 축소되다 = the scale is cut back | 경기 침체로 기업들의 채용 규모가 축소되었습니다. | Companies scaled back hiring because of the recession.
 - 회복되다 | to recover, to be restored | hoebokdoeda | 回復; health, economy, trust: 신뢰가 회복되다 | 관광객이 돌아오면서 지역 경제가 점차 회복되고 있습니다. | The local economy is gradually recovering as tourists return.
 - 변경 | change, alteration | byeongyeong | 變更: changing a plan, date or rule — not a social change (변화) | 일정 변경 사항은 홈페이지를 통해 안내해 드리겠습니다. | We will post any schedule changes on our website.
-- 변경하다 | to change, to modify | byeongyeonghada | Formal; everyday speech uses 바꾸다 | 회사는 고객 의견을 반영해 서비스 이용 방식을 변경했습니다. | The company changed how its service works based on customer feedback.
+- 개편 | reorganization, overhaul | gaepyeon | 改編 = reform + arrange; for systems and schedules: 조직 개편, 입시 개편 | 내년부터 대학 입시 제도가 대폭 개편될 예정입니다. | The college admissions system is set for a major overhaul next year.
 - 변형 | transformation, variation | byeonhyeong | 變形 = change + shape; 변형되다, 유전자 변형 = genetic modification | 전통 음식이 현대인의 입맛에 맞게 변형되기도 합니다. | Traditional dishes are sometimes adapted to modern tastes.
 - 변천 | transition, changes over time | byeoncheon | 變遷; used for long history: 변천 과정, 변천사 | 이 박물관은 한국 주거 문화의 변천 과정을 보여 줍니다. | This museum shows how Korean housing has changed over time.
 - 높아지다 | to rise, to become higher | nopajida | 높다 + -아지다 (become); 관심이 높아지다 = interest grows | 건강에 대한 관심이 높아지면서 운동하는 사람이 늘었습니다. | As interest in health rose, more people started exercising.
@@ -56,7 +56,7 @@ score_max: 300
 - 기성세대 | older generation, the establishment | giseongsedae | 旣成 = already formed + 세대; contrast with 신세대 / 젊은 세대 | 기성세대와 젊은 세대는 일에 대한 생각이 다릅니다. | The older and younger generations think differently about work.
 - 세대교체 | generational change | sedaegyoche | 세대 + 교체 (replacement); 세대교체가 이루어지다 | 이번 선거로 정치권에서 대대적인 세대교체가 이루어졌습니다. | This election brought a sweeping generational change in politics.
 - 전망 | outlook, prospect | jeonmang | 展望 = spread out + look; 전망이 밝다 / 어둡다 | 내년 경제 전망은 그리 밝지 않습니다. | The economic outlook for next year is not very bright.
-- 전망하다 | to forecast, to predict | jeonmanghada | News pattern: 전문가들은 ~(으)ㄹ 것으로 전망했다 | 전문가들은 집값이 당분간 안정될 것으로 전망했습니다. | Experts forecast that housing prices will stay stable for a while.
+- 격변 | upheaval, radical change | gyeokbyeon | 激變 = violent + change; stronger than 급변; 격변의 시대 = an age of upheaval | 20세기 한국 사회는 여러 차례 격변의 시기를 겪었습니다. | Korean society went through several periods of upheaval in the 20th century.
 - 예측하다 | to predict | yecheukada | 豫測 = before + measure; pronounced 예츠카다 | 날씨 변화를 정확하게 예측하기는 쉽지 않습니다. | It isn't easy to predict weather changes accurately.
 - 비중 | proportion, share | bijung | 比重 = relative weight; 비중이 크다 / 비중을 차지하다 | 전체 인구에서 노인이 차지하는 비중이 점점 커지고 있습니다. | The elderly make up a growing share of the population.
 - 지표 | indicator, index | jipyo | 指標 = point + mark; 경제 지표 = economic indicators | 소비 지표가 개선되면서 경기 회복에 대한 기대가 커졌습니다. | Better consumer spending figures raised hopes for a recovery.
@@ -87,7 +87,7 @@ score_max: 300
 - 열풍 | craze, boom | yeolpung | 熱風 = hot wind; 한류 열풍, 등산 열풍 | 해외에서 한국어 학습 열풍이 불고 있습니다. | A Korean-learning craze is sweeping overseas.
 - 신조어 | neologism, newly coined word | sinjoeo | 新造語 = new + made + word | 인터넷에서 만들어진 신조어가 방송에서도 자주 쓰입니다. | Words coined online are often used on TV as well.
 - 선호 | preference | seonho | 選好 = choose + like; 남아 선호 = preference for sons | 소형 아파트에 대한 선호가 뚜렷해지고 있습니다. | The preference for small apartments is becoming clear.
-- 선호하다 | to prefer | seonhohada | Takes 을/를: 대기업을 선호하다; formal for 더 좋아하다 | 요즘 소비자들은 친환경 제품을 선호합니다. | Consumers these days prefer eco-friendly products.
+- 판도 | landscape, balance of power | pando | 版圖 = territory map; 판도가 바뀌다 = the landscape shifts | 전기차의 등장으로 자동차 시장의 판도가 크게 달라졌습니다. | The arrival of electric cars has reshaped the auto market.
 - 선호도 | degree of preference, popularity | seonhodo | 선호 + 도 (度, degree); 선호도 조사 = preference survey | 조사 결과 대중교통에 대한 선호도가 크게 높아졌습니다. | The survey showed that preference for public transit rose sharply.
 - 생활양식 | lifestyle, way of life | saenghwallyangsik | Pronounced 생활량식 — ㄴ is added and becomes ㄹ | 도시화는 사람들의 생활양식을 크게 바꾸어 놓았습니다. | Urbanization greatly changed people's way of life.
 - 시대 | era, age, times | sidae | 時代; 시대에 뒤떨어지다 = to be behind the times | 지금은 누구나 콘텐츠를 만들 수 있는 시대입니다. | We now live in an age where anyone can create content.

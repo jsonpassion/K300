@@ -92,8 +92,8 @@
 임원 | imwon
 인재 | injae
 인력 | illyeok
-채용하다 | chaeyonghada
-승진하다 | seungjinhada
+외근 | oegeun
+휴무 | hyumu
 보람 | boram
 협업 | hyeobeop
 인턴 | inteon

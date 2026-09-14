@@ -8,7 +8,7 @@
 심심하다 | simsimhada
 지루하다 | jiruhada
 놀라다 | nollada
-걱정하다 | geokjeonghada
+불안하다 | buranhada
 걱정 | geokjeong
 걱정되다 | geokjeongdoeda
 긴장하다 | ginjanghada
@@ -23,7 +23,7 @@
 편안하다 | pyeonanhada
 신나다 | sinnada
 설레다 | seolleda
-감동하다 | gamdonghada
+뿌듯하다 | ppudeutada
 감동 | gamdong
 기대되다 | gidaedoeda
 실망하다 | silmanghada
@@ -75,7 +75,7 @@
 부담 | budam
 스트레스 | seuteureseu
 위로하다 | wirohada
-칭찬하다 | chingchanhada
+격려하다 | gyeongnyeohada
 칭찬 | chingchan
 후회하다 | huhoehada
 참다 | chamda
