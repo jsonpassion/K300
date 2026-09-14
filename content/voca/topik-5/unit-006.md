@@ -59,7 +59,7 @@ score_max: 300
 - 균등하다 | to be equal, even | gyundeunghada | 均等; 균등하게 나누다 = split evenly | 유산은 자녀들에게 균등하게 분배되었다. | The inheritance was distributed equally among the children.
 - 기회균등 | equal opportunity | gihoegyundeung | 기회 (opportunity) + 균등; equal chances, not equal results | 교육은 기회균등을 실현하는 가장 중요한 통로이다. | Education is the most important path to realizing equal opportunity.
 - 세습 | hereditary succession | seseup | 世襲 = passed down generations; 권력 세습, 부의 세습 | 부의 세습이 계층 이동을 가로막고 있다. | The inheritance of wealth is blocking social mobility.
-- 대물림 | passing down (to the next generation) | daemullim | Native word; often negative: 가난의 대물림 | 가난의 대물림을 끊으려면 교육 지원이 필수적이다. | Educational support is essential to stop poverty from being passed down through generations.
+- 대물림 | passing down (to the next generation) | daemullim | 대 (代, generation) + 물림 (handing down); often negative: 가난의 대물림 | 가난의 대물림을 끊으려면 교육 지원이 필수적이다. | Educational support is essential to stop poverty from being passed down through generations.
 - 불로소득 | unearned income | bullosodeuk | 불로 (不勞) = without labor; rent and speculative gains | 부동산 투기로 얻은 불로소득에 대한 과세를 강화해야 한다. | Taxes on unearned income from real estate speculation must be strengthened.
 - 지니 계수 | Gini coefficient | jini gyesu | 0 = perfect equality, 1 = total inequality | 지니 계수가 높아졌다는 것은 불평등이 심해졌다는 뜻이다. | A rise in the Gini coefficient means inequality has worsened.
 - 계층 이동 | social mobility | gyecheung idong | 계층 이동 사다리 (ladder) is a common metaphor in essays | 계층 이동의 사다리가 사라졌다는 청년들의 목소리가 크다. | Many young people say the ladder of social mobility has disappeared.
@@ -99,7 +99,7 @@ score_max: 300
 - 탈빈곤 | escaping poverty | talbingon | 탈 (脫) = escape from: 탈빈곤, 탈원전, 탈석탄 | 탈빈곤을 위해서는 일자리와 교육이 함께 제공되어야 한다. | To escape poverty, jobs and education must be provided together.
 - 외면하다 | to turn away from, ignore | oemyeonhada | Takes 을/를: 현실을 외면하다; a deliberate looking away | 우리는 이웃의 어려움을 외면해서는 안 된다. | We must not turn a blind eye to our neighbors' hardships.
 - 심화되다 | to deepen, intensify | simhwadoeda | 深化; for problems: 갈등이 심화되다, 양극화가 심화되다 | 코로나 이후 소득 불평등이 더욱 심화되었다. | Income inequality deepened further after COVID.
-- 고착화 | entrenchment | gochakwa | Pronounced 고차콰; 고착 (stuck fast) + 화 (-ization) | 저성장이 계속되면 불평등이 고착화될 우려가 있다. | If low growth continues, there is concern that inequality will become entrenched.
+- 고착화 | entrenchment | gochakhwa | Pronounced 고차콰; 고착 (stuck fast) + 화 (-ization) | 저성장이 계속되면 불평등이 고착화될 우려가 있다. | If low growth continues, there is concern that inequality will become entrenched.
 - 박탈하다 | to deprive, strip of | baktalhada | Pattern: A에게서 B를 박탈하다; 자격을 박탈하다 | 위원회는 약물 복용이 드러난 선수의 메달을 박탈했다. | The committee stripped the athlete of his medal after drug use came to light.
 - 빈곤율 | poverty rate | bingonyul | -율 after a vowel or ㄴ, -률 elsewhere: 빈곤율 vs 합격률 | 한국의 노인 빈곤율은 OECD 국가 중 가장 높은 편이다. | Korea's elderly poverty rate is among the highest in the OECD.
 - 사회 복지사 | social worker | sahoe bokjisa | -사 (士) = licensed professional, as in 변호사 | 사회 복지사가 독거노인의 집을 정기적으로 방문한다. | A social worker regularly visits the homes of seniors living alone.

@@ -59,7 +59,7 @@ score_max: 200
 - 거스름돈 | change | geoseureumdon | 거스르다 (to give back change) + 돈; 잔돈 in casual speech | 거스름돈은 괜찮아요. | Keep the change.
 - 환전 | currency exchange | hwanjeon | 換錢: exchange + money; 환전소 = exchange booth | 공항에서 환전이 가능해요. | You can exchange money at the airport.
 - 수표 | check, cheque | supyo | 手票: hand + slip; sign the back with 이서하다 before cashing | 이사 비용을 수표로 받았어요. | I got paid for the move by check.
-- 환율 | exchange rate | hwannyul | 換率: exchange + rate; -율/-률 = rate, as in 이자율 | 오늘 환율이 어떻게 돼요? | What's the exchange rate today?
+- 환율 | exchange rate | hwanyul | 換率: exchange + rate; -율/-률 = rate, as in 이자율 | 오늘 환율이 어떻게 돼요? | What's the exchange rate today?
 - 달러 | dollar | dalleo | Other currencies: 원 (won), 엔 (yen), 위안 (yuan), 유로 (euro) | 100달러를 원으로 바꾸고 싶어요. | I'd like to change 100 dollars into won.
 - 송금 | money transfer, remittance | songgeum | 送金: send + money; 해외 송금 = sending money abroad | 해외 송금은 수수료가 비싸요. | Sending money abroad has high fees.
 - 모바일뱅킹 | mobile banking | mobailbaengking | Loanword; done in a bank app — 은행 앱으로 모바일뱅킹을 하다 | 요즘은 은행에 안 가고 모바일뱅킹을 써요. | These days I use mobile banking instead of going to the bank.

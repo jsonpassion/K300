@@ -104,7 +104,7 @@ score_max: 300
 - 공염불 | empty words | gongyeombul | 空念佛 = hollow chanting; 공염불에 그치다 | 예산이 뒷받침되지 않으면 공약은 공염불에 그칠 것이다. | Without a budget to back it, the pledge will remain empty talk.
 - 만시지탄 | regret of being too late | mansijitan | 晩時之歎: a sigh that it came too late; used with 감이 있다 | 이제야 대책이 나온 것은 만시지탄의 감이 있다. | That measures are only now being announced is a case of too little, too late.
 - 통감하다 | to keenly feel | tonggamhada | 痛感: 책임을 통감하다 — standard in apologies | 장관은 사태에 대한 책임을 통감한다며 사퇴했다. | The minister resigned, saying he keenly felt responsible for the situation.
-- 흠집내기 | smearing | heumjimnaegi | 흠집 (scratch) + 내기; pronounced 흠짐내기 — ㅂ becomes ㅁ before ㄴ | 근거 없는 흠집내기는 선거 문화를 병들게 한다. | Baseless smear campaigns poison election culture.
+- 흠집내기 | smearing | heumjimnaegi | 흠집 (scratch) + 내기; pronounced 흠찜내기 — ㅂ becomes ㅁ before ㄴ | 근거 없는 흠집내기는 선거 문화를 병들게 한다. | Baseless smear campaigns poison election culture.
 - 말바꾸기 | flip-flopping | malbakkugi | Native twin of 식언/번복; 말바꾸기 논란 | 후보의 잦은 말바꾸기가 신뢰를 떨어뜨렸다. | The candidate's frequent flip-flopping eroded trust.
 - 언어도단 | beyond words, absurd | eoneododan | 言語道斷: road of speech cut off; 언어도단이다 = outrageous | 피해자에게 책임을 묻는 것은 언어도단이다. | Blaming the victims is utterly outrageous.
 - 표리부동 | duplicity, being two-faced | pyoribudong | 表裏不同: outside ≠ inside; opposite 표리일체 | 겉으로는 개혁을 외치면서 뒤로는 반대하는 것은 표리부동이다. | Calling for reform in public while opposing it behind the scenes is two-faced.

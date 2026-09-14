@@ -69,7 +69,7 @@ score_max: 200
 - 찾다 | to look for, to find | chatda | Also to withdraw money: 돈을 찾다 | 잃어버린 지갑을 찾고 있어요. | I'm looking for the wallet I lost.
 - 기다리다 | to wait | gidarida | Takes 을/를: 친구를 기다리다 (no "for" particle) | 여기에서 잠깐만 기다려 주세요. | Please wait here for a moment.
 - 부르다 | to call, to sing | bureuda | 르 irregular: 부르다 → 불러요; 노래를 부르다 = sing a song | 노래방에서 친구들과 노래를 부르고 놀았어요. | I sang songs and hung out with friends at a karaoke room.
-- 어리다 | to be young, to be little | eorida | For children: 어린 아이; young adults are 젊다 | 제 동생은 아직 어려서 학교에 안 다녀요. | My little brother is still too young to go to school.
+- 어리다 | to be young, to be little | eorida | For children: 어린아이; young adults are 젊다 | 제 동생은 아직 어려서 학교에 안 다녀요. | My little brother is still too young to go to school.
 - 춤추다 | to dance | chumchuda | 춤 (a dance) + 추다; also 춤을 추다 | 파티에서 친구들과 같이 춤췄어요. | I danced with my friends at the party.
 - 웃다 | to laugh, to smile | utda | Regular verb: 웃어요, not 우어요 | 아기가 엄마를 보고 웃었어요. | The baby smiled when it saw its mom.
 - 울다 | to cry | ulda | 웃다 (laugh) ↔ 울다 (cry); ㄹ drops in 우는 | 슬픈 영화를 보고 많이 울었어요. | I cried a lot watching a sad movie.

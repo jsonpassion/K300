@@ -34,7 +34,7 @@ score_max: 300
 - 충전 | charging, top-up | chungjeon | 充電 = fill + electricity; 충전기 (charger), 교통카드 충전 (card top-up) | 전기차 충전소가 부족하다는 지적이 계속 나오고 있습니다. | Critics keep pointing out that there aren't enough EV charging stations.
 - 신재생에너지 | renewable energy | sinjaesaengeneoji | 신 (new) + 재생 (renewable) + 에너지; solar, wind, etc. | 정부는 신재생에너지 비중을 2030년까지 두 배로 늘릴 계획입니다. | The government plans to double the share of renewable energy by 2030.
 - 발전소 | power plant | baljeonso | 發電 = generate electricity + 所 (place); not 發展 (growth) | 원자력 발전소 건설을 두고 주민들의 반대가 거셉니다. | Residents strongly oppose building the nuclear power plant.
-- 화석연료 | fossil fuel | hwaseogyeollyo | 화석 (fossil) + 연료 (fuel); 화석연료 ↔ 신재생에너지 | 화석연료 사용을 줄이는 것이 기후 위기 대응의 핵심입니다. | Cutting fossil fuel use is key to responding to the climate crisis.
+- 화석연료 | fossil fuel | hwaseongnyeollyo | 화석 (fossil) + 연료 (fuel); 화석연료 ↔ 신재생에너지 | 화석연료 사용을 줄이는 것이 기후 위기 대응의 핵심입니다. | Cutting fossil fuel use is key to responding to the climate crisis.
 - 우주 | space, universe | uju | 우주 비행사 (astronaut), 우주 산업 (space industry) | 민간 기업들도 우주 개발 경쟁에 뛰어들고 있습니다. | Private companies are also jumping into the space race.
 - 인공위성 | artificial satellite | ingongwiseong | 인공 (man-made) + 위성 (satellite); 위성 alone also works | 기상청은 인공위성 사진을 통해 태풍의 경로를 예측합니다. | The weather agency predicts typhoon paths using satellite images.
 - 발사 | launch, firing | balsa | 發射: 발사하다 (launch), 발사되다 (be launched) | 기상 악화로 로켓 발사가 다음 주로 연기되었습니다. | The rocket launch was postponed to next week due to bad weather.

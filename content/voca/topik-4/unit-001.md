@@ -49,7 +49,7 @@ score_max: 300
 - 복지 | welfare | bokji | 福祉; 복지 국가 = welfare state, 복지 혜택 = benefits | 노인 복지를 위한 예산이 해마다 늘어나고 있습니다. | The budget for senior welfare grows every year.
 - 위원회 | committee, commission | wiwonhoe | 위원 (member) + 회 (body); 위원회를 구성하다 | 정부는 전문가들로 구성된 위원회를 새로 만들었습니다. | The government set up a new committee made up of experts.
 - 위원장 | chairperson (of a committee) | wiwonjang | 장 (長) = head, as in 회장, 사장 | 위원장은 회의를 시작하며 안건을 소개했습니다. | The chair opened the meeting and introduced the agenda.
-- 의회 | parliament, legislature | uihoe | General term; Korea's own is called 국회, others' 의회 | 유럽 의회는 환경 규제를 강화하는 법을 통과시켰습니다. | The European Parliament passed a law tightening environmental rules.
+- 의회 | parliament, legislature | uihoe | General term; Korea's national parliament is 국회, but local councils are 의회 (시의회, 도의회) | 유럽 의회는 환경 규제를 강화하는 법을 통과시켰습니다. | The European Parliament passed a law tightening environmental rules.
 - 지방자치 | local self-government, local autonomy | jibangjachi | 지방 (local) + 자치 (self-rule); 지방자치제 = the system | 지방자치가 발전하면서 지역의 결정권이 커졌습니다. | As local autonomy developed, regions gained more decision-making power.
 - 민주주의 | democracy | minjujuui | 민주 (people rule) + 주의 (-ism); the 의 is said 이 | 선거는 민주주의를 지탱하는 가장 중요한 제도입니다. | Elections are the most important institution supporting democracy.
 - 공화국 | republic | gonghwaguk | 共和國 = together + harmony; 공화당 = Republican Party | 그 나라는 왕정을 폐지하고 공화국이 되었습니다. | That country abolished the monarchy and became a republic.

@@ -84,7 +84,7 @@ score_max: 200
 - 행복 | happiness | haengbok | 幸福. Adjective: 행복하다. Wish: 행복하세요! | 가족과 함께하는 시간이 가장 큰 행복이에요. | Time with my family is my greatest happiness.
 - 슬픔 | sadness, sorrow | seulpeum | 슬프다 → 슬픔 (drop 으, add 음). 기쁨 ↔ 슬픔 | 친구를 잃은 슬픔이 오래갔어요. | The sadness of losing my friend lasted a long time.
 - 기쁨 | joy, happiness | gippeum | 기쁘다 → 기쁨. Paired phrase: 기쁨과 슬픔 (joys and sorrows) | 합격 소식을 듣고 기쁨의 눈물을 흘렸어요. | I cried tears of joy when I heard I'd passed.
-- 즐거움 | pleasure, fun | jeulgeoum | Noun of 즐겁다: the ㅂ turns into 우, then add 음 | 여행의 즐거움은 새로운 음식을 먹는 거예요. | The fun of traveling is eating new food.
+- 즐거움 | pleasure, fun | jeulgeoum | Noun of 즐겁다: the ㅂ turns into 우, then add -ㅁ (즐거우 + ㅁ) | 여행의 즐거움은 새로운 음식을 먹는 거예요. | The fun of traveling is eating new food.
 - 외로움 | loneliness | oeroum | 외롭다 → 외로움. 외로움을 타다 = to get lonely easily | 혼자 살면서 외로움을 많이 느꼈어요. | I felt very lonely while living alone.
 - 부담 | burden, pressure | budam | 負擔. 부담이 되다 (feel pressure); 부담 갖지 마세요 = no pressure | 비싼 선물은 저한테 부담이 돼요. | Expensive gifts feel like a burden to me.
 - 스트레스 | stress | seuteureseu | 스트레스를 받다 (get stressed) / 스트레스를 풀다 (relieve it) | 저는 운동으로 스트레스를 풀어요. | I relieve stress by working out.

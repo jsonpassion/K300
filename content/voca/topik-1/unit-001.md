@@ -69,7 +69,7 @@ score_max: 200
 - 선생님 | teacher | seonsaengnim | Also a polite title for doctors and professionals | 선생님께 질문했어요. | I asked the teacher a question.
 - 학생 | student | haksaeng | 學生: learn + life; add a school: 대학생, 중학생 | 교실에 학생이 스무 명 있어요. | There are twenty students in the classroom.
 - 대학생 | college student | daehaksaeng | 대학 (university) + 생 (student) | 대학생이 되면 혼자 살고 싶어요. | I want to live on my own when I start college.
-- 고등학생 | high school student | godeunghaksaeng | 고등학교 (high school) + 생; shortened to 고딩 in slang | 제 동생은 고등학생이에요. | My younger sibling is in high school.
+- 고등학생 | high school student | godeunghaksaeng | 고등 (high) + 학생 (student); shortened to 고딩 in slang | 제 동생은 고등학생이에요. | My younger sibling is in high school.
 - 중학생 | middle school student | junghaksaeng | 중학교 (middle school) + 생 | 중학생들이 버스를 기다려요. | Middle school students are waiting for the bus.
 - 초등학생 | elementary school student | chodeunghaksaeng | 초등학교 (elementary school) + 생 | 여동생은 초등학생이에요. | My younger sister is in elementary school.
 - 회사원 | office worker | hoesawon | 회사 (company) + 원 (member) | 저는 회사원이에요. | I'm an office worker.
@@ -84,7 +84,7 @@ score_max: 200
 - 나라 | country | nara | Native word; 국 (國) is the Hanja ending: 한국, 미국 | 어느 나라에서 왔어요? | Which country are you from?
 - 한국 | Korea | hanguk | 韓國; 한국 + 어 = Korean language, + 사람 = Korean person | 한국에 처음 왔어요. | This is my first time in Korea.
 - 한국 사람 | Korean (person) | hanguk saram | Country + 사람 makes a nationality: 미국 사람, 일본 사람 | 제 친구는 한국 사람이에요. | My friend is Korean.
-- 미국 | United States, America | miguk | 美國: "beautiful country"; American = 미국 사람 | 미국에서 왔어요. | I'm from the United States.
+- 미국 | United States, America | miguk | 美國: 美 is a sound-based rendering of "America", not a description; American = 미국 사람 | 미국에서 왔어요. | I'm from the United States.
 - 중국 | China | jungguk | 中國: "middle country"; Chinese language = 중국어 | 중국 음식을 좋아해요. | I like Chinese food.
 - 일본 | Japan | ilbon | 日本: "origin of the sun"; Japanese language = 일본어 | 일본에 여행 갔어요. | I took a trip to Japan.
 - 영국 | United Kingdom, England | yeongguk | 英國; English language is 영어 | 영국은 비가 자주 와요. | It rains often in the UK.

@@ -79,7 +79,7 @@ score_max: 300
 - 솜방망이 | slap on the wrist | sombangmangi | Lit. a cotton club; 솜방망이 처벌 = too-light punishment | 음주 운전에 대한 솜방망이 처벌이 사고를 키운다는 지적이 많습니다. | Many say light sentences for drunk driving lead to more accidents.
 - 감면 | reduction or exemption (tax, fees) | gammyeon | 감 (減 cut) + 면 (免 exempt); 세금 감면 | 저소득층은 건강보험료 감면 혜택을 받을 수 있습니다. | Low-income households can get health insurance premium reductions.
 - 면제하다 | to exempt | myeonjehada | Passive 면제되다 / 면제를 받다; 병역 면제 = military exemption | 정부는 피해 지역 주민들의 세금을 면제해 주기로 했습니다. | The government decided to exempt residents of the disaster area from taxes.
-- 특례 | special exception | teungnye | Pronounced 퉁녜 — ㄱ nasalizes and ㄹ becomes ㄴ | 이 법에는 중소기업을 위한 세제 특례가 포함되어 있습니다. | This law includes special tax exceptions for small businesses.
+- 특례 | special exception | teungnye | Pronounced 틍녜 — ㄹ becomes ㄴ, then ㄱ nasalizes to ㅇ | 이 법에는 중소기업을 위한 세제 특례가 포함되어 있습니다. | This law includes special tax exceptions for small businesses.
 - 사각지대 | blind spot, gap in coverage | sagakjidae | 死角 (blind angle) + 지대 (zone); 복지 사각지대 | 정부는 복지 사각지대에 놓인 가구를 찾아 나섰습니다. | The government set out to find households slipping through the welfare net.
 - 악용하다 | to abuse, to exploit | agyonghada | 악 (惡 bad) + 용 (use) ↔ 선용; 제도를 악용하다 | 일부 업체가 정부 지원금 제도를 악용해 문제가 되었습니다. | Some companies caused a stir by exploiting the government subsidy program.
 - 남용 | misuse, overuse | namyong | 濫用: overflow + use; 권력 남용, 약물 남용 | 항생제 남용은 내성균을 만들어 낼 수 있습니다. | Overuse of antibiotics can create resistant bacteria.

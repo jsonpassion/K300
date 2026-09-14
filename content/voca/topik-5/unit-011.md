@@ -39,7 +39,7 @@ score_max: 300
 - 언뜻 | briefly, fleetingly | eontteut | Like 얼핏; also for a thought flashing by: 언뜻 떠오르다 | 언뜻 떠오른 생각을 수첩에 적어 두었습니다. | I jotted down the idea that had flashed through my mind.
 - 대략 | roughly, approximately | daeryak | 大略: before numbers; formal like 약, while 한 is the casual choice | 행사에는 대략 500명의 시민이 참석했습니다. | Roughly 500 citizens attended the event.
 - 어림잡다 | to estimate roughly | eorimjapda | 어림 (rough guess) + 잡다; common as 어림잡아 + number | 피해액은 어림잡아 10억 원에 이르는 것으로 보입니다. | The damage appears to reach roughly one billion won.
-- 다분히 | considerably, largely | dabunhi | 多分: with 의도적, 주관적, 가능성: 다분히 의도적이다 | 그 발언은 다분히 정치적인 의도가 담겨 있었습니다. | That remark had a strongly political intent behind it.
+- 다분히 | considerably, largely | dabunhi | 多分: with 의도적, 주관적, 가능성: 다분히 의도적이다 | 그 발언에는 다분히 정치적인 의도가 담겨 있었습니다. | That remark had a strongly political intent behind it.
 - 자못 | quite, rather | jamot | Literary; often with feelings: 자못 진지하다, 자못 궁금하다 | 결과를 기다리는 선수들의 표정이 자못 진지했습니다. | The athletes waiting for the results looked rather serious.
 - 사뭇 | quite, strikingly | samut | Loves 다르다: 사뭇 다르다 (strikingly different) | 두 도시의 분위기는 사뭇 달랐습니다. | The atmospheres of the two cities were strikingly different.
 - 전반적 | overall, general | jeonbanjeok | 全般 ↔ 부분적; 전반적으로 = on the whole | 경기가 전반적으로 회복세를 보이고 있습니다. | The economy is showing an overall recovery.

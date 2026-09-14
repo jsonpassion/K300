@@ -84,7 +84,7 @@ score_max: 300
 - 발목을 잡다 | to hold someone back, be a drag on | balmogeul japda | Grabbing the ankle; 발목을 잡히다 = to be held back | 높은 물가가 경기 회복의 발목을 잡고 있다. | High prices are holding back the economic recovery.
 - 바가지를 긁다 | to nag (esp. a spouse) | bagajireul geukda | 바가지 = gourd bowl; scraping it makes a grating noise | 아내가 늦게 들어온다고 바가지를 긁을 때마다 그는 미안해했다. | Whenever his wife nagged him about coming home late, he felt sorry.
 - 시치미를 떼다 | to play dumb, feign ignorance | sichimireul tteda | 시치미 = a hawk's name tag; removing it hides ownership | 그는 꽃병을 깨 놓고도 모르는 척 시치미를 떼었다. | He broke the vase yet played innocent as if he knew nothing.
-- 오지랖이 넓다 | to be nosy, meddle in others' affairs | ojirapi neopda | 오지랖 = front flap of a coat; also kindly overinvolved | 그녀는 오지랖이 넓어서 이웃의 일에 늘 참견한다. | She's so nosy that she always meddles in her neighbors' business.
+- 오지랖이 넓다 | to be nosy, meddle in others' affairs | ojirapi neolda | 오지랖 = front flap of a coat; also kindly overinvolved | 그녀는 오지랖이 넓어서 이웃의 일에 늘 참견한다. | She's so nosy that she always meddles in her neighbors' business.
 - 코가 납작해지다 | to be humbled, have one's pride hurt | koga napjakaejida | Nose goes flat; 코를 납작하게 만들다 = to humble someone | 자신만만하던 그는 신인에게 져서 코가 납작해졌다. | The overconfident man was humbled after losing to a newcomer.
 - 한술 더 뜨다 | to go even further, one-up | hansul deo tteuda | 한술 = one spoonful; usually for making things worse | 사과는커녕 한술 더 떠서 오히려 화를 냈다. | Far from apologizing, he went one step further and got angry.
 - 가슴에 못을 박다 | to wound deeply, cause lasting heartache | gaseume moseul bakda | Driving a nail into the chest; often 가슴에 못을 박는 말 | 부모의 가슴에 못을 박는 말은 쉽게 잊히지 않는다. | Words that deeply wound one's parents are not easily forgotten.

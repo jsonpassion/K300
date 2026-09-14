@@ -74,7 +74,7 @@ score_max: 300
 - 훼손하다 | to damage, to tarnish | hwesonhada | 毁損 (ruin + harm); objects: 명예를, 자연을, 문화재를 훼손하다 | 무분별한 개발이 자연 경관을 훼손하고 있습니다. | Reckless development is spoiling the natural landscape.
 - 손상시키다 | to damage, to impair | sonsangsikida | 損傷: physical harm, or 신뢰, 이미지를 손상시키다 | 강한 자외선은 피부 세포를 손상시킬 수 있습니다. | Strong UV rays can damage skin cells.
 - 불러오다 | to bring about, to lead to | bulleooda | Lit. call in; neutral-to-vivid: 논란을, 변화를 불러오다 | 작은 규정 변화가 큰 논란을 불러왔습니다. | A small rule change led to a big controversy.
-- 자아내다 | to evoke, to arouse | jaanaeda | Feelings only: 웃음을, 감동을, 눈물을 자아내다 | 그 영화의 결말은 관객들의 눈물을 자아냈습니다. | The film's ending moved the audience to tears.
+- 자아내다 | to evoke, to arouse | jaanaeda | Lit. to spin thread; figuratively takes reactions and moods: 웃음을, 눈물을, 호기심을, 분위기를 자아내다 | 그 영화의 결말은 관객들의 눈물을 자아냈습니다. | The film's ending moved the audience to tears.
 - 끌어내다 | to draw out, to elicit | kkeureonaeda | One word; 이끌어 내다 stresses guiding toward a result | 좋은 교사는 학생의 잠재력을 끌어냅니다. | A good teacher draws out a student's potential.
 - 빌미 | pretext, cause (of trouble) | bilmi | ~을 빌미로 = using it as an excuse; negative tone | 그들은 안전 문제를 빌미로 공사를 중단시켰습니다. | They halted construction, using safety as a pretext.
 - 원동력 | driving force | wondongnyeok | 原動力; pronounced 원동녁 | 끊임없는 혁신이 이 회사의 성장 원동력입니다. | Constant innovation is what drives this company's growth.

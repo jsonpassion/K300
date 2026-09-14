@@ -69,7 +69,7 @@ score_max: 200
 - 콜라 | cola, Coke | kolla | Loanword; 제로 콜라 = zero-sugar cola | 피자하고 콜라를 시켰어요. | I ordered pizza and a Coke.
 - 음료수 | beverage, soft drink | eumnyosu | Pronounced 음뇨수 — ㄹ after ㅁ becomes ㄴ | 음료수는 뭘로 드릴까요? | What would you like to drink?
 - 맥주 | beer | maekju | 맥 (麥) = barley + 주 (酒) = alcohol; 치맥 = chicken + beer | 저녁에 친구와 맥주를 마셨어요. | I had beer with a friend in the evening.
-- 술 | alcohol, liquor | sul | Counts drinks with 잔: 술 한 잔 하자 | 저는 술을 못 마셔요. | I can't drink alcohol.
+- 술 | alcohol, liquor | sul | Counts drinks with 잔: 술 한 잔 = one drink | 저는 술을 못 마셔요. | I can't drink alcohol.
 - 소주 | soju | soju | Pour for elders with two hands and turn away to drink | 삼겹살에 소주를 한 잔 했어요. | I had a glass of soju with pork belly.
 - 케이크 | cake | keikeu | Loanword; 생일 케이크 = birthday cake | 생일에 케이크를 먹어요. | I eat cake on my birthday.
 - 과자 | snack, cookie | gwaja | 과자 is packaged snacks; 간식 is any snack between meals | 아이들이 과자를 좋아해요. | Kids love snacks.

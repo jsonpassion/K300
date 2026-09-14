@@ -89,7 +89,7 @@ score_max: 300
 - 붓 | brush | but | Counted with 자루; 붓글씨 = brush writing | 붓으로 이름을 쓰는 것이 생각보다 어려웠어요. | Writing my name with a brush was harder than I expected.
 - 한지 | traditional Korean paper | hanji | 韓紙; made from mulberry bark (닥나무), very durable | 한지로 만든 등이 아주 아름다워요. | The lanterns made of hanji are really beautiful.
 - 장식 | decoration | jangsik | 裝飾; 장식하다 = to decorate; 장식품 = ornament | 설날이라서 집을 전통 장식으로 꾸몄어요. | We decorated the house with traditional ornaments for New Year's.
-- 무늬 | pattern, design | muni | Pronounced 무니; 꽃무늬 = floral print | 이 그릇에는 꽃무늬가 그려져 있어요. | This bowl has a flower pattern painted on it.
+- 무늬 | pattern, design | munui | Pronounced 무니; 꽃무늬 = floral print | 이 그릇에는 꽃무늬가 그려져 있어요. | This bowl has a flower pattern painted on it.
 - 색동 | rainbow-striped fabric | saekdong | Stripes on children's hanbok sleeves; 색동저고리 | 아이가 색동 한복을 입고 세배했어요. | The child bowed in a rainbow-striped hanbok.
 - 무대 | stage | mudae | 舞臺: dance + platform; 무대에 서다 = to go on stage | 처음 무대에 섰을 때 너무 떨렸어요. | I was so nervous the first time I stood on stage.
 - 공연장 | concert hall, venue | gongyeonjang | 공연 (performance) + 장 (場, place) | 공연장 앞에 사람들이 줄을 서 있었어요. | People were lined up in front of the venue.

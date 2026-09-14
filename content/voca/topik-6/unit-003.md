@@ -49,7 +49,7 @@ score_max: 300
 - 죄형법정주의 | principle of legality (no crime without law) | joehyeongbeopjeongjuui | Crimes and penalties must be set by statute in advance | 죄형법정주의에 따라 법에 없는 행위는 처벌할 수 없다. | Under the principle of legality, acts not defined by law cannot be punished.
 - 소급 | retroactivity | sogeup | 소 (遡) = go back; 소급 적용하다, 소급 입법 | 형벌 법규는 원칙적으로 소급하여 적용할 수 없다. | Criminal laws, in principle, cannot be applied retroactively.
 - 법리 | legal principle, legal reasoning | beomni | Pronounced 범니; 법리를 오해하다 appears in appellate rulings | 대법원은 원심이 법리를 오해했다고 지적했다. | The Supreme Court held that the lower court had misapplied the law.
-- 입법 | legislation | ibeop | Three branches: 입법 (legislative) · 행정 (executive) · 사법 (judicial) | 국회는 피해자 보호를 위한 입법을 서두르고 있다. | The National Assembly is rushing legislation to protect victims.
+- 입법 | legislation | ipbeop | Three branches: 입법 (legislative) · 행정 (executive) · 사법 (judicial) | 국회는 피해자 보호를 위한 입법을 서두르고 있다. | The National Assembly is rushing legislation to protect victims.
 - 행정소송 | administrative litigation | haengjeongsosong | A suit against a government body: 행정소송을 제기하다 | 영업정지 처분에 반발한 업체가 행정소송을 냈다. | A business protesting its suspension order filed an administrative suit.
 - 위자료 | damages for emotional distress | wijaryo | 위자 (慰藉) = consolation + 료 (fee); common in divorce cases | 법원은 피해자에게 위자료 3천만 원을 지급하라고 판결했다. | The court ordered that the victim be paid 30 million won in damages.
 - 채권 | monetary claim, bond | chaegwon | 채권 (creditor's right) ↔ 채무 (debtor's duty) | 그는 회사에 대한 채권을 회수하지 못했다. | He was unable to recover the money the company owed him.

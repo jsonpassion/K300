@@ -104,7 +104,7 @@ score_max: 300
 - 문항 | test item, question | munhang | 問項; counts exam questions: 50문항 · formal vs 문제 | 이 시험은 모두 40문항이에요. | This test has 40 questions in total.
 - 객관식 | multiple choice | gaekgwansik | 客觀 (objective) + 式 (format) ↔ 주관식 | 객관식 문제는 비교적 쉬웠어요. | The multiple-choice questions were fairly easy.
 - 주관식 | short answer, open-ended | jugwansik | 主觀 (subjective) + 式 ↔ 객관식 | 주관식 문제에서 점수를 많이 잃었어요. | I lost a lot of points on the short-answer questions.
-- 서술형 | essay-type question | seosulhyeong | 敍述 (describe) + 型 (type); longer than 주관식 short answers | 서술형 문제는 시간이 오래 걸려요. | Essay questions take a long time.
+- 서술형 | essay-type question | seosulhyeong | 敍述 (describe) + 型 (type); a written 주관식 answer, longer than 단답형 short answers | 서술형 문제는 시간이 오래 걸려요. | Essay questions take a long time.
 - 적성 | aptitude | jeokseong | 適性: suitable nature; 적성에 맞다 = to suit one's aptitude | 이 일이 제 적성에 잘 맞아요. | This job is a really good fit for me.
 - 진학 | going on to higher education | jinhak | 進學: advance + school; takes 에: 대학원에 진학하다 | 고등학교 졸업 후 대학에 진학했어요. | After high school, I went on to college.
 - 재능 | talent | jaeneung | 才能; 재능이 있다 · 재능을 살리다 (make use of a talent) | 동생은 음악에 재능이 있어요. | My younger sibling has a talent for music.
