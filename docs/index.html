@@ -71,9 +71,11 @@
 
   <div class="hero-visual" data-reveal="zoom">
   <div class="glow" aria-hidden="true"></div>
-  <div class="reel reel-slot" aria-hidden="true">
-    <!-- onboarding footage slot: replace with <video> once assets/video/onboarding-loop.mp4 exists -->
-    <div class="slot-card"><b>300</b><span class="slot-eyes"><i></i><i></i></span></div>
+  <div class="reel" aria-hidden="false">
+    <video autoplay muted loop playsinline preload="metadata" poster="assets/video/onboarding-loop.jpg"
+           aria-label="Blanking on yesterday's Korean words, reviewing them card by card in rounds, then smiling when they finally stick">
+      <source src="assets/video/onboarding-loop.mp4" type="video/mp4" />
+    </video>
   </div>
   <div class="phone" aria-hidden="true">
     <div class="notch"></div>
@@ -102,8 +104,9 @@
 
 <!-- ======================= STATEMENT BAND 1 ======================= -->
 <section class="cinema" id="film" aria-label="Rounds">
-  <!-- wide film slot: replace with <video> once assets/video/hero-fan.mp4 exists -->
-  <div class="cinema-art" aria-hidden="true"></div>
+  <video autoplay muted loop playsinline preload="metadata" poster="assets/video/hero-fan.jpg">
+    <source src="assets/video/hero-fan.mp4" type="video/mp4" />
+  </video>
   <div class="scrim"></div>
   <div class="cinema-inner">
     <div class="cinema-copy">
